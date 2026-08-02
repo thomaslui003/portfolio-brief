@@ -6,6 +6,7 @@ const SHORT: Record<string, string> = {
   "portfolio health (quant lens)": "Health",
   "leading indicators (book map)": "KPIs",
   "what needs attention today": "Attention",
+  "position ratings (dual lens)": "Ratings",
   "position notes (fundamental lens)": "Positions",
   "portfolio recommendation (book-level)": "Book stance",
   "ranked suggestions (max 3)": "Suggestions",

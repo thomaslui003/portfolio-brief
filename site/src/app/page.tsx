@@ -2,9 +2,11 @@ import type { Metadata } from "next";
 import { BookStanceCard } from "@/components/BookStanceCard";
 import { BriefToc } from "@/components/BriefToc";
 import { MarkdownBody } from "@/components/MarkdownBody";
+import { PositionRatingsCard } from "@/components/PositionRatingsCard";
 import { SectorRotationChart } from "@/components/SectorRotationChart";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getLatestBrief } from "@/lib/briefs";
+import { slugify } from "@/lib/slugify";
 
 export const metadata: Metadata = {
   title: "Latest",
@@ -12,6 +14,7 @@ export const metadata: Metadata = {
 
 export default function HomePage() {
   const brief = getLatestBrief();
+  const ratingsId = slugify("Position ratings (dual lens)");
 
   return (
     <>
@@ -22,12 +25,20 @@ export default function HomePage() {
           <h1>{brief?.title ?? "Portfolio brief"}</h1>
           <p className="hero__meta">
             {brief
-              ? `${brief.date}  ·  Quant  ·  Flows  ·  Book stance  ·  Fundamental`
+              ? `${brief.date}  ·  Quant  ·  Ratings  ·  Flows  ·  Book stance`
               : "No brief published yet"}
           </p>
         </section>
         {brief ? <BriefToc sections={brief.sections} /> : null}
         {brief?.bookStance ? <BookStanceCard stance={brief.bookStance} /> : null}
+        {brief ? (
+          <PositionRatingsCard
+            rows={brief.positionRatings}
+            sectionId={
+              brief.sections.some((s) => s.id === ratingsId) ? ratingsId : undefined
+            }
+          />
+        ) : null}
         {brief && brief.sectorTape.length > 0 ? (
           <SectorRotationChart rows={brief.sectorTape} asOf={brief.date} />
         ) : null}

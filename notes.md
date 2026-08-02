@@ -6,7 +6,8 @@ Write free-form intent here. The automation must respect these.
 
 - Dual goal: **quant risk awareness** + **fundamental suggestion quality**.
 - Prefer clarity over trade frequency. Default bias: **Hold policy** unless material.
-- Each brief should end the analysis stack with a clear **book-level portfolio recommendation** (overall stance), then ≤3 ranked name/event items that agree with it.
+- Brief length: **1–2 pages** (shorter OK when quiet).
+- Each brief should include **dual-lens position ratings** (Trim/Hold/Add/Watch/Review) for every name, a clear **book-level portfolio recommendation**, then ≤3 ranked name/event items that agree with Net ratings.
 
 ## Constraints
 

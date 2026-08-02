@@ -34,11 +34,12 @@ Also use the **Peers & leading indicators** table and **Sector rotation map** in
 2) Leading-indicator / KPI skim per name (rates/housing, freight, cocoa, utilization, traffic, deliveries/margin, theme ETF)
 3) Money flow / sector rotation: sector SPDR leaders/laggards + growth/value or large/small tone; map to this book (XLV Health Care, XLP Staples, XLI Industrials, XLRE/rates, high-beta). Always label as **TICKER (Sector name)**. Include the required `| ETF | Sector | 1D % | ~5D % |` table for the site chart. Use public ETF performance; do not invent Bloomberg terminal flows.
 
-Produce today's one-page brief using the AGENTS.md template (includes Money flow / sector rotation, Portfolio health peer note, Leading indicators, and **Portfolio recommendation (book-level)**). Emphasize:
+Produce today's **1–2 page** brief using the AGENTS.md template (includes Money flow / sector rotation, Portfolio health, Leading indicators, **Position ratings (dual lens)**, and **Portfolio recommendation (book-level)**). Prefer nearer 1 page when quiet. Emphasize:
 - What needs attention across the whole portfolio
-- One overall **book-level** recommendation/stance from regime + sector rotation + health/KPIs (policy verbs only)
-- Ranked suggestions (max 3) using only Watch / Review / Consider / Hold policy — consistent with the book-level stance
-- **Average-down / add-on-weakness** is allowed as **[Consider]** only when `rules.md` Average-down gate passes: thesis intact + sourced valuation attractiveness (not merely down vs cost) + risk bands + event awareness. Otherwise Hold policy / Watch / Review.
+- **Per-position ratings** from both Quant and Fundamental lenses (Trim | Hold | Add | Watch | Review) plus Net — every ticker
+- One overall **book-level** recommendation/stance from regime + sector rotation + health/KPIs + ratings (policy verbs only)
+- Ranked suggestions (max 3) using only Watch / Review / Consider / Hold policy — consistent with the book-level stance and Net ratings
+- **Average-down / Add** is allowed as **[Consider]** only when `rules.md` Average-down gate passes: thesis intact + sourced valuation attractiveness (not merely down vs cost) + risk bands + event awareness. Otherwise Hold policy / Watch / Review.
 - Sources with URLs
 
 Write:

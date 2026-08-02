@@ -1,6 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import { extractBookStance, type BookStance } from "@/lib/bookStance";
+import {
+  extractPositionRatings,
+  type PositionRatingRow,
+} from "@/lib/ratingLabels";
 import { slugify } from "@/lib/slugify";
 import { extractSectorTape, type SectorTapeRow } from "@/lib/sectorTape";
 
@@ -21,6 +25,7 @@ export type Brief = BriefMeta & {
   sections: BriefSection[];
   sectorTape: SectorTapeRow[];
   bookStance: BookStance | null;
+  positionRatings: PositionRatingRow[];
 };
 
 function reportsDir(): string {
@@ -106,6 +111,7 @@ export function getBriefBySlug(slug: string): Brief | null {
     sections: extractSections(content),
     sectorTape: extractSectorTape(content),
     bookStance: extractBookStance(content),
+    positionRatings: extractPositionRatings(content),
   };
 }
 

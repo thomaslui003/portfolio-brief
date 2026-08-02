@@ -3,9 +3,11 @@ import { notFound } from "next/navigation";
 import { BookStanceCard } from "@/components/BookStanceCard";
 import { BriefToc } from "@/components/BriefToc";
 import { MarkdownBody } from "@/components/MarkdownBody";
+import { PositionRatingsCard } from "@/components/PositionRatingsCard";
 import { SectorRotationChart } from "@/components/SectorRotationChart";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getBriefBySlug, listBriefDates } from "@/lib/briefs";
+import { slugify } from "@/lib/slugify";
 
 type Props = { params: Promise<{ date: string }> };
 
@@ -24,6 +26,8 @@ export default async function ArchiveDatePage({ params }: Props) {
   const brief = getBriefBySlug(date);
   if (!brief) notFound();
 
+  const ratingsId = slugify("Position ratings (dual lens)");
+
   return (
     <>
       <SiteHeader active="archive" />
@@ -32,11 +36,17 @@ export default async function ArchiveDatePage({ params }: Props) {
           <p className="hero__kicker">Archived note</p>
           <h1>{brief.title}</h1>
           <p className="hero__meta">
-            {brief.date}  ·  Quant  ·  Flows  ·  Book stance  ·  Fundamental
+            {brief.date}  ·  Quant  ·  Ratings  ·  Flows  ·  Book stance
           </p>
         </section>
         <BriefToc sections={brief.sections} />
         {brief.bookStance ? <BookStanceCard stance={brief.bookStance} /> : null}
+        <PositionRatingsCard
+          rows={brief.positionRatings}
+          sectionId={
+            brief.sections.some((s) => s.id === ratingsId) ? ratingsId : undefined
+          }
+        />
         {brief.sectorTape.length > 0 ? (
           <SectorRotationChart rows={brief.sectorTape} asOf={brief.date} />
         ) : null}

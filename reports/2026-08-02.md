@@ -63,6 +63,19 @@
 - **ODFL / LTL:** Cass volume soft + peer 5d drawdowns — cycle watch, not yet kill (yield still supporting) ([Cass](https://www.cassinfo.com/freight-audit-payment/cass-transportation-indexes/june-2026)).
 - **Quiet into Monday:** UNH, COST, PG, HSY, TSLA — no new thesis-breakers overnight beyond tape/KPI context above.
 
+## Position ratings (dual lens)
+
+| Ticker | Quant | Fundamental | Net | Note (≤12 words) |
+|--------|-------|-------------|-----|------------------|
+| UNH | Hold | Hold | Hold | Soft-band weight; Q2 guide supports |
+| COST | Hold | Hold | Hold | Traffic comps OK; valuation rich watch |
+| ODFL | Hold | Hold | Hold | Yield>tons intact; no chase after run |
+| TSLA | Watch | Review | Review | Margin/FCF edge; no avg-down yet |
+| LEN | Review | Review | Review | Rates KPI stress; thesis refresh |
+| PG | Hold | Hold | Hold | Staples ballast; quiet tape |
+| HSY | Hold | Hold | Hold | Cocoa off peaks; volume scar |
+| SPCX | Watch | Watch | Watch | Aug 4–6 event; gate not cleared |
+
 ## Position notes (fundamental lens)
 
 ### SPCX — event week + theme underperformance
