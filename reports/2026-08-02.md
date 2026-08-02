@@ -2,103 +2,117 @@
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session note:** Sunday (US closed) — **manual test re-run** of the dual-analyst protocol. Prices = last cash close **Friday 2026-07-31** (Yahoo Finance / holdings snapshot). Next US session: **Monday 2026-08-03**.
+**Session note:** Sunday (US closed) — **protocol test run** with new **peers / KPIs / money-flow** sections. Prices = last cash close **Friday 2026-07-31** (Yahoo Finance). Next US session: **Monday 2026-08-03**.
 
 ## Market regime (US + Asia/HK overnight)
 
-- **US tape (Fri close):** S&P 500 ≈ **7,489.7** (+0.7%), Nasdaq ≈ **25,374** (+1.0%), Dow ≈ **52,485** (+0.5%) — mega-cap earnings (Amazon/Microsoft/NVIDIA) offset Apple’s sharp drop and hawkish Fed commentary ([Washington Times](https://www.washingtontimes.com/news/2026/jul/31/stocks-rise-finish-wild-july-amazon-soars-apple-sinks-inflation/); [Narrative News](https://narrative-news.com/stocks-finish-higher-as-amazon-leads-megacaps-higher/)).
-- **Weekend futures tone:** Dow futures pointed modestly higher into Monday as markets digest tech earnings vs Apple outlook pain; rate path still the valuation constraint ([FX Leaders](https://www.fxleaders.com/news/2026/08/02/dow-futures-rise-as-big-tech-earnings-temper-apple-outlook-pain/); [Sunday Guardian](https://sundayguardianlive.com/business/us-stock-market-prediction-dow-jones-futures-rise-sp-500-futures-gain-nasdaq-futures-show-mixed-signals-ahead-of-wall-street-opening-check-monday-market-outlook-251364/)).
-- **Rates (harder for LEN):** 10-year Treasury finished Fri ≈ **4.75%** (1.5-year high); 30-year ≈ **5.28%** (highest since 2006 per Wolf Street). Freddie Mac 30-year mortgage ≈ **6.66%** ([Yahoo bonds](https://finance.yahoo.com/markets/bonds/); [Wolf Street](https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/); [Realtor.com / Freddie Mac](https://www.realtor.com/research/freddie-mac-mortgage-rates-july-30-2026/)).
-- **Asia/HK:** Hang Seng cash closed Fri **25,884.43** (+0.10%), +13% in July; Aug 1 night futures ≈ **25,922** (−0.07%) — mild digestion, not a risk-off break ([BusinessToday](https://www.businesstoday.com.my/2026/08/01/hong-kong-stocks-edge-higher-cap-july-with-13-surge/); [Gate](https://www.gate.com/en-us/news/detail/hang-seng-index-august-night-futures-close-at-25922-points-down-0069-on-17825608)). Limited direct HK overlap in this book.
+- **US tape (Fri close):** SPY **$747.03 (+0.72%)**, QQQ **$687.99 (+0.65%)**, IWM **$291.20 (−0.48%)** — mega-cap / discretionary bid with soft small-caps; rates still the valuation constraint ([Yahoo](https://finance.yahoo.com/quote/SPY/); [thetrading.tools sector table](https://www.thetrading.tools/sector-performance)).
+- **Weekend futures tone:** Modestly constructive into Monday as markets digest big-tech prints vs Apple/hawkish-Fed friction ([FX Leaders](https://www.fxleaders.com/news/2026/08/02/dow-futures-rise-as-big-tech-earnings-temper-apple-outlook-pain/)).
+- **Rates (LEN stress):** 10y (^TNX) ≈ **4.74%** Fri (+1.8% day); 30y (^TYX) ≈ **5.28%**; Freddie Mac 30y mortgage ≈ **6.66%** ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Wolf Street](https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/); [Realtor.com](https://www.realtor.com/research/freddie-mac-mortgage-rates-july-30-2026/)).
+- **Asia/HK:** Hang Seng cash Fri **25,884 (+0.10%)**; night futures mild digestion — not a risk-off break; limited direct HK overlap ([BusinessToday](https://www.businesstoday.com.my/2026/08/01/hong-kong-stocks-edge-higher-cap-july-with-13-surge/)).
+
+## Money flow / sector rotation
+
+- **Leaders (Fri):** **XLY +3.29%**, **XLC +1.56%**, **XLE +1.00%**, **XLI +0.81%** — discretionary/comms/energy/industrials led a green SPY day ([thetrading.tools](https://www.thetrading.tools/sector-performance); Yahoo closes).
+- **Laggards (Fri):** **XLB −2.34%**, **XLU −0.69%**, **XLV −0.59%**, **XLRE −0.51%**, **XLP −0.49%** — materials + bond-proxy / duration sleeves sold ([thetrading.tools](https://www.thetrading.tools/sector-performance)).
+- **~5-day:** XLY **+6.1%** stands out; XLU **−4.2%**, XLRE **−1.9%**, XLI **−1.5%** soft; XLP still **+1.1%** on the week despite Fri dip (Yahoo).
+- **Style:** Growth (IWF **+0.76%**) edged value (IWD **+0.44%**); IWM **−0.48%** vs SPY **+0.72%** — large-cap risk-on, not broad small-cap participation (Yahoo).
+- **Fund flows:** No sourced ETF flow print used — **price leadership only**.
+- **Book map:** Fri rotation **mixed-to-hostile** for heavy sleeves — soft **XLV/XLP** fights UNH + staples day-tape; soft **XLRE + rising long rates** fights LEN; **XLI** green helps ODFL *same-day* but 5d industrials/LTL still weak; **XLY** strength supports TSLA risk appetite while **SPCX** underperformed theme peers (see peers).
 
 ## Portfolio health (quant lens)
 
-- **Concentration:** UNH 20.7% + COST 19.0% + ODFL 17.7% ≈ **57%** (under soft top-3 60%). UNH soft-max **22%** — close; no hard 25% breach.
-- **Clusters:** Cyclical ODFL+LEN ≈ **29%** (under 35%). Staples COST+PG+HSY ≈ **35%**. High-beta TSLA+SPCX ≈ **15%** (under 20%) — **SPCX event week ahead elevates this sleeve’s volatility**.
-- **Underwater vs cost (thesis stress):** LEN **−27.7%**, SPCX **−27.8%**, TSLA **−13.8%**, HSY **−3.7%**. Winners: ODFL **+34.9%**, UNH **+33.7%**.
-- **Rule pressure:** None hard-breached. Soft watch: UNH near 22%; rates shock hits LEN; **no average-down** in TSLA/SPCX without refreshed thesis (`notes.md`).
-- **Cash:** Unknown — do not assume dry powder.
+- **Concentration:** UNH 20.7% + COST 19.0% + ODFL 17.7% ≈ **57%** (under soft top-3 60%). UNH near soft-max **22%**.
+- **Clusters:** Cyclical ODFL+LEN ≈ **29%**. Staples COST+PG+HSY ≈ **35%**. High-beta TSLA+SPCX ≈ **15%** — **SPCX event week** elevates sleeve vol.
+- **Underwater vs cost:** LEN **−27.7%**, SPCX **−27.8%**, TSLA **−13.8%**, HSY **−3.7%**.
+- **Rule pressure:** No hard breach. Soft: UNH weight; rates vs LEN; **no average-down** TSLA/SPCX (`notes.md`).
+- **Peer co-moves vs divergences (Fri):**
+  - **Industry co-move:** LEN ≈ DHI/PHM/TOL (−1.7% to −2.8%); HSY ≈ MDLZ (−1.2%); COST ≈ WMT/TGT (quiet).
+  - **Notable:** **SPCX −3.4% / 5d −5.8%** vs **ARKX +0.8%**, **UFO flat** — theme underperformance into earnings ([Yahoo](https://finance.yahoo.com/quote/SPCX/)).
+  - **ODFL 5d −9.0%** vs **SAIA −18%**, **TFII −10%**, **XPO −5.7%** — weak LTL tape; ODFL relatively less bad than SAIA (Yahoo).
+  - UNH **−1.7%** between ELV (−0.2%) and CI (−3.0%) — no idiosyncratic breakout.
+
+## Leading indicators (book map)
+
+- **LEN:** 10y ~**4.74%**, 30y ~**5.28%**, mortgage ~**6.66%** — affordability KPI still adverse ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Wolf Street](https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/); [Realtor.com](https://www.realtor.com/research/freddie-mac-mortgage-rates-july-30-2026/)).
+- **ODFL:** Cass Jun shipments **−4.1% y/y / −3.1% m/m**; expenditures **+11.2% y/y** (rates > volume) — matches ODFL “yield over tonnage” print ([Cass Jun 2026](https://www.cassinfo.com/freight-audit-payment/cass-transportation-indexes/june-2026)). ISM Manufacturing watch **Mon Aug 3**.
+- **HSY:** Cocoa futures still volatile (~**$5,100–5,300**/t late Jul); Q2 margins helped by pricing + lower net commodities, volume elasticity scar intact ([CocoaIntel](https://www.cocoaintel.com/cocoa-futures-reverse-lower-as-stonex-warns-of-a-near-balanced-2026-27-market-29-july-2026/); [Hershey Q2](https://www.prnewswire.com/news-releases/hershey-reports-second-quarter-2026-financial-results-302838129.html)).
+- **UNH:** Post-Q2 MCR **86.7%** / guide raise — no fresh CMS shock overnight ([UNH IR](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-second-quarter-2026-results.pdf)).
+- **COST:** June comps **+8.8%** / sales **+10.6%** — traffic KPI OK; dividend payable Aug 7 ([Costco 8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000060/costex9918-k7726.htm)).
+- **TSLA:** Q2 op. margin **1.4%**, FCF **−$1.1B** still the kill-edge ([CNBC](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html)).
+- **SPCX:** Theme/ETF relative weak into **Aug 4 earnings / Aug 6 lock-up** — event KPI dominates.
 
 ## What needs attention today
 
-- **SPCX (new, material):** First public earnings **Tue Aug 4** after close; first major lock-up tranche ~**Thu Aug 6** — high-beta event risk into a −28% vs-cost sleeve ([Yahoo SPCX](https://finance.yahoo.com/quote/SPCX/); [Investing.com](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747)).
-- **LEN + rates:** 10y **4.75%** / 30y **5.28%** / mortgage **6.66%** keep affordability thesis under stress; Fri close **$82.35 (−1.67%)** ([Yahoo LEN](https://finance.yahoo.com/quote/LEN/)).
-- **TSLA:** Satellite still sized; China spin-off/SpaceX-merger headlines are noise vs margin/FCF kill criteria; Fri close **$311.21 (+0.76%)** ([Yahoo TSLA](https://finance.yahoo.com/quote/TSLA/); [CNBC Q2](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html)).
-- **Quiet into Monday open:** UNH, COST, ODFL, PG, HSY — no fresh thesis-breakers overnight. COST dividend payable **Aug 7**; next COST print **Sep 24**.
+- **SPCX:** Aug 4 after-close print + ~Aug 6 lock-up; **peer divergence** vs ARKX/UFO into the event ([Yahoo SPCX](https://finance.yahoo.com/quote/SPCX/); [Investing.com](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747)).
+- **LEN + rates KPI:** Long-end spike + homebuilder co-move lower Fri; thesis Review still live ([Yahoo LEN](https://finance.yahoo.com/quote/LEN/)).
+- **ODFL / LTL:** Cass volume soft + peer 5d drawdowns — cycle watch, not yet kill (yield still supporting) ([Cass](https://www.cassinfo.com/freight-audit-payment/cass-transportation-indexes/june-2026)).
+- **Quiet into Monday:** UNH, COST, PG, HSY, TSLA — no new thesis-breakers overnight beyond tape/KPI context above.
 
 ## Position notes (fundamental lens)
 
-### SPCX — earnings + lock-up week; do not average down
-Public tape treats **SPCX** as listed SpaceX equity (not the legacy AXS ETF label still in older notes). Holdings price **$108.37**; cost **$150 (−27.8%)**. Confirmed catalysts: Q2 results **Aug 4 ~4:30 PM ET**, then ~**911.5M** shares eligible ~**Aug 6** (staged lock-up) ([Yahoo](https://finance.yahoo.com/quote/SPCX/); [Investing.com](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747); [Complete Traders Edge](https://completetradersedge.com/spcx-stock-lockup-earnings-august-2026/)). Implication: event risk dominates; **Hold policy** on adding; owner should confirm instrument identity in `holdings.md`.
+### SPCX — event week + theme underperformance
+Fri **$108.37 (−3.4%)**, cost **$150 (−27.8%)**. Lagged ARKX/UFO into first public earnings **Aug 4 ~4:30 PM ET** and staged lock-up ~**Aug 6** ([Yahoo](https://finance.yahoo.com/quote/SPCX/); [Investing.com](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747)). Public tape labels listed SpaceX; repo still says AXS ETF — **confirm instrument**. Implication: do not average down; **Watch** catalysts only.
 
-### LEN — rates tape still the thesis stress test
-Q2 (ended May 31): EPS **$1.24** / **$1.31** ex MTM; gross margin **15.6%**; incentives ~**12.9%**; FY deliveries cut to ~**82–83k** on rates/macro ([Lennar](https://newsroom.lennar.com/2026-06-11-Lennar-Reports-Second-Quarter-2026-Results)). Fresh long-end yield spike worsens affordability. Yahoo estimates next print **~Sep 17, 2026** ([Yahoo LEN](https://finance.yahoo.com/quote/LEN/)). **Review** size/thesis before any add.
+### LEN — rates KPI + peer co-move
+Fri **$82.35 (−1.67%)** with DHI/PHM/TOL all soft — industry, not single-name break. Q2 already cut deliveries / raised incentives ([Lennar](https://newsroom.lennar.com/2026-06-11-Lennar-Reports-Second-Quarter-2026-Results)). Soft XLRE + 10y/30y upkeep affordability stress. **Review** thesis/size before any add.
 
-### TSLA — growth OK; margin/FCF still the edge
-Q2: rev **$28.2B (+26%)**; GAAP op. margin **1.4%**; FCF **−$1.1B**; elevated capex path ([CNBC](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html)). Weekend China-business / SpaceX-merger chatter is narrative noise relative to kill criteria. **Hold policy** on averaging down.
+### ODFL — peer/KPI aligned with “yield > tons”
+Fri quiet (**−0.2%**) but **5d −9%** with SAIA/TFII worse. Cass Jun shipments down, expenditures up on rates ([Cass](https://www.cassinfo.com/freight-audit-payment/cass-transportation-indexes/june-2026); [ODFL Q2](https://ir.odfl.com/news-events/press-releases/detail/347/old-dominion-freight-line-reports-second-quarter-2026)). Kill (sustained tonnage **and** price weakness) not triggered; still a top-3 winner — no chase.
 
-### UNH — thesis intact post guide raise
-Q2’26: rev **$112.0B**, ops earnings **$8.0B**, adj EPS **$6.38**; FY26 adj EPS guide **$19.50–$20.00**; MCR **86.7%** ([UNH IR PDF](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-second-quarter-2026-results.pdf)). Supports large weight inside soft 22% band. Watch: medical cost / policy / membership mix.
+### TSLA — held vs auto peers; margin still the edge
+Fri **$311.21 (+0.76%)** vs RIVN **−9.6%** — relative resilience is not a thesis refresh. Op. margin / FCF kill criteria unchanged ([CNBC](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html)). **Hold policy** on averaging down.
 
-### COST — traffic thesis OK; calendar watch only
-June (5 weeks ended Jul 5) net sales **$29.24B (+10.6%)**; comps **+8.8%**; dividend **$1.47** payable **Aug 7**; Q4 FY26 call **Sep 24** ([Costco 8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000060/costex9918-k7726.htm); [Costco events](https://investor.costco.com/events-and-presentations/events/event-details/2026/Q4-2026-Earnings-Call/default.aspx)). $14M WA email settlement is noise vs membership moat ([GuruFocus](https://www.gurufocus.com/news/8986795/cost-looks-55-undervalued-on-gf-value)).
+### UNH — XLV soft day; fundamentals intact
+Fri **$414.40 (−1.7%)** inside managed-care peer range. Q2 guide raise / MCR **86.7%** still supports soft-band weight ([UNH IR](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-second-quarter-2026-results.pdf)).
 
-### ODFL — yield over tonnage; cycle thesis not killed
-Q2: rev **$1.554B (+10.4%)**, EPS **$1.68 (+32.3%)**, OR **70.1%**; LTL rev/cwt **+15.2%**; tons/day **−4.1%** YoY; capex plan lifted to ~**$380M** ([ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/347/old-dominion-freight-line-reports-second-quarter-2026)). Kill criteria (sustained tonnage+price weakness) not triggered.
+### COST / PG / HSY — staples; XLP soft Fri, KPIs not broken
+COST traffic comps OK; PG FY27 guide/chair continuity; HSY co-moved with MDLZ on volume/pricing scar with cocoa off peaks ([Costco 8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000060/costex9918-k7726.htm); [P&G](https://us.pg.com/newsroom/news-releases/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results/); [Hershey](https://www.prnewswire.com/news-releases/hershey-reports-second-quarter-2026-financial-results-302838129.html)).
 
-### PG — ballast; leadership continuity; low-growth guide
-FY26/Q4 printed Jul 29; FY27 core EPS guide **$6.89–$7.11**. CEO **Shailesh Jejurikar** also became Chairman **Aug 1** as Jon Moeller retires — governance continuity, not a thesis change ([TipRanks](https://www.tipranks.com/news/company-announcements/procter-gamble-appoints-jejurikar-as-board-chairman); [P&G newsroom](https://us.pg.com/newsroom/news-releases/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results/)). Fri close **$144.49 (+0.37%)** ([Yahoo PG](https://finance.yahoo.com/quote/PG/)).
-
-### HSY — pricing/cocoa relief helping; volume elasticity scar
-Q2: sales **$2.79B (+6.6%)**; adj EPS **$1.90 (+57%)**; ~**+12 pts** price / **−8 pts** volume; FY adj EPS growth narrowed to **32.5–35%** ([PR Newswire](https://www.prnewswire.com/news-releases/hershey-reports-second-quarter-2026-financial-results-302838129.html)). Slightly underwater — hold-sized snack.
-
-**No material 48h thesis change:** UNH utilization/policy, COST membership, ODFL sequential tonnage — unchanged vs prior Sunday draft pending Monday tape.
+**No material update:** CMS/policy shock for UNH; COST membership deterioration; new LEN order print.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** **SPCX Aug 4 earnings → Aug 6 lock-up** as the week’s high-beta risk window (do not average down). Evidence: first public print after close Aug 4 and staged unlock ~911.5M shares two sessions later ([Yahoo SPCX](https://finance.yahoo.com/quote/SPCX/); [Investing.com](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747)). Confidence: **High**. Falsifier: clean Starlink/ops print with limited post-unlock supply overhang and owner-documented thesis refresh.
+1. **[Watch]** **SPCX Aug 4 earnings → Aug 6 lock-up**; do not average down. Evidence: first public print + staged unlock; Fri underperformance vs ARKX/UFO ([Yahoo SPCX](https://finance.yahoo.com/quote/SPCX/); [Investing.com](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747); Yahoo ARKX/UFO). Confidence: **High**. Falsifier: clean ops/Starlink print with limited post-unlock overhang + owner thesis refresh in journal.
 
-2. **[Review]** **LEN thesis & size** into a steeper long-end curve. Evidence: Q2 margin/incentive/delivery cut ([Lennar](https://newsroom.lennar.com/2026-06-11-Lennar-Reports-Second-Quarter-2026-Results)) plus 10y **4.75%**, 30y **5.28%**, mortgage **6.66%** ([Wolf Street](https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/); [Realtor.com](https://www.realtor.com/research/freddie-mac-mortgage-rates-july-30-2026/)). Confidence: **High**. Falsifier: sustained drop in mortgage/10y yields and sequential order/ASP stabilization in next LEN print (~Sep 17 est.).
+2. **[Review]** **LEN thesis & size** with rates KPI still adverse. Evidence: 10y ~4.74% / 30y ~5.28% / mortgage ~6.66% + homebuilder peer co-move Fri + prior delivery/incentive cut ([Wolf Street](https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/); [Lennar](https://newsroom.lennar.com/2026-06-11-Lennar-Reports-Second-Quarter-2026-Results); Yahoo DHI/PHM/TOL). Confidence: **High**. Falsifier: sustained drop in long yields + sequential order/ASP stabilization (~Sep 17 est. print).
 
-3. **[Hold policy]** **No average-down in TSLA (or SPCX) on weakness this week.** Evidence: TSLA 1.4% op. margin / negative FCF ([CNBC](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html)); SPCX deep drawdown + event/supply week; `notes.md` forbids averaging down without refreshed thesis. Confidence: **High**. Falsifier: margin/FCF inflection (TSLA) or clarified SPCX thesis + post-print/lock-up digestion noted in journal.
+3. **[Hold policy]** **No average-down in TSLA/SPCX; no chase ODFL** on relative peer strength. Evidence: TSLA margin/FCF kill edge ([CNBC](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html)); SPCX event/supply week; ODFL already +35% vs cost and top-3; `notes.md` average-down ban. Confidence: **High**. Falsifier: documented thesis refresh (TSLA/SPCX) or ODFL tonnage+price double miss forcing size Review.
 
 ## Explicit non-actions
 
-- Do not trim UNH solely for ~20.7% weight — inside soft band; Q2 raise supports hold.
-- Do not chase ODFL on Q2 optics — already +35% vs cost and a top-3 name.
-- Ignore COST $14M email settlement and PG chair title change as portfolio actions.
-- Ignore TSLA China-spin / SpaceX-merger rumor cycle unless it changes deliveries, margin, or FCF path.
+- Do not trim UNH solely for soft XLV Friday or ~20.7% weight — inside soft band; Q2 supports hold.
+- Do not treat Fri XLY strength as a TSLA add signal.
+- Ignore COST dividend payable (Aug 7) as a portfolio action; ignore PG chair title change.
+- Ignore TSLA China-spin / SpaceX-merger rumor cycle vs margin/FCF.
 
 ## Delta vs yesterday
 
-Prior `reports/latest.md` was the first Sunday dual-analyst draft. This **manual re-run** adds: (1) confirmed **SPCX Aug 4 / Aug 6** catalyst stack as #1 Watch; (2) harder rates print (**4.75% / 5.28%**); (3) PG chairman effective Aug 1; (4) LEN next-print estimate ~Sep 17; (5) weekend futures / HSI night-futures tone into Monday.
+Prior `reports/latest.md` lacked the new protocol sections. This **test run** adds: (1) **Money flow / sector rotation** with SPDR leaders/laggards + book map; (2) **Leading indicators** (Cass, rates, cocoa, MCR, comps); (3) **Peer relatives** (SPCX vs ARKX/UFO divergence; LEN/HSY co-moves; ODFL vs SAIA); (4) same top suggestions framed with peer/KPI evidence.
 
 ## Open questions for next run
 
-1. Confirm **SPCX instrument** in `holdings.md` (listed SpaceX vs AXS Space Priority ETF) before/after Aug 4 print.
-2. Owner view on **LEN** after this week’s rates tape: hold through pain, trim cyclical cluster, or wait for ~Sep orders/earnings?
-3. Any **cash sleeve** to record so future briefs can discuss adds without assuming dry powder?
+1. Confirm **SPCX instrument** label in `holdings.md` (listed SpaceX vs AXS ETF) before/after Aug 4.
+2. After Mon ISM / Tue SPCX print: any owner action logged in `decisions/JOURNAL.md`?
+3. Record **cash sleeve** if any so adds can be discussed without assuming dry powder.
 
 ## Sources
 
-- [Washington Times — US stocks week of Jul 31, 2026](https://www.washingtontimes.com/news/2026/jul/31/stocks-rise-finish-wild-july-amazon-soars-apple-sinks-inflation/)
-- [Narrative News — Fri close & 10y 4.75%](https://narrative-news.com/stocks-finish-higher-as-amazon-leads-megacaps-higher/)
-- [FX Leaders — Dow futures Aug 2](https://www.fxleaders.com/news/2026/08/02/dow-futures-rise-as-big-tech-earnings-temper-apple-outlook-pain/)
-- [Yahoo Finance — US Treasury yields](https://finance.yahoo.com/markets/bonds/)
-- [Wolf Street — 30y at 5.28%](https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/)
+- [thetrading.tools — sector SPDR performance Jul 31, 2026](https://www.thetrading.tools/sector-performance)
+- [Yahoo Finance — SPY / QQQ / IWM / sector & peer quotes](https://finance.yahoo.com/)
+- [Yahoo — ^TNX / ^TYX](https://finance.yahoo.com/quote/%5ETNX/)
+- [Wolf Street — 30y 5.28%](https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/)
 - [Realtor.com — Freddie Mac mortgage 6.66%](https://www.realtor.com/research/freddie-mac-mortgage-rates-july-30-2026/)
-- [BusinessToday — Hang Seng Jul 31](https://www.businesstoday.com.my/2026/08/01/hong-kong-stocks-edge-higher-cap-july-with-13-surge/)
-- [Gate — HSI Aug night futures](https://www.gate.com/en-us/news/detail/hang-seng-index-august-night-futures-close-at-25922-points-down-0069-on-17825608)
-- [Yahoo — TSLA](https://finance.yahoo.com/quote/TSLA/)
-- [Yahoo — LEN](https://finance.yahoo.com/quote/LEN/)
-- [Yahoo — PG](https://finance.yahoo.com/quote/PG/)
+- [FX Leaders — weekend futures](https://www.fxleaders.com/news/2026/08/02/dow-futures-rise-as-big-tech-earnings-temper-apple-outlook-pain/)
+- [BusinessToday — Hang Seng](https://www.businesstoday.com.my/2026/08/01/hong-kong-stocks-edge-higher-cap-july-with-13-surge/)
+- [Cass Transportation Index — June 2026](https://www.cassinfo.com/freight-audit-payment/cass-transportation-indexes/june-2026)
+- [CocoaIntel — late Jul cocoa futures](https://www.cocoaintel.com/cocoa-futures-reverse-lower-as-stonex-warns-of-a-near-balanced-2026-27-market-29-july-2026/)
 - [Yahoo — SPCX](https://finance.yahoo.com/quote/SPCX/)
-- [Investing.com — SpaceX maiden earnings Aug 4](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747)
-- [UNH Q2 2026 results PDF](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-second-quarter-2026-results.pdf)
+- [Investing.com — SPCX/SpaceX Aug 4 earnings](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747)
+- [UNH Q2 2026 PDF](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-second-quarter-2026-results.pdf)
 - [Costco June sales 8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000060/costex9918-k7726.htm)
-- [ODFL Q2 2026 release](https://ir.odfl.com/news-events/press-releases/detail/347/old-dominion-freight-line-reports-second-quarter-2026)
+- [ODFL Q2 2026](https://ir.odfl.com/news-events/press-releases/detail/347/old-dominion-freight-line-reports-second-quarter-2026)
 - [CNBC — Tesla Q2 2026](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html)
-- [Lennar Q2 2026 results](https://newsroom.lennar.com/2026-06-11-Lennar-Reports-Second-Quarter-2026-Results)
+- [Lennar Q2 2026](https://newsroom.lennar.com/2026-06-11-Lennar-Reports-Second-Quarter-2026-Results)
 - [P&G FY26 results](https://us.pg.com/newsroom/news-releases/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results/)
-- [TipRanks — PG chairman Jejurikar Aug 1](https://www.tipranks.com/news/company-announcements/procter-gamble-appoints-jejurikar-as-board-chairman)
-- [Hershey Q2 2026 results](https://www.prnewswire.com/news-releases/hershey-reports-second-quarter-2026-financial-results-302838129.html)
+- [Hershey Q2 2026](https://www.prnewswire.com/news-releases/hershey-reports-second-quarter-2026-financial-results-302838129.html)

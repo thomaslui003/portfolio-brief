@@ -5,6 +5,7 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | Date (ET) | Ticker | Event | Notes |
 |-----------|--------|-------|-------|
 | 2026-08-03 | — | US cash open (Mon) | First session after weekend briefs |
+| 2026-08-03 | Macro | ISM Manufacturing PMI (Jul) | Freight/industrial tone for ODFL ([typical ISM calendar](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/)) |
 | 2026-08-04 | SPCX | Q2’26 earnings (after close) | First public print; webcast ~4:30 PM ET ([Yahoo SPCX](https://finance.yahoo.com/quote/SPCX/); [Investing.com](https://ng.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-2607747)) |
 | 2026-08-06 | SPCX | First major lock-up tranche | ~911.5M shares eligible ~2 sessions after earnings (staged schedule; verify IR) |
 | 2026-08-07 | COST | Dividend payable | $1.47/sh; record was Jul 24 ([Costco 8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000060/costex9918-k7726.htm)) |
