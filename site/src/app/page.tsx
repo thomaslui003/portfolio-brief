@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { BriefToc } from "@/components/BriefToc";
 import { MarkdownBody } from "@/components/MarkdownBody";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getLatestBrief } from "@/lib/briefs";
@@ -19,10 +20,11 @@ export default function HomePage() {
           <h1>{brief?.title ?? "Portfolio brief"}</h1>
           <p className="hero__meta">
             {brief
-              ? `${brief.date}  ·  Quant risk  ·  Fundamental review`
+              ? `${brief.date}  ·  Quant  ·  Flows  ·  Peers/KPIs  ·  Fundamental`
               : "No brief published yet"}
           </p>
         </section>
+        {brief ? <BriefToc sections={brief.sections} /> : null}
         <article className="panel">
           {brief ? (
             <MarkdownBody content={brief.content} />

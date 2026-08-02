@@ -23,6 +23,42 @@ Snapshot from broker UI. Update quantities/weights after trades.
 - **LEN & SPCX & TSLA** are underwater vs cost — prioritize thesis stress-tests on these.
 - **SPCX** is an ETF proxy for space priority theme, not private SpaceX stock — analyze as ETF (holdings, liquidity, premium/discount if any).
 
+## Peers & leading indicators (agent must-check)
+
+Use for **relative performance** and **leading-indicator** checks each run. Cite sources. Skip quiet peers with one line if co-moves are normal.
+
+| Ticker | Peer set (primary) | Leading indicators / KPIs to skim |
+|--------|--------------------|-----------------------------------|
+| UNH | ELV, CI, HUM | Medical cost ratio / utilization commentary; CMS/Medicare Advantage rate news; membership mix |
+| COST | WMT, BJ, TGT | Membership growth / renewal; comps & traffic; retail tone (discretionary vs staples) |
+| ODFL | XPO, SAIA, TFII | Cass Freight Index / tonnage commentary; ISM/industrial; LTL yield vs tons (peer prints) |
+| TSLA | GM, F, RIVN (context); NIO/XPEV for China EV tape | Deliveries / ASP; auto gross margin & FCF; China EV competitive tone |
+| LEN | DHI, PHM, TOL | 10y Treasury & 30y mortgage rates; MBA mortgage apps / housing starts; orders, cancellations, incentives |
+| PG | CL, KMB, PEP (staples context) | Organic volume vs price; FX (ex-US); retailer inventory / category share chatter |
+| HSY | MDLZ, CAG (snacks context) | Cocoa / cocoa butter prices; price vs volume elasticity; Halloween/seasonal sell-in when relevant |
+| SPCX | ARKX, UFO (theme ETFs); treat as **ETF** not private SpaceX | Theme ETF relative performance; top holdings / liquidity; premium-discount if available; space/satellite news only as theme |
+
+**Relative-performance rule:** Flag when a holding **materially diverges** from its peer set (same-day or ~5-session). Industry-wide moves ≠ idiosyncratic thesis change.
+
+**Leading-indicator rule:** Adverse move in a name’s KPI column should appear under attention or position notes even if the stock is quiet.
+
+## Sector rotation map (money flow → this book)
+
+Public proxies for a Bloomberg-style “where is the money” skim. Prefer last session % on sector SPDRs; add ~5-day when useful. Cite source.
+
+| Sleeve in this book | Sector / style proxy | Why it matters |
+|---------------------|----------------------|----------------|
+| UNH | **XLV** (Health Care) | Managed-care / healthcare leadership vs market |
+| COST, PG, HSY | **XLP** (Consumer Staples) | Defensive ballast; HSY also snacks/input-cost idiosyncratic |
+| ODFL | **XLI** (Industrials) | Freight/industrial cycle tone |
+| LEN | **XLRE** + rates (10y / mortgage); homebuilder peers | Housing / rate-sensitive money |
+| TSLA | **XLY** / mega-cap growth (**XLK** / QQQ as risk appetite) | High-beta consumer discretionary + growth tone |
+| SPCX | Theme / high-beta (ARKX, UFO, or QQQ risk-on) | Thematic money — not a GICS sector SPDR |
+| Whole book | Growth vs value; **IWM** vs SPY/QQQ | Risk-on/off and small-cap participation |
+
+**Rotation rule:** Call out when money is leaving the book’s heavy sleeves (e.g. soft XLV/XLP/XLI while indices up) or crowding into them. Price leadership ≠ confirmed fund flows — label fund-flow claims only when a source exists.
+
 ## How to update
 
 After any trade, edit Qty / Price / Cost / MV / Weight. Recompute weights so they sum ≈ 100%. Update **As-of** date.
+Update peers/KPIs only when the investment case or instrument identity changes.

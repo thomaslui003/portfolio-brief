@@ -29,9 +29,11 @@ Never write: “buy N shares”, “sell all”, “market order”, or guarante
 - Max **3** ranked suggestions per daily brief.
 - Prefer **Do nothing / Hold policy** when news is non-material.
 - Separate **hard data** (price, filings, earnings dates, reported metrics) from **narrative**.
+- Each run must include a **peer relative** check and a **leading-indicator** skim using the table in `holdings.md` (short is fine when quiet; do not invent peer prints).
+- Each run must include a **money flow / sector rotation** skim (sector SPDR leaders/laggards + book map from `holdings.md`). Prefer hard ETF %; label any fund-flow narrative only with a source — no fake Bloomberg terminal numbers.
 - Dual lens required every run:
-  1. **Quant / risk** — weights, factor exposure, drawdowns vs cost, correlation themes
-  2. **Fundamental / sell-side style** — business quality, catalysts, risks, valuation context (qualitative OK if numbers unavailable)
+  1. **Quant / risk** — weights, factor exposure, drawdowns vs cost, correlation themes, peer co-moves vs divergences, sector/style rotation vs book
+  2. **Fundamental / sell-side style** — business quality, catalysts, risks, valuation context (qualitative OK if numbers unavailable), KPI/leading-indicator stress
 
 ## Markets in scope
 

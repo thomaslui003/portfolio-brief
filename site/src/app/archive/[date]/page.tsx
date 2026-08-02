@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { BriefToc } from "@/components/BriefToc";
 import { MarkdownBody } from "@/components/MarkdownBody";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getBriefBySlug, listBriefDates } from "@/lib/briefs";
@@ -29,9 +30,10 @@ export default async function ArchiveDatePage({ params }: Props) {
           <p className="hero__kicker">Archived note</p>
           <h1>{brief.title}</h1>
           <p className="hero__meta">
-            {brief.date}  ·  Quant risk  ·  Fundamental review
+            {brief.date}  ·  Quant  ·  Flows  ·  Peers/KPIs  ·  Fundamental
           </p>
         </section>
+        <BriefToc sections={brief.sections} />
         <article className="panel">
           <MarkdownBody content={brief.content} />
         </article>

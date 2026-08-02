@@ -21,16 +21,19 @@ Your job is **not** to place trades. Your job is to produce a **one-page daily p
 For **each** holding (UNH, COST, ODFL, TSLA, LEN, PG, HSY, SPCX):
 
 1. Latest **price / % day change** if available (cite source).  
-2. **2–4 material headlines** from the last ~24–48h (skip if quiet).  
-3. **Financial context** when available: next earnings date, recent earnings/guidance, notable filing (8-K/10-Q), margin or volume commentary for cyclicals (ODFL, LEN), input costs (HSY), policy/utilization (UNH), membership/traffic (COST).  
-4. Map news → **thesis** and **kill criteria** in `holdings.md`.  
+2. **Peer relative performance** using the peer set in `holdings.md` → Peers & leading indicators. Same-day (or last session) % for holding vs 1–3 peers when available. Flag only **material divergences**; industry-wide co-moves go in one compact line.  
+3. **Leading indicators / KPIs** from that same table (rates/mortgage for LEN, freight/ISM for ODFL, cocoa for HSY, utilization/CMS for UNH, membership/traffic for COST, deliveries/margin for TSLA, theme-ETF context for SPCX). Adverse KPI moves matter even if the stock is quiet.  
+4. **2–4 material headlines** from the last ~24–48h (skip if quiet).  
+5. **Financial context** when available: next earnings date, recent earnings/guidance, notable filing (8-K/10-Q), margin or volume commentary for cyclicals (ODFL, LEN), input costs (HSY), policy/utilization (UNH), membership/traffic (COST).  
+6. Map news + peer/KPI signal → **thesis** and **kill criteria** in `holdings.md`.  
 
 Then **portfolio layer**:
 
 - Market regime: US futures/indices, rates (esp. for LEN), freight/industrial tone (ODFL), consumer (COST/PG/HSY), healthcare policy (UNH), risk appetite (TSLA/SPCX).  
 - Include brief **Asia/HK overnight** risk tone when relevant (China, FX, risk-on/off).  
+- **Money flow / sector rotation** (Bloomberg-style “where is the money”): last session (and ~5-day if available) leaders vs laggards among sector SPDRs and style proxies — see `holdings.md` → Sector rotation map. Cite public sources (Yahoo/Finviz/ETF.com/reputable wires). Do **not** invent Bloomberg terminal flows; use sector ETF performance + any published fund-flow headlines when available. Explicitly map winners/losers → this book’s clusters (healthcare, staples, industrials, housing/rates, high-beta/theme).  
 - Concentration & cluster risks (see holdings notes).  
-- What **needs attention today** vs noise.
+- What **needs attention today** vs noise (include peer divergence, KPI stress, or rotation fighting the book when material).
 
 Use browser/web search. Prefer primary sources (company IR, SEC, reputable wires). **No unsourced claims.**
 
@@ -56,19 +59,30 @@ The Next.js site under `site/` reads `reports/` at build time (GitHub Pages). Do
 ## Market regime (US + Asia/HK overnight)
 5–8 lines. Rates, indices, risk tone, anything that hits this book’s clusters.
 
+## Money flow / sector rotation
+Bloomberg-style “where money is”: 4–7 lines.
+- Leaders / laggards: sector SPDRs (XLK, XLF, XLE, XLV, XLI, XLY, XLP, XLU, XLRE, XLB, XLC) last session % when available; optional ~5-day.
+- Style: growth vs value and/or large vs small (e.g. QQQ/IWM or VUG/VTV proxies) — risk-on vs defensive tone.
+- Fund-flow headlines only if sourced (ETF flows / “money into X”); otherwise stick to price leadership.
+- **Book map:** one line — does rotation favor or fight this book’s weights (XLV→UNH, XLP→COST/PG/HSY, XLI→ODFL, XLRE/rates→LEN, high-beta/tech→TSLA/SPCX)?
+
 ## Portfolio health (quant lens)
 - Concentration / top weights
 - Cluster risks (cyclical, staples, high-beta)
 - Names under water vs cost that need thesis checks
 - Any soft/hard rule pressure from `rules.md`
+- Peer co-moves vs divergences (1–4 lines; cite `holdings.md` peer sets)
+
+## Leading indicators (book map)
+3–6 lines covering KPI checks from `holdings.md` (LEN rates/housing, ODFL freight, HSY cocoa, UNH utilization/policy, COST traffic, TSLA deliveries/margin, SPCX theme/ETF). Quiet KPIs: one line “no material KPI move”.
 
 ## What needs attention today
-Bullet list — only material items. Quiet names: one line “quiet”.
+Bullet list — only material items (include peer divergence or adverse KPI). Quiet names: one line “quiet”.
 
 ## Position notes (fundamental lens)
-One short subsection per ticker **with material news or financial update**. Quiet tickers can be grouped as “No material update: …”.
+One short subsection per ticker **with material news, peer divergence, or KPI update**. Quiet tickers can be grouped as “No material update: …”.
 
-For material names include: news/filing → implication for thesis → risk/watch.
+For material names include: news/filing/peer-or-KPI → implication for thesis → risk/watch.
 
 ## Ranked suggestions (max 3)
 1. **[Watch|Review|Consider|Hold policy]** … Evidence + source. Confidence: Low/Med/High. Falsifier: …
@@ -102,6 +116,8 @@ What changed since `reports/latest.md` (or “first run”).
 ## Done criteria
 
 - Dual lens present (quant + fundamental)  
+- Peer relative check + leading-indicator map present (can be short if quiet)  
+- Money flow / sector rotation section present (leaders/laggards + book map)  
 - ≤3 suggestions, policy verbs only  
 - Sources listed  
 - `reports/YYYY-MM-DD.md` and `reports/latest.md` match today’s brief  

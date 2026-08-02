@@ -29,7 +29,12 @@ Read holdings.md, rules.md, calendar.md, notes.md, reports/latest.md, decisions/
 
 Research US market conditions plus Asia/HK overnight spillover. For each holding (UNH, COST, ODFL, TSLA, LEN, PG, HSY, SPCX) gather latest material news and financial context (earnings dates, filings, key metrics when available). SPCX is an ETF, not private SpaceX stock.
 
-Produce today's one-page brief using the AGENTS.md template. Emphasize:
+Also use the **Peers & leading indicators** table and **Sector rotation map** in holdings.md every run:
+1) Peer relative performance (holding vs peer set — flag material divergences only)
+2) Leading-indicator / KPI skim per name (rates/housing, freight, cocoa, utilization, traffic, deliveries/margin, theme ETF)
+3) Money flow / sector rotation: sector SPDR leaders/laggards + growth/value or large/small tone; map to this book (XLV, XLP, XLI, XLRE/rates, high-beta). Use public ETF performance; do not invent Bloomberg terminal flows.
+
+Produce today's one-page brief using the AGENTS.md template (includes Money flow / sector rotation, Portfolio health peer note, Leading indicators). Emphasize:
 - What needs attention across the whole portfolio
 - Ranked suggestions (max 3) using only Watch / Review / Consider / Hold policy
 - Sources with URLs

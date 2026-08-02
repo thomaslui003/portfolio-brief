@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { slugify } from "@/lib/slugify";
 
 export type BriefMeta = {
   slug: string;
@@ -8,8 +9,14 @@ export type BriefMeta = {
   summary: string;
 };
 
+export type BriefSection = {
+  id: string;
+  label: string;
+};
+
 export type Brief = BriefMeta & {
   content: string;
+  sections: BriefSection[];
 };
 
 function reportsDir(): string {
@@ -27,11 +34,38 @@ function extractSummary(md: string): string {
     const firstBullet = /^- (.+)$/m.exec(attention[1]);
     if (firstBullet) return firstBullet[1].replace(/\*\*/g, "").slice(0, 160);
   }
+  const money = /## Money flow \/ sector rotation\n([\s\S]*?)(?=\n## )/.exec(md);
+  if (money) {
+    const bookMap = /Book map[:\s*]*([^\n]+)/i.exec(money[1]);
+    if (bookMap) return bookMap[1].replace(/\*\*/g, "").slice(0, 160);
+    const firstBullet = /^- (.+)$/m.exec(money[1]);
+    if (firstBullet) return firstBullet[1].replace(/\*\*/g, "").slice(0, 160);
+  }
   const lines = md
     .split("\n")
     .map((l) => l.trim())
     .filter((l) => l && !l.startsWith("#") && !l.startsWith(">") && !l.startsWith("|"));
   return (lines[0] ?? "Daily dual-analyst portfolio brief").replace(/\*\*/g, "").slice(0, 160);
+}
+
+/** H2 outline for jump nav (skips empty labels). */
+export function extractSections(md: string): BriefSection[] {
+  const sections: BriefSection[] = [];
+  const seen = new Set<string>();
+  for (const match of md.matchAll(/^##\s+(.+)$/gm)) {
+    const label = match[1].trim();
+    if (!label) continue;
+    let id = slugify(label);
+    if (!id) continue;
+    if (seen.has(id)) {
+      let n = 2;
+      while (seen.has(`${id}-${n}`)) n += 1;
+      id = `${id}-${n}`;
+    }
+    seen.add(id);
+    sections.push({ id, label });
+  }
+  return sections;
 }
 
 export function listBriefDates(): string[] {
@@ -61,6 +95,7 @@ export function getBriefBySlug(slug: string): Brief | null {
     title: extractTitle(content, `Portfolio brief — ${date}`),
     summary: extractSummary(content),
     content,
+    sections: extractSections(content),
   };
 }
 

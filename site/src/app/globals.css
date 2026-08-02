@@ -223,6 +223,50 @@ a:hover {
   font-variant-numeric: tabular-nums;
 }
 
+.brief-toc {
+  margin: 0 0 1rem;
+  padding: 0.75rem 0.9rem 0.85rem;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+}
+
+.brief-toc__label {
+  margin: 0 0 0.45rem;
+  color: var(--faint);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.brief-toc__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.15rem;
+}
+
+.brief-toc__list a {
+  display: inline-block;
+  padding: 0.28rem 0.55rem;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border: 1px solid transparent;
+}
+
+.brief-toc__list a:hover {
+  color: var(--text);
+  background: var(--hover);
+  border-color: var(--line);
+}
+
 .panel {
   background: var(--surface);
   border: 1px solid var(--line);
@@ -327,6 +371,30 @@ a:hover {
   border-top: none;
 }
 
+.prose h2.prose-h2--flow {
+  box-shadow: inset 3px 0 0 var(--accent);
+  padding-left: 0.65rem;
+}
+
+.prose h2.prose-h2--kpi {
+  box-shadow: inset 3px 0 0 var(--line-strong);
+  padding-left: 0.65rem;
+}
+
+.prose h2.prose-h2--attention {
+  box-shadow: inset 3px 0 0 var(--warn-border);
+  padding-left: 0.65rem;
+}
+
+.prose h2.prose-h2--suggest {
+  box-shadow: inset 3px 0 0 var(--accent);
+  padding-left: 0.65rem;
+}
+
+.prose h2[id] {
+  scroll-margin-top: 4.5rem;
+}
+
 .prose h3 {
   margin: 1.15rem 0 0.35rem;
   font-family: var(--font-sans), sans-serif;
@@ -380,6 +448,33 @@ a:hover {
 
 .prose ol {
   font-variant-numeric: tabular-nums;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.55rem 0 1rem;
+  font-size: 0.86rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.prose th,
+.prose td {
+  padding: 0.4rem 0.5rem;
+  border: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose th {
+  background: var(--hover);
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+}
+
+.prose tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--hover) 55%, transparent);
 }
 
 .empty {
