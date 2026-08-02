@@ -13,12 +13,26 @@
 
 ## Money flow / sector rotation
 
-- **Leaders (Fri):** **XLY +3.29%**, **XLC +1.56%**, **XLE +1.00%**, **XLI +0.81%** — discretionary/comms/energy/industrials led a green SPY day ([thetrading.tools](https://www.thetrading.tools/sector-performance); Yahoo closes).
-- **Laggards (Fri):** **XLB −2.34%**, **XLU −0.69%**, **XLV −0.59%**, **XLRE −0.51%**, **XLP −0.49%** — materials + bond-proxy / duration sleeves sold ([thetrading.tools](https://www.thetrading.tools/sector-performance)).
-- **~5-day:** XLY **+6.1%** stands out; XLU **−4.2%**, XLRE **−1.9%**, XLI **−1.5%** soft; XLP still **+1.1%** on the week despite Fri dip (Yahoo).
-- **Style:** Growth (IWF **+0.76%**) edged value (IWD **+0.44%**); IWM **−0.48%** vs SPY **+0.72%** — large-cap risk-on, not broad small-cap participation (Yahoo).
+- **Leaders (Fri):** **XLY (Consumer Discretionary) +3.29%**, **XLC (Communication Services) +1.56%**, **XLE (Energy) +1.00%**, **XLI (Industrials) +0.81%** — discretionary/comms/energy/industrials led a green SPY day ([thetrading.tools](https://www.thetrading.tools/sector-performance); Yahoo closes).
+- **Laggards (Fri):** **XLB (Materials) −2.34%**, **XLU (Utilities) −0.69%**, **XLV (Health Care) −0.59%**, **XLRE (Real Estate) −0.51%**, **XLP (Consumer Staples) −0.49%** — materials + bond-proxy / duration sleeves sold ([thetrading.tools](https://www.thetrading.tools/sector-performance)).
+- **~5-day:** **XLY (Consumer Discretionary) +6.1%** stands out; **XLU (Utilities) −4.2%**, **XLRE (Real Estate) −1.9%**, **XLI (Industrials) −1.5%** soft; **XLP (Consumer Staples)** still **+1.1%** on the week despite Fri dip (Yahoo).
+- **Style:** **IWF (growth) +0.76%** edged **IWD (value) +0.44%**; **IWM (small caps) −0.48%** vs SPY **+0.72%** — large-cap risk-on, not broad small-cap participation (Yahoo).
 - **Fund flows:** No sourced ETF flow print used — **price leadership only**.
-- **Book map:** Fri rotation **mixed-to-hostile** for heavy sleeves — soft **XLV/XLP** fights UNH + staples day-tape; soft **XLRE + rising long rates** fights LEN; **XLI** green helps ODFL *same-day* but 5d industrials/LTL still weak; **XLY** strength supports TSLA risk appetite while **SPCX** underperformed theme peers (see peers).
+- **Book map:** Fri rotation **mixed-to-hostile** for heavy sleeves — soft **XLV (Health Care) / XLP (Consumer Staples)** fights UNH + staples day-tape; soft **XLRE (Real Estate) + rising long rates** fights LEN; **XLI (Industrials)** green helps ODFL *same-day* but 5d industrials/LTL still weak; **XLY (Consumer Discretionary)** strength supports TSLA risk appetite while **SPCX** underperformed theme peers (see peers).
+
+| ETF | Sector | 1D % | ~5D % |
+|-----|--------|------|-------|
+| XLK | Technology | -0.22 | -0.30 |
+| XLF | Financials | -0.11 | +1.12 |
+| XLE | Energy | +1.00 | -0.12 |
+| XLV | Health Care | -0.59 | -0.01 |
+| XLI | Industrials | +0.81 | -1.54 |
+| XLY | Consumer Discretionary | +3.29 | +6.11 |
+| XLP | Consumer Staples | -0.49 | +1.09 |
+| XLU | Utilities | -0.69 | -4.19 |
+| XLRE | Real Estate | -0.51 | -1.92 |
+| XLB | Materials | -2.34 | -1.62 |
+| XLC | Communication Services | +1.56 | +1.83 |
 
 ## Portfolio health (quant lens)
 
@@ -70,6 +84,10 @@ Fri **$414.40 (−1.7%)** inside managed-care peer range. Q2 guide raise / MCR *
 COST traffic comps OK; PG FY27 guide/chair continuity; HSY co-moved with MDLZ on volume/pricing scar with cocoa off peaks ([Costco 8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000060/costex9918-k7726.htm); [P&G](https://us.pg.com/newsroom/news-releases/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results/); [Hershey](https://www.prnewswire.com/news-releases/hershey-reports-second-quarter-2026-financial-results-302838129.html)).
 
 **No material update:** CMS/policy shock for UNH; COST membership deterioration; new LEN order print.
+
+## Portfolio recommendation (book-level)
+
+**[Hold policy]** on the core book into Monday; **risk-manage** the rates/cyclical and high-beta sleeves rather than redeploy. Evidence: SPY green but rotation mixed-to-hostile for heavy weights — soft **XLV (Health Care)** / **XLP (Consumer Staples)** / **XLRE (Real Estate)** while long rates remain elevated; concentration still ~57% in UNH+COST+ODFL inside soft bands; underwater LEN/SPCX/TSLA with `notes.md` no-average-down. Event risk is **SPCX** (Aug 4→6), not a core-thesis break in UNH/COST. Falsifiers: sharp drop in 10y/mortgage that stabilizes homebuilders; clean SPCX print with limited unlock overhang; or Cass/ISM signal that kills ODFL’s yield-over-tonnage story. Sleeve tilt: **Consider** only if owner refreshes LEN or SPCX thesis in the journal — otherwise do not chase XLY strength into TSLA/SPCX.
 
 ## Ranked suggestions (max 3)
 

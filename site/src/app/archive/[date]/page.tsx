@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { BookStanceCard } from "@/components/BookStanceCard";
 import { BriefToc } from "@/components/BriefToc";
 import { MarkdownBody } from "@/components/MarkdownBody";
+import { SectorRotationChart } from "@/components/SectorRotationChart";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getBriefBySlug, listBriefDates } from "@/lib/briefs";
 
@@ -30,10 +32,14 @@ export default async function ArchiveDatePage({ params }: Props) {
           <p className="hero__kicker">Archived note</p>
           <h1>{brief.title}</h1>
           <p className="hero__meta">
-            {brief.date}  ·  Quant  ·  Flows  ·  Peers/KPIs  ·  Fundamental
+            {brief.date}  ·  Quant  ·  Flows  ·  Book stance  ·  Fundamental
           </p>
         </section>
         <BriefToc sections={brief.sections} />
+        {brief.bookStance ? <BookStanceCard stance={brief.bookStance} /> : null}
+        {brief.sectorTape.length > 0 ? (
+          <SectorRotationChart rows={brief.sectorTape} asOf={brief.date} />
+        ) : null}
         <article className="panel">
           <MarkdownBody content={brief.content} />
         </article>

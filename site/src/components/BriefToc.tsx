@@ -7,6 +7,7 @@ const SHORT: Record<string, string> = {
   "leading indicators (book map)": "KPIs",
   "what needs attention today": "Attention",
   "position notes (fundamental lens)": "Positions",
+  "portfolio recommendation (book-level)": "Book stance",
   "ranked suggestions (max 3)": "Suggestions",
   "explicit non-actions": "Non-actions",
   "delta vs yesterday": "Delta",
@@ -26,11 +27,20 @@ export function BriefToc({ sections }: { sections: BriefSection[] }) {
     <nav className="brief-toc" aria-label="Brief sections">
       <p className="brief-toc__label">Jump</p>
       <ul className="brief-toc__list">
-        {sections.map((s) => (
-          <li key={s.id}>
-            <a href={`#${s.id}`}>{shortLabel(s.label)}</a>
-          </li>
-        ))}
+        {sections.map((s) => {
+          const key = s.label.toLowerCase().includes("portfolio recommendation")
+            || s.label.toLowerCase().includes("book-level");
+          return (
+            <li key={s.id}>
+              <a
+                href={`#${s.id}`}
+                className={key ? "is-key" : undefined}
+              >
+                {shortLabel(s.label)}
+              </a>
+            </li>
+          );
+        })}
       </ul>
     </nav>
   );

@@ -32,11 +32,13 @@ Research US market conditions plus Asia/HK overnight spillover. For each holding
 Also use the **Peers & leading indicators** table and **Sector rotation map** in holdings.md every run:
 1) Peer relative performance (holding vs peer set — flag material divergences only)
 2) Leading-indicator / KPI skim per name (rates/housing, freight, cocoa, utilization, traffic, deliveries/margin, theme ETF)
-3) Money flow / sector rotation: sector SPDR leaders/laggards + growth/value or large/small tone; map to this book (XLV, XLP, XLI, XLRE/rates, high-beta). Use public ETF performance; do not invent Bloomberg terminal flows.
+3) Money flow / sector rotation: sector SPDR leaders/laggards + growth/value or large/small tone; map to this book (XLV Health Care, XLP Staples, XLI Industrials, XLRE/rates, high-beta). Always label as **TICKER (Sector name)**. Include the required `| ETF | Sector | 1D % | ~5D % |` table for the site chart. Use public ETF performance; do not invent Bloomberg terminal flows.
 
-Produce today's one-page brief using the AGENTS.md template (includes Money flow / sector rotation, Portfolio health peer note, Leading indicators). Emphasize:
+Produce today's one-page brief using the AGENTS.md template (includes Money flow / sector rotation, Portfolio health peer note, Leading indicators, and **Portfolio recommendation (book-level)**). Emphasize:
 - What needs attention across the whole portfolio
-- Ranked suggestions (max 3) using only Watch / Review / Consider / Hold policy
+- One overall **book-level** recommendation/stance from regime + sector rotation + health/KPIs (policy verbs only)
+- Ranked suggestions (max 3) using only Watch / Review / Consider / Hold policy — consistent with the book-level stance
+- **Average-down / add-on-weakness** is allowed as **[Consider]** only when `rules.md` Average-down gate passes: thesis intact + sourced valuation attractiveness (not merely down vs cost) + risk bands + event awareness. Otherwise Hold policy / Watch / Review.
 - Sources with URLs
 
 Write:

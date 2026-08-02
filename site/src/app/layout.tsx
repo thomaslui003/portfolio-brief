@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     template: "%s · Portfolio brief",
   },
   description:
-    "Dual-analyst daily portfolio review — quant risk, sector flows, peers/KPIs, and fundamental lens.",
+    "Dual-analyst daily portfolio review — quant risk, sector flows, book-level stance, peers/KPIs, and fundamental lens.",
 };
 
 const themeInit = `

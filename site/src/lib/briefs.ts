@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
+import { extractBookStance, type BookStance } from "@/lib/bookStance";
 import { slugify } from "@/lib/slugify";
+import { extractSectorTape, type SectorTapeRow } from "@/lib/sectorTape";
 
 export type BriefMeta = {
   slug: string;
@@ -17,6 +19,8 @@ export type BriefSection = {
 export type Brief = BriefMeta & {
   content: string;
   sections: BriefSection[];
+  sectorTape: SectorTapeRow[];
+  bookStance: BookStance | null;
 };
 
 function reportsDir(): string {
@@ -29,6 +33,10 @@ function extractTitle(md: string, fallback: string): string {
 }
 
 function extractSummary(md: string): string {
+  const stance = extractBookStance(md);
+  if (stance) {
+    return `${stance.verb}: ${stance.body}`.slice(0, 160);
+  }
   const attention = /## What needs attention today\n([\s\S]*?)(?=\n## )/.exec(md);
   if (attention) {
     const firstBullet = /^- (.+)$/m.exec(attention[1]);
@@ -96,6 +104,8 @@ export function getBriefBySlug(slug: string): Brief | null {
     summary: extractSummary(content),
     content,
     sections: extractSections(content),
+    sectorTape: extractSectorTape(content),
+    bookStance: extractBookStance(content),
   };
 }
 

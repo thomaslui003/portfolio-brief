@@ -25,7 +25,8 @@ For **each** holding (UNH, COST, ODFL, TSLA, LEN, PG, HSY, SPCX):
 3. **Leading indicators / KPIs** from that same table (rates/mortgage for LEN, freight/ISM for ODFL, cocoa for HSY, utilization/CMS for UNH, membership/traffic for COST, deliveries/margin for TSLA, theme-ETF context for SPCX). Adverse KPI moves matter even if the stock is quiet.  
 4. **2–4 material headlines** from the last ~24–48h (skip if quiet).  
 5. **Financial context** when available: next earnings date, recent earnings/guidance, notable filing (8-K/10-Q), margin or volume commentary for cyclicals (ODFL, LEN), input costs (HSY), policy/utilization (UNH), membership/traffic (COST).  
-6. Map news + peer/KPI signal → **thesis** and **kill criteria** in `holdings.md`.  
+6. **Valuation skim** for names underwater vs cost (and any name where add-on-weakness might be relevant): peer multiples or vs own history when available (cite source). Note whether price looks **attractive on valuation**, merely cheap vs cost basis, or still rich.  
+7. Map news + peer/KPI + valuation signal → **thesis** and **kill criteria** in `holdings.md`. Apply `rules.md` **Average-down gate** before any **[Consider]** average-down / add-on-weakness.  
 
 Then **portfolio layer**:
 
@@ -33,7 +34,8 @@ Then **portfolio layer**:
 - Include brief **Asia/HK overnight** risk tone when relevant (China, FX, risk-on/off).  
 - **Money flow / sector rotation** (Bloomberg-style “where is the money”): last session (and ~5-day if available) leaders vs laggards among sector SPDRs and style proxies — see `holdings.md` → Sector rotation map. Cite public sources (Yahoo/Finviz/ETF.com/reputable wires). Do **not** invent Bloomberg terminal flows; use sector ETF performance + any published fund-flow headlines when available. Explicitly map winners/losers → this book’s clusters (healthcare, staples, industrials, housing/rates, high-beta/theme).  
 - Concentration & cluster risks (see holdings notes).  
-- What **needs attention today** vs noise (include peer divergence, KPI stress, or rotation fighting the book when material).
+- What **needs attention today** vs noise (include peer divergence, KPI stress, or rotation fighting the book when material).  
+- Close with a **book-level portfolio recommendation** that synthesizes regime + sector rotation + health/rules + KPIs into one overall stance (policy verbs only).
 
 Use browser/web search. Prefer primary sources (company IR, SEC, reputable wires). **No unsourced claims.**
 
@@ -60,11 +62,26 @@ The Next.js site under `site/` reads `reports/` at build time (GitHub Pages). Do
 5–8 lines. Rates, indices, risk tone, anything that hits this book’s clusters.
 
 ## Money flow / sector rotation
-Bloomberg-style “where money is”: 4–7 lines.
-- Leaders / laggards: sector SPDRs (XLK, XLF, XLE, XLV, XLI, XLY, XLP, XLU, XLRE, XLB, XLC) last session % when available; optional ~5-day.
-- Style: growth vs value and/or large vs small (e.g. QQQ/IWM or VUG/VTV proxies) — risk-on vs defensive tone.
-- Fund-flow headlines only if sourced (ETF flows / “money into X”); otherwise stick to price leadership.
-- **Book map:** one line — does rotation favor or fight this book’s weights (XLV→UNH, XLP→COST/PG/HSY, XLI→ODFL, XLRE/rates→LEN, high-beta/tech→TSLA/SPCX)?
+Bloomberg-style “where money is”: 4–7 lines of narrative **plus** the tape table below (required for the site chart).
+
+**Labeling rule (mandatory):** Never write bare SPDR tickers alone. Always use **`TICKER (Sector name)`**, e.g. `XLY (Consumer Discretionary)`, `XLV (Health Care)`, `XLP (Consumer Staples)`. Same for style proxies: `IWM (small caps)`, `IWF (growth)`, `IWD (value)`.
+
+Narrative bullets:
+- Leaders / laggards with **TICKER (Sector)** and % — last session; optional ~5-day.
+- Style: growth vs value and/or large vs small — risk-on vs defensive tone.
+- Fund-flow headlines only if sourced; otherwise price leadership.
+- **Book map:** one line — rotation favor/fight for this book (XLV Health Care→UNH, XLP Staples→COST/PG/HSY, XLI Industrials→ODFL, XLRE/rates→LEN, high-beta→TSLA/SPCX).
+
+**Required tape table** (include all 11 sector SPDRs when data available; cite source). Column headers must match exactly so the site can chart them:
+
+```markdown
+| ETF | Sector | 1D % | ~5D % |
+|-----|--------|------|-------|
+| XLY | Consumer Discretionary | +3.29 | +6.11 |
+| … | … | … | … |
+```
+
+Use signed percentages as numbers (e.g. `+3.29` / `-0.59`). Sector names from `holdings.md` → Sector rotation map.
 
 ## Portfolio health (quant lens)
 - Concentration / top weights
@@ -82,12 +99,27 @@ Bullet list — only material items (include peer divergence or adverse KPI). Qu
 ## Position notes (fundamental lens)
 One short subsection per ticker **with material news, peer divergence, or KPI update**. Quiet tickers can be grouped as “No material update: …”.
 
-For material names include: news/filing/peer-or-KPI → implication for thesis → risk/watch.
+For material names include: news/filing/peer-or-KPI → implication for thesis → risk/watch. For underwater names, one line on **valuation vs peers/history** when data exists (feeds the average-down gate).
+
+## Portfolio recommendation (book-level)
+**Required every run.** 4–7 lines synthesizing the whole book — not a repeat of single-name notes.
+
+Structure:
+1. **Stance** — one line opening with a policy verb: **[Watch|Review|Consider|Hold policy]** for the *portfolio as a whole* (e.g. Hold policy / risk-manage cyclicals / Watch event week).
+2. **Why (evidence)** — weave regime + money-flow/book map + concentration/rules + leading indicators + underwater names. Cite the hard data already used above.
+3. **What would change the stance** — 1–2 falsifiers (rates, ISM/freight, SPCX print, payrolls, etc.).
+4. **Optional sleeve tilt (Consider only)** — if rotation clearly favors/fights a cluster, **or** if an underwater name clears the `rules.md` average-down gate on valuation, note tradeoff language only (no share counts, no “buy/sell all”). Default to **Hold policy** when mixed or non-material.
+
+This section is the owner’s “so what for the whole book?” The next section’s max-3 items should be consistent with it.
 
 ## Ranked suggestions (max 3)
 1. **[Watch|Review|Consider|Hold policy]** … Evidence + source. Confidence: Low/Med/High. Falsifier: …
 2. …
 3. …
+
+Must align with **Portfolio recommendation (book-level)** — no conflicting book stance.
+
+**Average-down / add-on-weakness:** Allowed only as **[Consider]** when `rules.md` **Average-down gate** passes (thesis intact + sourced valuation attractiveness — not just down vs cost + risk bands + event awareness). If gate fails, use Hold policy / Watch / Review instead.
 
 ## Explicit non-actions
 What looks noisy / not worth acting on.
@@ -117,7 +149,9 @@ What changed since `reports/latest.md` (or “first run”).
 
 - Dual lens present (quant + fundamental)  
 - Peer relative check + leading-indicator map present (can be short if quiet)  
-- Money flow / sector rotation section present (leaders/laggards + book map)  
-- ≤3 suggestions, policy verbs only  
+- Money flow / sector rotation section present (leaders/laggards **with sector names**, book map, and **ETF | Sector | 1D % | ~5D %** table)  
+- **Portfolio recommendation (book-level)** present (stance + evidence + falsifier; policy verbs only)  
+- ≤3 ranked suggestions, policy verbs only, consistent with book-level stance  
+- Any average-down / add-on-weakness uses **[Consider]** only and passes `rules.md` Average-down gate (valuation + thesis + bands)  
 - Sources listed  
 - `reports/YYYY-MM-DD.md` and `reports/latest.md` match today’s brief  

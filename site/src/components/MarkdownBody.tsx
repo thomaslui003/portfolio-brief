@@ -19,6 +19,7 @@ function accentClass(label: string): string | undefined {
   if (t.includes("money flow") || t.includes("sector rotation")) return "prose-h2--flow";
   if (t.includes("leading indicator")) return "prose-h2--kpi";
   if (t.includes("needs attention")) return "prose-h2--attention";
+  if (t.includes("portfolio recommendation") || t.includes("book-level")) return "prose-h2--stance";
   if (t.includes("ranked suggestion")) return "prose-h2--suggest";
   return undefined;
 }

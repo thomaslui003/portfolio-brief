@@ -20,7 +20,7 @@ Snapshot from broker UI. Update quantities/weights after trades.
 - **Cyclical cluster:** ODFL + LEN (~29%) — freight + housing amplify industrial/rates sensitivity.
 - **Defensive cluster:** COST + PG + HSY (~35%) — staples ballast, but not immune to input costs (HSY) or valuation (COST).
 - **High-beta / thematic:** TSLA + SPCX (~15%) — narrative and multiple risk.
-- **LEN & SPCX & TSLA** are underwater vs cost — prioritize thesis stress-tests on these.
+- **LEN & SPCX & TSLA** are underwater vs cost — stress-test thesis; average-down only if `rules.md` Average-down gate passes (valuation + thesis + bands).
 - **SPCX** is an ETF proxy for space priority theme, not private SpaceX stock — analyze as ETF (holdings, liquidity, premium/discount if any).
 
 ## Peers & leading indicators (agent must-check)
@@ -46,17 +46,27 @@ Use for **relative performance** and **leading-indicator** checks each run. Cite
 
 Public proxies for a Bloomberg-style “where is the money” skim. Prefer last session % on sector SPDRs; add ~5-day when useful. Cite source.
 
-| Sleeve in this book | Sector / style proxy | Why it matters |
-|---------------------|----------------------|----------------|
-| UNH | **XLV** (Health Care) | Managed-care / healthcare leadership vs market |
-| COST, PG, HSY | **XLP** (Consumer Staples) | Defensive ballast; HSY also snacks/input-cost idiosyncratic |
-| ODFL | **XLI** (Industrials) | Freight/industrial cycle tone |
-| LEN | **XLRE** + rates (10y / mortgage); homebuilder peers | Housing / rate-sensitive money |
-| TSLA | **XLY** / mega-cap growth (**XLK** / QQQ as risk appetite) | High-beta consumer discretionary + growth tone |
-| SPCX | Theme / high-beta (ARKX, UFO, or QQQ risk-on) | Thematic money — not a GICS sector SPDR |
-| Whole book | Growth vs value; **IWM** vs SPY/QQQ | Risk-on/off and small-cap participation |
+**Always write `TICKER (Sector name)` in briefs** (never bare `XLY` alone).
+
+| ETF | Sector name (use in prose) | Sleeve in this book | Why it matters |
+|-----|----------------------------|---------------------|----------------|
+| **XLV** | Health Care | UNH | Managed-care / healthcare leadership vs market |
+| **XLP** | Consumer Staples | COST, PG, HSY | Defensive ballast; HSY also snacks/input-cost idiosyncratic |
+| **XLI** | Industrials | ODFL | Freight/industrial cycle tone |
+| **XLRE** | Real Estate | LEN (+ rates) | Housing / rate-sensitive money; pair with 10y / mortgage |
+| **XLY** | Consumer Discretionary | TSLA (context) | High-beta discretionary tone |
+| **XLK** | Technology | TSLA / risk appetite | Mega-cap growth / risk-on proxy (with QQQ) |
+| **XLC** | Communication Services | — (tape context) | Risk appetite / mega-cap platforms |
+| **XLF** | Financials | — (tape context) | Cyclical / rates-sensitive financials |
+| **XLE** | Energy | — (tape context) | Commodity / inflation tone |
+| **XLB** | Materials | — (tape context) | Cyclical industrials-adjacent |
+| **XLU** | Utilities | — (tape context) | Bond-proxy / duration |
+| Theme | ARKX / UFO (space theme ETFs) | SPCX | Thematic money — not a GICS sector SPDR |
+| Style | IWF (growth) / IWD (value); IWM (small caps) vs SPY/QQQ | Whole book | Risk-on/off and small-cap participation |
 
 **Rotation rule:** Call out when money is leaving the book’s heavy sleeves (e.g. soft XLV/XLP/XLI while indices up) or crowding into them. Price leadership ≠ confirmed fund flows — label fund-flow claims only when a source exists.
+
+**Site chart:** Every brief’s Money flow section must include the `| ETF | Sector | 1D % | ~5D % |` table so Pages can render the rotation graph.
 
 ## How to update
 
