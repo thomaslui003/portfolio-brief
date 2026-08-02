@@ -1,6 +1,6 @@
 # portfolio-brief
 
-Private dual-analyst notebook: **quant risk + fundamental review** of your portfolio, updated on weekday mornings before the US open, published to a private GitHub Pages site.
+Private dual-analyst notebook: **quant risk + fundamental review** of your portfolio, updated on weekday mornings before the US open, published via a **Next.js** static site on GitHub Pages.
 
 ## What’s in the box
 
@@ -12,8 +12,8 @@ Private dual-analyst notebook: **quant risk + fundamental review** of your portf
 | `calendar.md` | Earnings / catalysts |
 | `notes.md` | Your overrides |
 | `decisions/JOURNAL.md` | What you did after each brief |
-| `reports/` | Dated briefs + `latest.md` |
-| `docs/` | GitHub Pages site |
+| `reports/` | Dated briefs + `latest.md` (site source of truth) |
+| `site/` | Next.js (TypeScript) UI — static export to Pages |
 | `automation/PROMPT.md` | Cursor Automations setup |
 
 ## Holdings (snapshot 2026-08-02)
@@ -24,36 +24,38 @@ UNH · COST · ODFL · TSLA · LEN · PG · HSY · SPCX
 
 Mon–Fri **08:30 America/New_York** (1 hour before US cash open). Asia/HK overnight is included as spillover context (portfolio is US-listed).
 
-## Local preview of Pages
+## Local preview of the site
 
 ```bash
-node scripts/bake-site.mjs
-open docs/index.html
+cd site
+npm install
+npm run dev
 ```
 
-## Create the private GitHub repo
-
-`gh` was not available on this machine when scaffolding. From this folder:
+Production-like static build:
 
 ```bash
-# install GitHub CLI if needed, then:
-gh auth login
-gh repo create portfolio-brief --private --source=. --remote=origin --push
+cd site
+npm run build
+npx serve out
 ```
 
-Then: **Settings → Pages → Build and deployment → GitHub Actions**.
+GitHub Actions sets `GITHUB_ACTIONS=true` so the export uses `basePath=/portfolio-brief` for project Pages.
 
-Private Pages requires a GitHub plan that supports Pages on private repos.
+## GitHub Pages
+
+1. Repo **Settings → Pages → Source: GitHub Actions**
+2. Push to `main` (or re-run the **Deploy Pages** workflow)
+3. Site URL: `https://<user>.github.io/portfolio-brief/`
+
+Private Pages needs a GitHub plan that supports Pages on private repos.
 
 ## Cursor Automation
 
 1. Open [cursor.com/automations](https://cursor.com/automations)  
-2. New automation → schedule cron as in `automation/PROMPT.md`  
-3. Attach **this repository**  
-4. Paste the prompt from `automation/PROMPT.md`  
-5. Enable browser/computer use; allow commits/PRs to `main`  
-
-Or run once manually in Cursor Agent: “Follow AGENTS.md and produce today’s brief.”
+2. Schedule cron as in `automation/PROMPT.md`  
+3. Attach **this repository** on `main`  
+4. Paste the prompt; enable browser; **push to main, no PR**  
 
 ## Disclaimer
 

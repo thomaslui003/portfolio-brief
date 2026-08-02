@@ -11,7 +11,7 @@ Use this as the Cursor Automations prompt (cloud agent). Repo: this private `por
 
 ## Tools
 
-- Repository: **this repo** (required — write reports + push/PR)
+- Repository: **this repo** (required — write reports + push to `main`, no PR)
 - Computer use / browser: on (news + filings)
 - Memories: optional (open questions)
 - Slack: optional
@@ -37,10 +37,9 @@ Produce today's one-page brief using the AGENTS.md template. Emphasize:
 Write:
 - reports/YYYY-MM-DD.md (America/New_York date)
 - reports/latest.md (same body)
-- docs/latest.md (same body)
 - Update calendar.md lightly if you confirm events
 
-Commit and push to main with message: brief: YYYY-MM-DD portfolio dual-analyst update
+Do **not** open a pull request. Commit and push **directly to main** with message: brief: YYYY-MM-DD portfolio dual-analyst update
 
 If it is a US market holiday, say so and keep suggestions minimal.
 ```

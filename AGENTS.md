@@ -40,11 +40,11 @@ Use browser/web search. Prefer primary sources (company IR, SEC, reputable wires
 
 ### 2. Copy same content to `reports/latest.md`
 
-### 3. Update `docs/latest.md` with the same body (Pages home embeds this)
+### 3. Light-touch `calendar.md` — add/confirm earnings or known events for the next 14 days
 
-### 4. Light-touch `calendar.md` — add/confirm earnings or known events for the next 14 days
+### 4. Append 1–3 **Open questions** to the brief for next run; do not invent owner decisions
 
-### 5. Append 1–3 **Open questions** to the brief for next run; do not invent owner decisions
+The Next.js site under `site/` reads `reports/` at build time (GitHub Pages). Do **not** edit `site/` unless asked — publishing is via `reports/*.md` + push to `main`.
 
 ## Required report template
 
@@ -94,9 +94,9 @@ What changed since `reports/latest.md` (or “first run”).
 
 ## Git / delivery
 
-- Commit updated reports + `docs/latest.md` (+ calendar if changed) with message:  
+- Commit updated reports (+ calendar if changed) with message:  
   `brief: YYYY-MM-DD portfolio dual-analyst update`  
-- Push to `main` so GitHub Pages rebuilds (if configured).  
+- Push **directly to `main`** (do **not** open a pull request) so GitHub Pages rebuilds.  
 - Do **not** commit secrets. Do **not** expand position sizes in public text beyond what’s already in this private repo.
 
 ## Done criteria
@@ -104,4 +104,4 @@ What changed since `reports/latest.md` (or “first run”).
 - Dual lens present (quant + fundamental)  
 - ≤3 suggestions, policy verbs only  
 - Sources listed  
-- `reports/latest.md` and `docs/latest.md` match today’s brief  
+- `reports/YYYY-MM-DD.md` and `reports/latest.md` match today’s brief  

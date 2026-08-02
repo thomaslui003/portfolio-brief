@@ -23,15 +23,20 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
 
-      - name: Bake latest.md into docs/index.html + archive links
-        run: node scripts/bake-site.mjs
+      - name: Install & build Next.js static export
+        working-directory: site
+        run: |
+          npm ci
+          npm run build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs
+          path: site/out
 
   deploy:
     needs: build
