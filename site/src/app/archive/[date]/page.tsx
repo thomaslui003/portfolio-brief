@@ -4,6 +4,7 @@ import { BookStanceCard } from "@/components/BookStanceCard";
 import { BriefToc } from "@/components/BriefToc";
 import { MarkdownBody } from "@/components/MarkdownBody";
 import { PositionRatingsCard } from "@/components/PositionRatingsCard";
+import { PremarketChart } from "@/components/PremarketChart";
 import { SectorRotationChart } from "@/components/SectorRotationChart";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getBriefBySlug, listBriefDates } from "@/lib/briefs";
@@ -36,7 +37,7 @@ export default async function ArchiveDatePage({ params }: Props) {
           <p className="hero__kicker">Archived note</p>
           <h1>{brief.title}</h1>
           <p className="hero__meta">
-            {brief.date}  ·  Quant  ·  Ratings  ·  Flows  ·  Book stance
+            {brief.date}  ·  Premarket  ·  Quant  ·  Ratings  ·  Flows  ·  Book stance
           </p>
         </section>
         <BriefToc sections={brief.sections} />
@@ -47,6 +48,9 @@ export default async function ArchiveDatePage({ params }: Props) {
             brief.sections.some((s) => s.id === ratingsId) ? ratingsId : undefined
           }
         />
+        {brief.premarketTape.length > 0 ? (
+          <PremarketChart rows={brief.premarketTape} asOf={brief.date} />
+        ) : null}
         {brief.sectorTape.length > 0 ? (
           <SectorRotationChart rows={brief.sectorTape} asOf={brief.date} />
         ) : null}

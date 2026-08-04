@@ -2,6 +2,7 @@ import type { BriefSection } from "@/lib/briefs";
 
 const SHORT: Record<string, string> = {
   "market regime (us + asia/hk overnight)": "Regime",
+  "us premarket": "Premarket",
   "money flow / sector rotation": "Flows",
   "portfolio health (quant lens)": "Health",
   "leading indicators (book map)": "KPIs",

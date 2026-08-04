@@ -548,6 +548,19 @@ a:hover {
   letter-spacing: 0.02em;
 }
 
+.rotation__group {
+  margin: 0 0 0.45rem;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.rotation__group--follow {
+  margin-top: 0.85rem;
+}
+
 .rotation__legend {
   display: flex;
   align-items: center;
@@ -802,6 +815,11 @@ html[data-theme="light"] .rotation__vals .is-down {
   margin-top: 0.35rem;
   padding-top: 0;
   border-top: none;
+}
+
+.prose h2.prose-h2--premarket {
+  box-shadow: inset 3px 0 0 var(--accent);
+  padding-left: 0.65rem;
 }
 
 .prose h2.prose-h2--flow {

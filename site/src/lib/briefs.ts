@@ -6,6 +6,7 @@ import {
   type PositionRatingRow,
 } from "@/lib/ratingLabels";
 import { slugify } from "@/lib/slugify";
+import { extractPremarketTape, type PremarketTapeRow } from "@/lib/premarketTape";
 import { extractSectorTape, type SectorTapeRow } from "@/lib/sectorTape";
 
 export type BriefMeta = {
@@ -24,6 +25,7 @@ export type Brief = BriefMeta & {
   content: string;
   sections: BriefSection[];
   sectorTape: SectorTapeRow[];
+  premarketTape: PremarketTapeRow[];
   bookStance: BookStance | null;
   positionRatings: PositionRatingRow[];
 };
@@ -110,6 +112,7 @@ export function getBriefBySlug(slug: string): Brief | null {
     content,
     sections: extractSections(content),
     sectorTape: extractSectorTape(content),
+    premarketTape: extractPremarketTape(content),
     bookStance: extractBookStance(content),
     positionRatings: extractPositionRatings(content),
   };

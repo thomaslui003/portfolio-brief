@@ -22,7 +22,7 @@ UNH · COST · ODFL · TSLA · LEN · PG · HSY · SPCX
 
 ## Schedule
 
-Mon–Fri **08:30 America/New_York** (1 hour before US cash open). Asia/HK overnight is included as spillover context (portfolio is US-listed).
+Mon–Fri **08:30 America/New_York** (1 hour before US cash open). Each brief includes a **US premarket** snapshot (index futures + holdings) plus Asia/HK overnight spillover (portfolio is US-listed).
 
 ## Local preview of the site
 

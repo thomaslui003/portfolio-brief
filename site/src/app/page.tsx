@@ -3,6 +3,7 @@ import { BookStanceCard } from "@/components/BookStanceCard";
 import { BriefToc } from "@/components/BriefToc";
 import { MarkdownBody } from "@/components/MarkdownBody";
 import { PositionRatingsCard } from "@/components/PositionRatingsCard";
+import { PremarketChart } from "@/components/PremarketChart";
 import { SectorRotationChart } from "@/components/SectorRotationChart";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getLatestBrief } from "@/lib/briefs";
@@ -25,7 +26,7 @@ export default function HomePage() {
           <h1>{brief?.title ?? "Portfolio brief"}</h1>
           <p className="hero__meta">
             {brief
-              ? `${brief.date}  ·  Quant  ·  Ratings  ·  Flows  ·  Book stance`
+              ? `${brief.date}  ·  Premarket  ·  Quant  ·  Ratings  ·  Flows  ·  Book stance`
               : "No brief published yet"}
           </p>
         </section>
@@ -38,6 +39,9 @@ export default function HomePage() {
               brief.sections.some((s) => s.id === ratingsId) ? ratingsId : undefined
             }
           />
+        ) : null}
+        {brief && brief.premarketTape.length > 0 ? (
+          <PremarketChart rows={brief.premarketTape} asOf={brief.date} />
         ) : null}
         {brief && brief.sectorTape.length > 0 ? (
           <SectorRotationChart rows={brief.sectorTape} asOf={brief.date} />

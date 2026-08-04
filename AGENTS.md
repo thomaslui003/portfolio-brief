@@ -20,7 +20,7 @@ Your job is **not** to place trades. Your job is to produce a **1–2 page** dai
 
 For **each** holding (UNH, COST, ODFL, TSLA, LEN, PG, HSY, SPCX):
 
-1. Latest **price / % day change** if available (cite source).  
+1. Latest **price / % day change** and, on weekday pre-open runs, **premarket %** if available (cite source).  
 2. **Peer relative performance** using the peer set in `holdings.md` → Peers & leading indicators. Same-day (or last session) % for holding vs 1–3 peers when available. Flag only **material divergences**; industry-wide co-moves go in one compact line.  
 3. **Leading indicators / KPIs** from that same table (rates/mortgage for LEN, freight/ISM for ODFL, cocoa for HSY, utilization/CMS for UNH, membership/traffic for COST, deliveries/margin for TSLA, theme-ETF context for SPCX). Adverse KPI moves matter even if the stock is quiet.  
 4. **2–4 material headlines** from the last ~24–48h (skip if quiet).  
@@ -32,6 +32,7 @@ Then **portfolio layer**:
 
 - Market regime: US futures/indices, rates (esp. for LEN), freight/industrial tone (ODFL), consumer (COST/PG/HSY), healthcare policy (UNH), risk appetite (TSLA/SPCX).  
 - Include brief **Asia/HK overnight** risk tone when relevant (China, FX, risk-on/off).  
+- **US premarket** (required on weekday sessions before cash open): index futures (ES/NQ/YM/RTY), 10Y/VIX tone when relevant, and **premarket % for each holding** when available. Cite Yahoo Finance / CNBC / reputable wire. On holiday/weekend: state closed — omit the premarket table.  
 - **Money flow / sector rotation** (Bloomberg-style “where is the money”): last session (and ~5-day if available) leaders vs laggards among sector SPDRs and style proxies — see `holdings.md` → Sector rotation map. Cite public sources (Yahoo/Finviz/ETF.com/reputable wires). Do **not** invent Bloomberg terminal flows; use sector ETF performance + any published fund-flow headlines when available. Explicitly map winners/losers → this book’s clusters (healthcare, staples, industrials, housing/rates, high-beta/theme).  
 - Concentration & cluster risks (see holdings notes).  
 - What **needs attention today** vs noise (include peer divergence, KPI stress, or rotation fighting the book when material).  
@@ -61,6 +62,30 @@ The Next.js site under `site/` reads `reports/` at build time (GitHub Pages). Do
 
 ## Market regime (US + Asia/HK overnight)
 5–8 lines. Rates, indices, risk tone, anything that hits this book’s clusters.
+
+## US premarket
+3–5 lines. Futures tone into the open, rates/VIX if material, and any **book-relevant** premarket gaps (event names, high-beta, underwater names). Cite source. Holiday/weekend: one line “US closed — no premarket tape” and skip the table.
+
+**Required premarket table** (weekday sessions; include index futures + all holdings when data available). Column headers must match exactly so the site can chart them:
+
+```markdown
+| Symbol | Name | Premarket % |
+|--------|------|-------------|
+| ES | S&P 500 futures | +0.22 |
+| NQ | Nasdaq 100 futures | +0.35 |
+| YM | Dow futures | +0.12 |
+| RTY | Russell 2000 futures | -0.05 |
+| UNH | UnitedHealth | +0.40 |
+| COST | Costco | -0.15 |
+| ODFL | Old Dominion | +0.10 |
+| TSLA | Tesla | +0.80 |
+| LEN | Lennar | -0.55 |
+| PG | Procter & Gamble | +0.05 |
+| HSY | Hershey | -0.20 |
+| SPCX | SPCX ETF | +0.30 |
+```
+
+Use signed percentages as numbers (e.g. `+0.22` / `-0.55`). Prefer continuous futures % vs prior settle (or indicated cash index % if futures unavailable — note which). Holdings: Yahoo/CNBC premarket % vs prior close.
 
 ## Money flow / sector rotation
 Bloomberg-style “where money is”: 4–7 lines of narrative **plus** the tape table below (required for the site chart).
@@ -173,6 +198,7 @@ What changed since `reports/latest.md` (or “first run”).
 - Dual lens present (quant + fundamental)  
 - **Position ratings (dual lens)** table present for every holding (Quant / Fundamental / Net)  
 - Peer relative check + leading-indicator map present (can be short if quiet)  
+- **US premarket** section present on weekday sessions (narrative + **Symbol | Name | Premarket %** table for futures + holdings); holiday/weekend may omit the table  
 - Money flow / sector rotation section present (leaders/laggards **with sector names**, book map, and **ETF | Sector | 1D % | ~5D %** table)  
 - **Portfolio recommendation (book-level)** present (stance + evidence + falsifier; policy verbs only)  
 - ≤3 ranked suggestions, policy verbs only, consistent with book-level stance and Net ratings  

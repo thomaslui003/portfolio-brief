@@ -16,6 +16,7 @@ function plainText(node: ReactNode): string {
 
 function accentClass(label: string): string | undefined {
   const t = label.toLowerCase();
+  if (t.includes("premarket")) return "prose-h2--premarket";
   if (t.includes("money flow") || t.includes("sector rotation")) return "prose-h2--flow";
   if (t.includes("leading indicator")) return "prose-h2--kpi";
   if (t.includes("needs attention")) return "prose-h2--attention";
