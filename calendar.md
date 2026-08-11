@@ -15,6 +15,8 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-08-07 | COST | Dividend payable | $1.47/sh; record was Jul 24 ([Costco 8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000060/costex9918-k7726.htm)) |
 | 2026-08-07 | Macro | US employment report (payrolls) | **Printed −23k** (cons. ~**+83k**); U-3 **4.1%**; AHE **+3.2% YoY**; May/Jun revised **−103k** ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm); [NBC](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138)) |
 | 2026-08-10 | Macro | US cash open (Mon) / Asia spillover | Futures mixed into CPI week; oil bid on Hormuz; HSI **25,937 (+1.05%)**, Nikkei **+2.08%** ([TipRanks](https://www.tipranks.com/news/stock-market-news-today-8-10-26-futures-wobble-ahead-of-earnings-cpi-data); [Bastille Post](https://www.bastillepost.com/global/article/6071218-hong-kong-stocks-close-higher-monday-15)) |
+| 2026-08-11 | Macro | Existing-home sales (Jul) | **Printed −1.7% MoM** to **4.06M** SAAR; median **$434.1k (+2% YoY)**; inventory **1.54M** ([ABC/AP](https://abcnews.com/Business/wireStory/us-existing-homes-fall-17-july-record-prices-135546362); [NAR/Realtor.com](https://www.realtor.com/news/trends/existing-home-sales-prices-july-2026-nar-report/)) |
+| 2026-08-11 | Macro | US cash / Asia spillover | CPI eve; HSI **25,652.82 (−1.1%)**; Nikkei **holiday** ([Bastille Post](https://www.bastillepost.com/global/article/6073632-hong-kongs-hang-seng-index-closes-1-1-pct-lower); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1865737-20260811.htm?spTabChangeable=0)) |
 | 2026-08-12 | Macro | CPI (July) | 8:30 a.m. ET — headline cons. ~**3.4%** YoY / core ~**2.5%** (Reuters survey via MarketFinch); LEN/rates Watch ([BLS](https://www.bls.gov/schedule/news_release/cpi.htm); [MarketFinch](https://marketfinch.com/july-cpi-august-12-2026-fed-rate-test/)) |
 | 2026-08-13 | Macro | PPI (July) | 8:30 a.m. ET — follow-through inflation print after CPI ([MarketFinch](https://marketfinch.com/july-cpi-august-12-2026-fed-rate-test/); [BLS PPI schedule](https://www.bls.gov/schedule/news_release/ppi.htm)) |
 | 2026-08-13 | Macro | Freddie Mac PMMS (weekly) | Noon ET — next mortgage KPI after **6.69%** (Aug 6) ([Freddie Mac](https://www.freddiemac.com/pmms); [FRED](https://fred.stlouisfed.org/series/MORTGAGE30US)) |
@@ -37,5 +39,5 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: **CPI Wed Aug 12** / PPI Thu / retail Fri after Jul payrolls **−23k** + **−103k** revisions; Freddie **6.69%** sticky vs ~**4.69%** 10y Mon (LEN); oil/Hormuz inflation overhang; ISM Jul **55.6** (ODFL); cocoa ~**$5.8k** (HSY KPI cooler); healthcare policy (UNH); SPCX unlock **Aug 20** next (high-beta)
-- Asia/HK overnight: HSI **25,937 (+1.05%)** / Nikkei **+2.08%** Aug 10 — constructive spillover only
+- US: **CPI Wed Aug 12** / PPI Thu / retail Fri after Jul payrolls **−23k** + **−103k** revisions; NAR Jul existing sales **−1.7%** (LEN); Freddie **6.69%** sticky vs ~**4.68%** 10y Tue; oil/Hormuz ~**$82** inflation overhang; ISM Jul **55.6** (ODFL); cocoa ~**$5.7k** (HSY KPI cooler); healthcare policy (UNH); SPCX unlock **Aug 20** next (high-beta)
+- Asia/HK overnight: HSI **25,652 (−1.1%)** Aug 11 / Nikkei holiday — risk-off HK spillover only
