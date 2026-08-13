@@ -1,14 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { BookStanceCard } from "@/components/BookStanceCard";
-import { BriefToc } from "@/components/BriefToc";
-import { MarkdownBody } from "@/components/MarkdownBody";
-import { PositionRatingsCard } from "@/components/PositionRatingsCard";
-import { PremarketChart } from "@/components/PremarketChart";
-import { SectorRotationChart } from "@/components/SectorRotationChart";
+import { BriefDesk } from "@/components/BriefDesk";
+import { DeskHero } from "@/components/DeskHero";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { getBriefBySlug, listBriefDates } from "@/lib/briefs";
-import { slugify } from "@/lib/slugify";
+import { getHoldings, getUpcomingEvents } from "@/lib/loadBook";
 
 type Props = { params: Promise<{ date: string }> };
 
@@ -26,37 +22,15 @@ export default async function ArchiveDatePage({ params }: Props) {
   const { date } = await params;
   const brief = getBriefBySlug(date);
   if (!brief) notFound();
-
-  const ratingsId = slugify("Position ratings (dual lens)");
+  const holdings = getHoldings();
+  const events = getUpcomingEvents(brief.date);
 
   return (
     <>
       <SiteHeader active="archive" />
       <main className="shell">
-        <section className="hero">
-          <p className="hero__kicker">Archived note</p>
-          <h1>{brief.title}</h1>
-          <p className="hero__meta">
-            {brief.date}  ·  Premarket  ·  Quant  ·  Ratings  ·  Flows  ·  Book stance
-          </p>
-        </section>
-        <BriefToc sections={brief.sections} />
-        {brief.bookStance ? <BookStanceCard stance={brief.bookStance} /> : null}
-        <PositionRatingsCard
-          rows={brief.positionRatings}
-          sectionId={
-            brief.sections.some((s) => s.id === ratingsId) ? ratingsId : undefined
-          }
-        />
-        {brief.premarketTape.length > 0 ? (
-          <PremarketChart rows={brief.premarketTape} asOf={brief.date} />
-        ) : null}
-        {brief.sectorTape.length > 0 ? (
-          <SectorRotationChart rows={brief.sectorTape} asOf={brief.date} />
-        ) : null}
-        <article className="panel">
-          <MarkdownBody content={brief.content} />
-        </article>
+        <DeskHero kicker="Archived note" brief={brief} holdings={holdings} />
+        <BriefDesk brief={brief} holdings={holdings} events={events} />
       </main>
       <SiteFooter />
     </>

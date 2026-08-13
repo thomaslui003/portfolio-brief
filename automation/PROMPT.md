@@ -35,12 +35,14 @@ Also use the **Peers & leading indicators** table and **Sector rotation map** in
 3) **US premarket**: include the required `| Symbol | Name | Premarket % |` table (futures + all holdings when available) for the site chart; holiday/weekend → note closed and skip the table
 4) Money flow / sector rotation: sector SPDR leaders/laggards + growth/value or large/small tone; map to this book (XLV Health Care, XLP Staples, XLI Industrials, XLRE/rates, high-beta). Always label as **TICKER (Sector name)**. Include the required `| ETF | Sector | 1D % | ~5D % |` table for the site chart. Use public ETF performance; do not invent Bloomberg terminal flows.
 
-Produce today's **1–2 page** brief using the AGENTS.md template (includes **US premarket**, Money flow / sector rotation, Portfolio health, Leading indicators, **Position ratings (dual lens)**, and **Portfolio recommendation (book-level)**). Prefer nearer 1 page when quiet. Emphasize:
-- What needs attention across the whole portfolio
-- **Per-position ratings** from both Quant and Fundamental lenses (Trim | Hold | Add | Watch | Review) plus Net — every ticker
-- One overall **book-level** recommendation/stance from regime + sector rotation + health/KPIs + ratings (policy verbs only)
-- Ranked suggestions (max 3) using only Watch / Review / Consider / Hold policy — consistent with the book-level stance and Net ratings
-- **Average-down / Add** is allowed as **[Consider]** only when `rules.md` Average-down gate passes: thesis intact + sourced valuation attractiveness (not merely down vs cost) + risk bands + event awareness. Otherwise Hold policy / Watch / Review.
+Produce today's brief using the AGENTS.md template. **Prefer ~1 page.** The site shows five views (Decision / Book / Tape / Names / Note) — **write each hard number once** (see AGENTS.md Write-once). Do not recap CPI/rates/P&E/KPI values in attention, notes, book stance, *and* suggestions.
+
+Emphasize:
+- A short **book-level stance** (3–4 lines: verb + so-what + falsifier — not a second brief)
+- **Attention** bullets that name the issue, not reprint KPIs
+- **Per-position ratings** (Quant / Fundamental / Net) for every ticker
+- Ranked suggestions (max 3, ≤2 sentences each) using only Watch / Review / Consider / Hold policy — consistent with stance and Net ratings
+- **Average-down / Add** as **[Consider]** only when `rules.md` Average-down gate passes
 - Sources with URLs
 
 Write:

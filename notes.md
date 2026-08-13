@@ -6,8 +6,8 @@ Write free-form intent here. The automation must respect these.
 
 - Dual goal: **quant risk awareness** + **fundamental suggestion quality**.
 - Prefer clarity over trade frequency. Default bias: **Hold policy** unless material.
-- Brief length: **1–2 pages** (shorter OK when quiet).
-- Each brief should include **dual-lens position ratings** (Trim/Hold/Add/Watch/Review) for every name, a clear **book-level portfolio recommendation**, then ≤3 ranked name/event items that agree with Net ratings.
+- Brief length: **~1 page**. Do not repeat the same print across sections — the site splits Decision / Book / Tape / Names.
+- Each brief should include **dual-lens position ratings** (Trim/Hold/Add/Watch/Review) for every name, a short **book-level stance**, then ≤3 ranked items that agree with Net ratings.
 
 ## Constraints
 

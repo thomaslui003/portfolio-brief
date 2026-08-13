@@ -11,7 +11,7 @@ export function SiteHeader({ active }: { active: "latest" | "archive" }) {
           <Link href="/" className="brand">
             Portfolio Brief
           </Link>
-          <p className="brand-tag">Research desk · quant, flows &amp; book stance</p>
+          <p className="brand-tag">Research desk · five perspectives</p>
         </div>
         <div className="header-actions">
           <nav className="nav" aria-label="Primary">

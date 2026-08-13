@@ -1,13 +1,16 @@
 import fs from "node:fs";
 import path from "node:path";
+import { extractAttention, extractBookMap, extractDelta, extractFlowsNarrative, extractHealth, extractKpis, extractNonActions, extractPremarketNarrative, extractQuestions, extractRegime, type AttentionItem } from "@/lib/attention";
 import { extractBookStance, type BookStance } from "@/lib/bookStance";
+import { extractPositionNotes, type PositionNote } from "@/lib/positionNotes";
+import { extractPremarketTape, type PremarketTapeRow } from "@/lib/premarketTape";
 import {
   extractPositionRatings,
   type PositionRatingRow,
 } from "@/lib/ratingLabels";
-import { slugify } from "@/lib/slugify";
-import { extractPremarketTape, type PremarketTapeRow } from "@/lib/premarketTape";
 import { extractSectorTape, type SectorTapeRow } from "@/lib/sectorTape";
+import { slugify } from "@/lib/slugify";
+import { extractSuggestions, type Suggestion } from "@/lib/suggestions";
 
 export type BriefMeta = {
   slug: string;
@@ -28,6 +31,18 @@ export type Brief = BriefMeta & {
   premarketTape: PremarketTapeRow[];
   bookStance: BookStance | null;
   positionRatings: PositionRatingRow[];
+  attention: AttentionItem[];
+  suggestions: Suggestion[];
+  nonActions: string[];
+  delta: string;
+  questions: string[];
+  kpis: string[];
+  health: string[];
+  bookMap: string | null;
+  regime: string;
+  premarketNarrative: string;
+  flowsNarrative: string;
+  positionNotes: PositionNote[];
 };
 
 function reportsDir(): string {
@@ -44,18 +59,8 @@ function extractSummary(md: string): string {
   if (stance) {
     return `${stance.verb}: ${stance.body}`.slice(0, 160);
   }
-  const attention = /## What needs attention today\n([\s\S]*?)(?=\n## )/.exec(md);
-  if (attention) {
-    const firstBullet = /^- (.+)$/m.exec(attention[1]);
-    if (firstBullet) return firstBullet[1].replace(/\*\*/g, "").slice(0, 160);
-  }
-  const money = /## Money flow \/ sector rotation\n([\s\S]*?)(?=\n## )/.exec(md);
-  if (money) {
-    const bookMap = /Book map[:\s*]*([^\n]+)/i.exec(money[1]);
-    if (bookMap) return bookMap[1].replace(/\*\*/g, "").slice(0, 160);
-    const firstBullet = /^- (.+)$/m.exec(money[1]);
-    if (firstBullet) return firstBullet[1].replace(/\*\*/g, "").slice(0, 160);
-  }
+  const attention = extractAttention(md);
+  if (attention[0]) return attention[0].text.slice(0, 160);
   const lines = md
     .split("\n")
     .map((l) => l.trim())
@@ -115,6 +120,18 @@ export function getBriefBySlug(slug: string): Brief | null {
     premarketTape: extractPremarketTape(content),
     bookStance: extractBookStance(content),
     positionRatings: extractPositionRatings(content),
+    attention: extractAttention(content),
+    suggestions: extractSuggestions(content),
+    nonActions: extractNonActions(content),
+    delta: extractDelta(content),
+    questions: extractQuestions(content),
+    kpis: extractKpis(content),
+    health: extractHealth(content),
+    bookMap: extractBookMap(content),
+    regime: extractRegime(content),
+    premarketNarrative: extractPremarketNarrative(content),
+    flowsNarrative: extractFlowsNarrative(content),
+    positionNotes: extractPositionNotes(content),
   };
 }
 

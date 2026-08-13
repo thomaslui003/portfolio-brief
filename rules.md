@@ -61,7 +61,7 @@ Never write: “buy N shares”, “sell all”, “market order”, or guarante
 - Max **3** ranked (name/event) suggestions per daily brief, plus one **Portfolio recommendation (book-level)** stance section and a full **Position ratings (dual lens)** table.
 - Prefer **Do nothing / Hold policy** when news is non-material.
 - **Average-down / add-on-weakness** only via **[Consider]** when the **Average-down gate** above is fully met (valuation attractiveness required — not just P&L vs cost). A Net rating of **Add** does not bypass the gate.
-- Target brief length **1–2 pages** (quiet days can be shorter).
+- Target brief length **~1 page** (2 pages only if several theses are in motion). Obey AGENTS.md **Write-once** — do not reprint the same hard number across sections.
 - Separate **hard data** (price, filings, earnings dates, reported metrics, valuation multiples when cited) from **narrative**.
 - Each run must include a **peer relative** check and a **leading-indicator** skim using the table in `holdings.md` (short is fine when quiet; do not invent peer prints).
 - Each run must include a **money flow / sector rotation** skim (sector SPDR leaders/laggards labeled **`TICKER (Sector name)`**, book map, and `| ETF | Sector | 1D % | ~5D % |` table from `holdings.md`). Prefer hard ETF %; label any fund-flow narrative only with a source — no fake Bloomberg terminal numbers.

@@ -2,6 +2,16 @@
 
 Private dual-analyst notebook: **quant risk + fundamental review** of your portfolio, updated on weekday mornings before the US open, published via a **Next.js** static site on GitHub Pages.
 
+The site is a **desk with five perspectives** (not a single scrolling note):
+
+| View | Question it answers |
+|------|---------------------|
+| **Decision** | What is the book stance, what needs attention, what are the ≤3 suggestions? |
+| **Book** | What do I own — weights, clusters, P&L vs cost, rule-band pressure? |
+| **Tape** | What is the market doing — premarket, sector rotation, regime, KPIs? |
+| **Names** | What is the case for each holding — thesis, kill line, dual-lens rating? |
+| **Note** | Full source brief (for citations and archive). |
+
 ## What’s in the box
 
 | Path | Role |

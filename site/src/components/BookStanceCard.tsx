@@ -1,8 +1,9 @@
 import type { BookStance } from "@/lib/bookStance";
+import { policyVerbClass } from "@/lib/format";
 
 /** Compact callout for the book-level portfolio recommendation. */
 export function BookStanceCard({ stance }: { stance: BookStance }) {
-  const verbClass = verbTone(stance.verb);
+  const verbClass = policyVerbClass(stance.verb);
 
   return (
     <aside className="stance-card" aria-labelledby="stance-card-heading">
@@ -13,17 +14,11 @@ export function BookStanceCard({ stance }: { stance: BookStance }) {
         <span className={`stance-card__verb ${verbClass}`}>{stance.verb}</span>
       </div>
       <p className="stance-card__body">{stance.body}</p>
-      <a className="stance-card__link" href={`#${stance.sectionId}`}>
-        Full recommendation ↓
-      </a>
+      {stance.falsifier ? (
+        <p className="stance-card__falsifier">
+          <span>Falsifier</span> {stance.falsifier}
+        </p>
+      ) : null}
     </aside>
   );
-}
-
-function verbTone(verb: string): string {
-  const v = verb.toLowerCase();
-  if (v.includes("review")) return "is-review";
-  if (v.includes("consider")) return "is-consider";
-  if (v.includes("watch")) return "is-watch";
-  return "is-hold";
 }
