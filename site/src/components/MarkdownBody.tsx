@@ -26,7 +26,13 @@ function accentClass(label: string): string | undefined {
   return undefined;
 }
 
-export function MarkdownBody({ content }: { content: string }) {
+type Props = {
+  content: string;
+  /** Hide H1 (already in the page hero). */
+  hideH1?: boolean;
+};
+
+export function MarkdownBody({ content, hideH1 = true }: Props) {
   const seen = new Set<string>();
 
   return (
@@ -39,6 +45,7 @@ export function MarkdownBody({ content }: { content: string }) {
               {children}
             </a>
           ),
+          h1: ({ children }) => (hideH1 ? null : <h1>{children}</h1>),
           h2: ({ children }) => {
             const label = plainText(children).trim();
             let id = slugify(label) || "section";

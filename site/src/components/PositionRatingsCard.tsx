@@ -6,28 +6,42 @@ import {
 
 type Props = {
   rows: PositionRatingRow[];
-  sectionId?: string;
+  compact?: boolean;
 };
 
-/** Legend for allowed dual-lens ratings + optional per-name table. */
-export function PositionRatingsCard({ rows, sectionId }: Props) {
+/** Dual-lens ratings table. Compact mode drops the five-row legend. */
+export function PositionRatingsCard({ rows, compact = true }: Props) {
   return (
     <section className="ratings-card" aria-labelledby="ratings-card-heading">
       <div className="ratings-card__head">
         <h2 id="ratings-card-heading">Position ratings</h2>
         <p className="ratings-card__meta">
-          Dual lens · Quant + Fundamental → Net · stances, not orders
+          Quant · Fundamental · Net — stances, not orders
         </p>
       </div>
 
-      <div className="ratings-legend" aria-label="Allowed rating labels">
-        {RATING_LABELS.map((r) => (
-          <div key={r.id} className="ratings-legend__item">
-            <span className={`rating-pill ${ratingToneClass(r.id)}`}>{r.id}</span>
-            <span className="ratings-legend__meaning">{r.meaning}</span>
-          </div>
-        ))}
-      </div>
+      {compact ? (
+        <div className="ratings-legend ratings-legend--row" aria-label="Rating scale">
+          {RATING_LABELS.map((r) => (
+            <span
+              key={r.id}
+              className={`rating-pill ${ratingToneClass(r.id)}`}
+              title={r.meaning}
+            >
+              {r.id}
+            </span>
+          ))}
+        </div>
+      ) : (
+        <div className="ratings-legend" aria-label="Allowed rating labels">
+          {RATING_LABELS.map((r) => (
+            <div key={r.id} className="ratings-legend__item">
+              <span className={`rating-pill ${ratingToneClass(r.id)}`}>{r.id}</span>
+              <span className="ratings-legend__meaning">{r.meaning}</span>
+            </div>
+          ))}
+        </div>
+      )}
 
       {rows.length > 0 ? (
         <div className="ratings-table-wrap">
@@ -72,12 +86,6 @@ export function PositionRatingsCard({ rows, sectionId }: Props) {
           ratings (dual lens).
         </p>
       )}
-
-      {sectionId ? (
-        <a className="ratings-card__link" href={`#${sectionId}`}>
-          Full ratings section ↓
-        </a>
-      ) : null}
     </section>
   );
 }

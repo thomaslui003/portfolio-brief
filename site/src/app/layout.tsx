@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     template: "%s · Portfolio brief",
   },
   description:
-    "Dual-analyst daily portfolio review — US premarket, quant risk, sector flows, book-level stance, peers/KPIs, and fundamental lens.",
+    "Dual-analyst portfolio desk — decision, book, tape, names, and full note.",
 };
 
 const themeInit = `
