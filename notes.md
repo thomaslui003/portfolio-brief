@@ -17,5 +17,4 @@ Write free-form intent here. The automation must respect these.
 
 ## Manual updates
 
-- Last holdings snapshot: **2026-08-02** from broker positions screen.
-- After trades: update `holdings.md` first, then next automation run.
+- Qty/cost last broker paste: **2026-08-02**. Price / MV / Weight / P&L refresh from Yahoo every run (`python3 scripts/refresh-holdings.py`). After trades, edit Qty and Cost/sh and the **Qty/cost as-of** date — do not paste a full price snapshot.

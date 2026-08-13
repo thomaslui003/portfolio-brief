@@ -15,7 +15,10 @@ export type Holding = {
 };
 
 export type HoldingsSnapshot = {
+  /** Yahoo marks date (Marks as-of, else legacy As-of). */
   asOf: string | null;
+  marksAsOf: string | null;
+  qtyCostAsOf: string | null;
   totalMv: number | null;
   currency: string;
   positions: Holding[];
@@ -61,7 +64,14 @@ function cell(raw: string): string {
 }
 
 export function parseHoldingsMarkdown(md: string): HoldingsSnapshot {
-  const asOf = /\*\*As-of:\*\*\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/.exec(md)?.[1] ?? null;
+  const marksAsOf =
+    /\*\*Marks as-of:\*\*\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/.exec(md)?.[1] ??
+    /\*\*As-of:\*\*\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/.exec(md)?.[1] ??
+    null;
+  const qtyCostAsOf =
+    /\*\*Qty\/cost as-of:\*\*\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/.exec(md)?.[1] ??
+    null;
+  const asOf = marksAsOf;
   const totalRaw =
     /Total MV[^\d]*([\d,]+(?:\.\d+)?)/i.exec(md)?.[1] ??
     null;
@@ -99,6 +109,8 @@ export function parseHoldingsMarkdown(md: string): HoldingsSnapshot {
 
   return {
     asOf,
+    marksAsOf,
+    qtyCostAsOf,
     totalMv,
     currency: "USD",
     positions,

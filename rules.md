@@ -4,6 +4,8 @@ The automation must grade suggestions against these rules. Do not invent a strat
 
 ## Risk bands
 
+Grade these against **Yahoo-refreshed** weights in `holdings.md` (each run: `python3 scripts/refresh-holdings.py`). Qty/cost stay on the last broker paste — a stale mark is not a new cost basis.
+
 | Rule | Limit | Action if breached |
 |------|-------|--------------------|
 | Single-name weight | Soft max **22%**, hard review **25%** | Flag **Review**; suggest trim band only if news/fundamentals support |
@@ -63,7 +65,7 @@ Never write: “buy N shares”, “sell all”, “market order”, or guarante
 - **Average-down / add-on-weakness** only via **[Consider]** when the **Average-down gate** above is fully met (valuation attractiveness required — not just P&L vs cost). A Net rating of **Add** does not bypass the gate.
 - Target brief length **~1 page** (2 pages only if several theses are in motion). Obey AGENTS.md **Write-once** — do not reprint the same hard number across sections.
 - Separate **hard data** (price, filings, earnings dates, reported metrics, valuation multiples when cited) from **narrative**.
-- Each run must include a **peer relative** check and a **leading-indicator** skim using the table in `holdings.md` (short is fine when quiet; do not invent peer prints).
+- Each run must **refresh holdings marks** first (`python3 scripts/refresh-holdings.py`) and grade risk bands / P&L vs cost from that file. Qty/cost change only when the owner edits them after a trade.
 - Each run must include a **money flow / sector rotation** skim (sector SPDR leaders/laggards labeled **`TICKER (Sector name)`**, book map, and `| ETF | Sector | 1D % | ~5D % |` table from `holdings.md`). Prefer hard ETF %; label any fund-flow narrative only with a source — no fake Bloomberg terminal numbers.
 - Each run must include **Position ratings (dual lens)** for every holding and **Portfolio recommendation (book-level)**; ranked suggestions must not contradict Net ratings or book stance.
 - Dual lens required every run:

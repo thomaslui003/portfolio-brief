@@ -20,9 +20,10 @@ export function BookView({ holdings, ratings, health }: Props) {
         <header className="panel__head">
           <h2 id="weights-heading">Book weights</h2>
           <p className="panel__meta">
-            Snapshot {holdings.asOf ?? "—"}
+            Yahoo marks {holdings.marksAsOf ?? holdings.asOf ?? "—"}
+            {holdings.qtyCostAsOf ? ` · qty/cost ${holdings.qtyCostAsOf}` : ""}
             {holdings.totalMv != null ? ` · MV ${fmtMoney(holdings.totalMv)}` : ""}
-            {" · "}update holdings.md after trades
+            {" · "}edit qty/cost after trades only
           </p>
         </header>
 

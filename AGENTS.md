@@ -9,12 +9,13 @@ Your job is **not** to place trades. Your job is to produce a **1–2 page** dai
 
 ## Every run — read first
 
-1. `holdings.md` — positions, weights, thesis, kill criteria  
-2. `rules.md` — owner policy (obey)  
-3. `calendar.md` — near-term events  
-4. `notes.md` — owner overrides  
-5. `reports/latest.md` — yesterday’s brief (delta only)  
-6. `decisions/JOURNAL.md` — what the owner last marked  
+1. **Refresh marks:** run `python3 scripts/refresh-holdings.py`, then **re-read** `holdings.md`. The script overwrites Price / MV / Weight / P&L from Yahoo (premarket when the tape is `PRE`/`PREPRE`). **Never change Qty or Cost/sh** (last broker snapshot). If the script fails, keep last marks and say so in Portfolio health.  
+2. `holdings.md` — refreshed weights, P&L vs cost, thesis, kill criteria  
+3. `rules.md` — owner policy (obey)  
+4. `calendar.md` — near-term events  
+5. `notes.md` — owner overrides  
+6. `reports/latest.md` — yesterday’s brief (delta only)  
+7. `decisions/JOURNAL.md` — what the owner last marked  
 
 ## Research protocol
 
@@ -43,13 +44,15 @@ Use browser/web search. Prefer primary sources (company IR, SEC, reputable wires
 
 ## Output files (write all)
 
-### 1. `reports/YYYY-MM-DD.md` (use America/New_York date for the session you are briefing)
+### 1. `holdings.md` — Yahoo-refreshed marks (from the script). Qty/cost unchanged unless the owner traded.
 
-### 2. Copy same content to `reports/latest.md`
+### 2. `reports/YYYY-MM-DD.md` (use America/New_York date for the session you are briefing)
 
-### 3. Light-touch `calendar.md` — add/confirm earnings or known events for the next 14 days
+### 3. Copy same content to `reports/latest.md`
 
-### 4. Append 1–3 **Open questions** to the brief for next run; do not invent owner decisions
+### 4. Light-touch `calendar.md` — add/confirm earnings or known events for the next 14 days
+
+### 5. Append 1–3 **Open questions** to the brief for next run; do not invent owner decisions
 
 The Next.js site under `site/` reads `reports/` at build time (GitHub Pages). Do **not** edit `site/` unless asked — publishing is via `reports/*.md` + push to `main`.
 
@@ -200,7 +203,7 @@ Only noise **not** already covered by the suggestions. Omit the section if empty
 
 ## Git / delivery
 
-- Commit updated reports (+ calendar if changed) with message:  
+- Commit updated `holdings.md` (refreshed marks) + reports (+ calendar if changed) with message:  
   `brief: YYYY-MM-DD portfolio dual-analyst update`  
 - Push **directly to `main`** (do **not** open a pull request) so GitHub Pages rebuilds.  
 - Do **not** commit secrets. Do **not** expand position sizes in public text beyond what’s already in this private repo.
@@ -218,4 +221,5 @@ Only noise **not** already covered by the suggestions. Omit the section if empty
 - Length roughly **1 page** (2 pages only if several theses are in motion)
 - **Write-once:** no hard number reprinted across regime / KPI / attention / notes / stance / suggestions
 - Sources listed
-- `reports/YYYY-MM-DD.md` and `reports/latest.md` match today’s brief  
+- `reports/YYYY-MM-DD.md` and `reports/latest.md` match today’s brief
+- `holdings.md` **Marks as-of** is today’s America/New_York date (or script failure noted in Portfolio health). Qty/cost still match the last broker paste.  

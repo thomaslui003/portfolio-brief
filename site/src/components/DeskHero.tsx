@@ -23,7 +23,8 @@ export function DeskHero({ kicker, brief, holdings }: Props) {
       <h1>{brief.title}</h1>
       <p className="hero__meta">
         {brief.date}
-        {holdings.asOf ? `  ·  Holdings as-of ${holdings.asOf}` : ""}
+        {holdings.asOf ? `  ·  Marks ${holdings.asOf}` : ""}
+        {holdings.qtyCostAsOf ? `  ·  Qty/cost ${holdings.qtyCostAsOf}` : ""}
         {"  ·  Switch views to change the question you are answering"}
       </p>
       <ul className="hero-chips">
