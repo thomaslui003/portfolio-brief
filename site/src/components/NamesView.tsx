@@ -23,8 +23,9 @@ export function NamesView({ positions, ratings, notes }: Props) {
   return (
     <div className="desk-stack">
       <p className="view-lede">
-        One card per name: snapshot weight and P&amp;L, dual-lens rating from
-        today&apos;s brief, and the standing thesis / kill line from holdings.md.
+        One card per name: Yahoo-mark weight and P&amp;L vs frozen cost, dual-lens
+        rating from today&apos;s brief, and the standing thesis / kill line from
+        holdings.md.
       </p>
       <div className="names-grid">
         {tickers.map((ticker) => {

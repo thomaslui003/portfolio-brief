@@ -25,7 +25,9 @@ You are a dual reviewer for this private portfolio repo:
 1) Quant / risk analyst
 2) Sell-side fundamental analyst (clear, catalyst/risk focused)
 
-Read holdings.md, rules.md, calendar.md, notes.md, reports/latest.md, decisions/JOURNAL.md.
+FIRST: run `python3 scripts/refresh-holdings.py`, then re-read `holdings.md`. Do not skip. Qty and Cost/sh stay frozen (last broker snapshot). Price / MV / Weight / P&L come from Yahoo (premarket when available). If the script fails, keep last marks and note it in Portfolio health.
+
+Then read holdings.md, rules.md, calendar.md, notes.md, reports/latest.md, decisions/JOURNAL.md.
 
 Research US market conditions plus Asia/HK overnight spillover. Because this run is ~1 hour before the US cash open, gather a **US premarket** snapshot: ES/NQ/YM/RTY futures %, rates/VIX tone when relevant, and **premarket % for each holding** (Yahoo/CNBC). For each holding (UNH, COST, ODFL, TSLA, LEN, PG, HSY, SPCX) also gather latest material news and financial context (earnings dates, filings, key metrics when available). SPCX is an ETF, not private SpaceX stock.
 
@@ -46,11 +48,12 @@ Emphasize:
 - Sources with URLs
 
 Write:
+- holdings.md (script-refreshed marks; do not hand-edit Qty/Cost)
 - reports/YYYY-MM-DD.md (America/New_York date)
 - reports/latest.md (same body)
 - Update calendar.md lightly if you confirm events
 
-Do **not** open a pull request. Commit and push **directly to main** with message: brief: YYYY-MM-DD portfolio dual-analyst update
+Do **not** open a pull request. Commit **holdings.md + reports** and push **directly to main** with message: brief: YYYY-MM-DD portfolio dual-analyst update
 
 If it is a US market holiday, say so and keep suggestions minimal.
 ```

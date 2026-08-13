@@ -16,7 +16,8 @@ The site is a **desk with five perspectives** (not a single scrolling note):
 
 | Path | Role |
 |------|------|
-| `holdings.md` | Positions, weights, thesis, kill criteria |
+| `holdings.md` | Positions, thesis, kill criteria; Price/MV/Weight/P&L refreshed from Yahoo each run |
+| `scripts/refresh-holdings.py` | Yahoo mark refresh (keeps Qty and Cost/sh) |
 | `rules.md` | Risk bands + suggestion language |
 | `AGENTS.md` | Full agent protocol |
 | `calendar.md` | Earnings / catalysts |
@@ -26,9 +27,11 @@ The site is a **desk with five perspectives** (not a single scrolling note):
 | `site/` | Next.js (TypeScript) UI — static export to Pages |
 | `automation/PROMPT.md` | Cursor Automations setup |
 
-## Holdings (snapshot 2026-08-02)
+## Holdings
 
 UNH · COST · ODFL · TSLA · LEN · PG · HSY · SPCX
+
+Qty and cost are the last **broker** paste (**Qty/cost as-of** in `holdings.md`, currently 2026-08-02). Each weekday run runs `python3 scripts/refresh-holdings.py` so Price, market value, weights, and P&L vs cost are **Yahoo marks** (premarket when the tape is open pre-cash). The site Book / Names views read that file at Pages build.
 
 ## Schedule
 

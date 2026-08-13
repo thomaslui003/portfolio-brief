@@ -2,7 +2,7 @@
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** Thursday pre-open (ET), ~05:00 ET. **Manual test run** of the write-once desk prompt. Holdings MV/weights still `holdings.md` as-of **2026-08-02**. **PPI 8:30 ET**; Freddie PMMS **noon ET**. Last cash: Wed Aug 12 (Yahoo / StockAnalysis). Premarket: [Markets Insider](https://markets.businessinsider.com/premarket) futures; live Yahoo premarket only where printed.
+**Session:** Thursday pre-open (ET), ~05:00 ET. **Manual test run** of the write-once desk prompt. Holdings **Marks as-of 2026-08-13** (Yahoo premarket via `scripts/refresh-holdings.py`); **Qty/cost as-of 2026-08-02**. **PPI 8:30 ET**; Freddie PMMS **noon ET**. Last cash: Wed Aug 12 (Yahoo / StockAnalysis). Premarket: [Markets Insider](https://markets.businessinsider.com/premarket) futures; live Yahoo premarket only where printed.
 
 ## Market regime (US + Asia/HK overnight)
 
@@ -57,8 +57,8 @@ Last **full session Wed Aug 12** ([thetrading.tools](https://www.thetrading.tool
 
 ## Portfolio health (quant lens)
 
-- **Concentration / bands:** UNH 20.7% + COST 19.0% + ODFL 17.7% ≈ **57%** (under soft top-3 **60%**). UNH still near soft-max **22%**. Cyclical **29%**, staples **35%**, high-beta **15%**. No hard breach.
-- **Underwater vs cost (holdings snapshot):** LEN **−27.7%**, SPCX **−27.8%**, TSLA **−13.8%**, HSY **−3.7%**. Wed marks: LEN **$85.20**, SPCX **$146.15** (still below cost **$150**).
+- **Concentration / bands:** UNH 19.9% + COST 18.5% + ODFL 17.3% ≈ **56%** (under soft top-3 **60%**). UNH off the **22%** soft-max. Cyclical **29%**, staples **34%**, high-beta **17%** (under **20%**). No hard breach.
+- **Underwater vs cost (Yahoo marks × frozen cost):** LEN **−24.6%**, TSLA **−9.5%**, SPCX **−1.8%**. HSY is through cost. SPCX **$147.25** still below cost **$150**.
 - **Peer divergences (Wed):** Builders **co-fade** (LEN with DHI/PHM/TOL). LTL: ODFL **+1.48%** vs XPO **+2.72%** / SAIA **+2.16%** / TFII **+2.83%** — lag **narrowed** vs Tue, not closed. **SPCX +9.65%** vs ARKX **+0.81%** / UFO **+1.90%** — **material theme divergence**. UNH lagged ELV/CI/HUM (industry bid, UNH slower). COST lagged WMT. TSLA with GM/F/RIVN — auto co-move.
 - **Average-down gate:** **Fails** on LEN (event-blind into PPI/Freddie; P/E ~**13.4×** / P/B ~**0.95** peer-ish, not a clear cheap-vs-history edge) and SPCX (Aug 20 supply). ([Yahoo LEN stats](https://ca.finance.yahoo.com/quote/LEN/key-statistics/))
 
@@ -124,9 +124,8 @@ Wed catch-up vs Tue miss; still trailed XPO/SAIA/TFII. Q2 yield-up / tons-down p
 ## Delta vs yesterday
 
 - CPI Watch **resolved in-line**; today’s Watch is **PPI + Freddie**.
-- **SPCX** squeeze extended (Wed **+9.7%** vs theme ETFs) — still no add.
-- **ODFL** peer lag **narrowed** (no longer the acute Tue miss).
-- Asia: Nikkei **+1.2%** / HSI soft; oil off overnight highs.
+- Book marks now refresh from Yahoo each run (qty/cost still **2026-08-02**); SPCX P&L vs cost is **−1.8%**, not the Aug 2 **−27.8%** stale mark. HSY is through cost.
+- **SPCX** squeeze vs theme ETFs and **ODFL** peer lag **narrowed** — still Watch, no add.
 
 ## Open questions for next run
 

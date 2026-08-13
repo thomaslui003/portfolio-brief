@@ -6,7 +6,14 @@ import { parseHoldingsMarkdown, type HoldingsSnapshot } from "./holdings";
 export function getHoldings(): HoldingsSnapshot {
   const file = path.join(process.cwd(), "..", "holdings.md");
   if (!fs.existsSync(file)) {
-    return { asOf: null, totalMv: null, currency: "USD", positions: [] };
+    return {
+      asOf: null,
+      marksAsOf: null,
+      qtyCostAsOf: null,
+      totalMv: null,
+      currency: "USD",
+      positions: [],
+    };
   }
   return parseHoldingsMarkdown(fs.readFileSync(file, "utf8"));
 }
