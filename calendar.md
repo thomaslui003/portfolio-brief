@@ -21,9 +21,10 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-08-12 | Macro | US cash / Asia spillover | Post-CPI open firmer (NQ-led); builders soft; HSI **25,440 (−0.83%)**, Nikkei **67,524 (+0.83%)** ([The Standard](https://www.thestandard.com.hk/finance/article/339738/Hong-Kong-stocks-close-lower-led-by-tech-losses); [STL.News](https://www.stl.news/overseas-stock-markets-august-12-2026/)) |
 | 2026-08-13 | Macro | PPI (July) | **Printed 8:30 ET** — final demand **0.0% MoM** (cons. **+0.2%**); **+4.7% YoY**; core **+0.2%** (cons. **+0.3%**); June revised **−0.1%** (was **−0.3%**) ([BLS](https://www.bls.gov/news.release/ppi.htm); [CNBC](https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html)) |
 | 2026-08-13 | Macro | Initial jobless claims | **Printed 209k** (+9k; prior revised **200k**); 4-wk avg **199k** unchanged ([DOL](https://www.dol.gov/newsroom/releases/eta)) |
-| 2026-08-13 | Macro | Freddie Mac PMMS (weekly) | Noon ET — **pending**; last print **6.69%** (Aug 6) ([Freddie Mac](https://www.freddiemac.com/pmms); [FRED](https://fred.stlouisfed.org/series/MORTGAGE30US)) |
+| 2026-08-13 | Macro | Freddie Mac PMMS (weekly) | **Printed 6.67%** (prior **6.69%**); 15y **5.96%** ([Freddie Mac](https://www.freddiemac.com/pmms); [FRED](https://fred.stlouisfed.org/series/MORTGAGE30US)) |
 | 2026-08-13 | Macro | US cash open / Asia spillover | Post-PPI risk-on open (~10:30 ET): Nikkei **68,308.59 (+1.16%)**; HSI **25,396.51 (−0.17%)**; 10y ~**4.61%**; Freddie noon pending ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/)) |
-| 2026-08-14 | Macro | Retail sales (July) | Week-end demand print after CPI/PPI ([TradingKey week ahead](https://www.tradingkey.com/analysis/stocks/us-stocks/262090642-weekly-preview-us-cpi-ppi-data-market-focus-crwv-amat-earnings-reports-tradingkey)) |
+| 2026-08-14 | Macro | Retail sales (July) | **Printed −0.6% MoM** to **$763.6B** (cons. ~**+0.1%**); **+5.0% YoY**; May–Jul **+6.3%** ([Census](https://www.census.gov/retail/sales.html); [Fortune/AP](https://fortune.com/2026/08/14/its-not-lights-out-for-the-economy-u-s-retail-sales-drop-0-6-in-july/)) |
+| 2026-08-14 | Macro | US cash / Asia spillover | Soft retail open (~10:30 ET): Nikkei **68,713.80 (+0.59%)**; HSI **25,116.85 (−1.10%)**; 10y ~**4.66%** ([Nikkei](https://indexes.nikkei.co.jp/en/nkave/archives/data); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/)) |
 | 2026-08-20 | SPCX | Next lock-up tranche (est.) | ~**319M** shares eligible (calendar unlock); Watch absorption ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next); [Fool](https://www.fool.com/investing/2026/08/05/spacex-s-911-5-share-unlock-hits-tomorrow-here-s-what-investors-need-to-know/)) |
 | 2026-08-28 | Macro | BLS preliminary CES benchmark revision | 10:00 a.m. ET — QCEW-based preliminary revision estimate ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
@@ -42,5 +43,5 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: **CPI in-line**; **PPI printed cool (0.0% MoM)**; **Freddie pending noon**; claims **209k**; NAR Jul existing sales **−1.7%** (LEN); Freddie **6.69%** vs ~**4.61%** 10y; oil ~**$81**; ISM Jul **55.6** (ODFL); cocoa ~**$5.8k** (HSY); SPCX unlock **Aug 20**
-- Asia/HK overnight: Nikkei **68,308.59 (+1.16%)** / HSI **25,396.51 (−0.17%)** — Japan bid, limited direct book overlap
+- US: **CPI in-line**; **PPI cool (0.0% MoM)**; **retail −0.6% MoM**; claims **209k**; NAR Jul existing sales **−1.7%** (LEN); Freddie **6.67%** vs ~**4.66%** 10y; oil ~**$81**; ISM Jul **55.6** (ODFL); cocoa ~**$5.7k** (HSY); SPCX unlock **Aug 20**
+- Asia/HK overnight: Nikkei **68,713.80 (+0.59%)** / HSI **25,116.85 (−1.10%)** — Japan bid, HK soft; limited direct book overlap
