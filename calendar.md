@@ -33,11 +33,15 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-08-20 | Macro | US cash / Asia spillover | Risk-off open (oil/Iran, VIX ~16, 10y ~4.69%); Nikkei **66,217 (+1.36%)**, HSI **25,698 (+0.80%)** ([Schaeffer’s](https://www.schaeffersresearch.com/content/ezines/2026/08/20/stock-futures-pinched-by-oil-iran-escalation); [Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/)) |
 | 2026-08-28 | Macro | BLS preliminary CES benchmark revision | 10:00 a.m. ET — QCEW-based preliminary revision estimate ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
+| 2026-09-02 | ODFL | Ex-dividend | ([StockAnalysis ODFL](https://stockanalysis.com/stocks/odfl/statistics/)) |
 | 2026-09-04 | Macro | August Employment Situation | 8:30 a.m. ET ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
 | 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next)) |
+| 2026-09-14 | UNH | Ex-dividend | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
 | 2026-09-15–16 | Macro | FOMC | Markets reprice hike odds after soft Jul payrolls |
 | ~2026-09-17 | LEN | Earnings (est.) | Yahoo/MarketBeat estimate — confirm on IR ([Yahoo LEN](https://finance.yahoo.com/quote/LEN/); [MarketBeat](https://www.marketbeat.com/stocks/NYSE/LEN/earnings/)) |
 | 2026-09-24 | COST | Q4 FY26 earnings call | Confirmed 2:00 PM PT ([Costco IR](https://investor.costco.com/events-and-presentations/events/event-details/2026/Q4-2026-Earnings-Call/default.aspx)) |
+| ~2026-10-21 | TSLA | Earnings (est.) | ([Yahoo TSLA](https://finance.yahoo.com/quote/TSLA/)) |
+| ~2026-10-27 | UNH | Earnings (est.) | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
 | Reported | UNH | Q2’26 printed Jul 16 | Guide raised; next print TBD |
 | Reported | ODFL | Q2’26 printed Jul 29 | Yield up, tons/day −4.1% YoY |
 | Reported | TSLA | Q2’26 printed Jul 22 | Low op. margin / FCF watch; next est. ~Oct 21 |
@@ -50,3 +54,4 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 - US: **CPI in-line**; **PPI cool**; **retail −0.6% MoM**; Jul starts **1.239M** (LEN); Freddie **6.67%** (noon **8/20** pending) vs 10y ~**4.69%**; oil bid on Iran headlines; ISM Jul **55.6** (ODFL); cocoa ~**$6.0k** (HSY); **SPCX unlock Aug 20 in force**; WMT comps soft (COST spillover)
 - Asia/HK overnight: Nikkei **66,216.79 (+1.36%)** / HSI **25,698.49 (+0.80%)** — Asia bid; limited direct book overlap
+

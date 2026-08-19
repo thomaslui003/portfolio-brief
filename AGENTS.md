@@ -16,6 +16,7 @@ Your job is **not** to place trades. Your job is to produce a **1–2 page** dai
 5. `notes.md` — owner overrides  
 6. `reports/latest.md` — yesterday’s brief (delta only)  
 7. `decisions/JOURNAL.md` — what the owner last marked  
+8. `valuation.md` — cached fwd P/S / P/E spots + historical min/max (refresh monthly)
 
 ## Research protocol
 
@@ -26,8 +27,8 @@ For **each** holding (UNH, COST, ODFL, TSLA, LEN, PG, HSY, SPCX):
 3. **Leading indicators / KPIs** from that same table (rates/mortgage for LEN, freight/ISM for ODFL, cocoa for HSY, utilization/CMS for UNH, membership/traffic for COST, deliveries/margin for TSLA, theme-ETF context for SPCX). Adverse KPI moves matter even if the stock is quiet.  
 4. **2–4 material headlines** from the last ~24–48h (skip if quiet).  
 5. **Financial context** when available: next earnings date, recent earnings/guidance, notable filing (8-K/10-Q), margin or volume commentary for cyclicals (ODFL, LEN), input costs (HSY), policy/utilization (UNH), membership/traffic (COST).  
-6. **Valuation skim** for names underwater vs cost (and any name where add-on-weakness might be relevant): peer multiples or vs own history when available (cite source). Note whether price looks **attractive on valuation**, merely cheap vs cost basis, or still rich.  
-7. Map news + peer/KPI + valuation signal → **thesis** and **kill criteria** in `holdings.md`. Apply `rules.md` **Average-down gate** before any **[Consider]** average-down / add-on-weakness.  
+6. **Valuation bands (required every run)** — house metric is **forward P/S** vs own history (`valuation.md` + `rules.md` Valuation bands). Report spot fwd P/S, sourced min/max (trailing proxy OK if labeled), **P/S band** (Low/Mid/High), **fwd P/E** spot + band. **SPCX:** n/a — theme relative only. Low P/S is **not** a buy; it may satisfy the valuation leg of the Average-down gate **only if** fwd P/E is not High and thesis/KPI/bands/events also pass. Note whether price looks attractive on **fwd P/S vs history**, merely cheap vs cost, or still rich.  
+7. Map news + peer/KPI + valuation signal → **thesis** and **kill criteria** in `holdings.md`. Apply `rules.md` **Average-down gate** (including P/E filter) before any **[Consider]** average-down / add-on-weakness.  
 
 Then **portfolio layer**:
 
@@ -131,6 +132,24 @@ Use signed percentages as numbers (e.g. `+0.22` / `-0.55`). Prefer continuous fu
 
 Use signed percentages as numbers (e.g. `+3.29` / `-0.59`). Sector names from `holdings.md` → Sector rotation map.
 
+## Valuation bands (fwd P/S house metric)
+**Required every run.** House metric = **forward P/S** vs own history. Ranges may be trailing P/S min/max — label **trailing proxy** if so. **P/E filter:** Low P/S does not clear valuation if fwd P/E is High. SPCX = n/a. Column headers must match exactly:
+
+```markdown
+| Ticker | Fwd P/S | P/S min | P/S max | P/S band | Fwd P/E | P/E band | Gate |
+|--------|---------|---------|---------|----------|---------|----------|------|
+| UNH | 0.79 | 0.52 | 1.75 | Low | 18.51 | Mid | No — size/thesis |
+| COST | … | … | … | … | … | … | … |
+| ODFL | … | … | … | … | … | … | … |
+| TSLA | … | … | … | … | … | … | … |
+| LEN | … | … | … | … | … | … | … |
+| PG | … | … | … | … | … | … | … |
+| HSY | … | … | … | … | … | … | … |
+| SPCX | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+```
+
+**Gate column:** `Yes` only if P/S band is Low **and** P/E band is not High **and** thesis/KPI not broken (size/events still may block a Consider). Otherwise `No` + ≤6-word reason. One line of method/source under the table. Copy spots/ranges from `valuation.md` unless a print moved them; then update `valuation.md`.
+
 ## Portfolio health (quant lens)
 Weights / clusters / underwater / rule bands — **short**. Peer section: **only material divergences** (holding vs 1–3 peers). Industry-wide co-moves = one line, not a peer-by-peer recap.
 
@@ -158,11 +177,11 @@ Rules of thumb:
 - **Quant** weights concentration, cluster risk, drawdown vs cost, sector rotation vs sleeve, rule bands.
 - **Fundamental** weights thesis/kill criteria, catalysts, valuation, KPI quality.
 - **Net** = synthesis when lenses agree; if they disagree, Net = the more cautious of the two (prefer Watch/Review/Hold over Add/Trim) and say why in Note.
-- **Add** (incl. average-down) only if `rules.md` Average-down gate would pass — otherwise use Hold/Watch/Review.
+- **Add** (incl. average-down) only if `rules.md` Average-down gate would pass (fwd P/S Low **and** fwd P/E not High, plus thesis/bands/events) — otherwise use Hold/Watch/Review.
 - **Trim** only when concentration, thesis break risk, or adverse KPI/rotation supports it — not because a name is up.
 
 ## Position notes (fundamental lens)
-Only tickers with **new** news, a material peer divergence, a live kill-edge, or a Quant/Fundamental split. Quiet names: one grouped line. Do not restate the Net rating. Underwater names: **one** valuation line (peers/history — feeds the average-down gate).
+Only tickers with **new** news, a material peer divergence, a live kill-edge, or a Quant/Fundamental split. Quiet names: one grouped line. Do not restate the Net rating. Underwater names: **one** valuation line (**fwd P/S band vs history + P/E filter** — feeds the average-down gate).
 
 ## Portfolio recommendation (book-level)
 **Required.** **3–4 lines total.** This is the Decision-view headline — not a recap of the brief.
@@ -179,7 +198,7 @@ Must match book stance and Net ratings. **Each item ≤ 2 sentences** plus Confi
 2. …
 3. …
 
-**Average-down / add-on-weakness:** **[Consider]** only when `rules.md` **Average-down gate** passes (thesis intact + sourced valuation attractiveness — not just down vs cost + risk bands + event awareness). If gate fails, use Hold policy / Watch / Review instead.
+**Average-down / add-on-weakness:** **[Consider]** only when `rules.md` **Average-down gate** passes (thesis intact + **fwd P/S Low and fwd P/E not High** — not just down vs cost + risk bands + event awareness). If gate fails, use Hold policy / Watch / Review instead.
 
 ## Explicit non-actions
 Only noise **not** already covered by the suggestions. Omit the section if empty.
@@ -212,6 +231,7 @@ Only noise **not** already covered by the suggestions. Omit the section if empty
 
 - Dual lens present (quant + fundamental)  
 - **Position ratings (dual lens)** table present for every holding (Quant / Fundamental / Net)  
+- **Valuation bands** table present for every holding (fwd P/S house metric + P/E filter; SPCX n/a)  
 - Peer relative check + leading-indicator map present (can be short if quiet)  
 - **US premarket** section present on weekday sessions (narrative + **Symbol | Name | Premarket %** table for futures + holdings); holiday/weekend may omit the table  
 - Money flow / sector rotation section present (leaders/laggards **with sector names**, book map, and **ETF | Sector | 1D % | ~5D %** table)  

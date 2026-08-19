@@ -19,12 +19,32 @@ Grade these against **Yahoo-refreshed** weights in `holdings.md` (each run: `pyt
 **Allowed** to use **[Consider]** … average-down / add-on-weakness when **all** of the following are true (cite sources):
 
 1. **Thesis intact** — news/filings do **not** trip kill criteria in `holdings.md`; state why thesis still holds in one line.  
-2. **Valuation attractive** — at least one sourced valuation angle vs history, peers, or simple multiples/yield (e.g. P/E, P/B, EV/EBITDA, peer discount). Qualitative OK if hard multiples unavailable, but must say so and still compare to peers or own history. Price merely “down vs cost” is **not** enough.  
+2. **Valuation attractive** — sourced vs history, peers, or multiples/yield. **House metric:** forward P/S vs own history (see **Valuation bands** below and `valuation.md`). Price merely “down vs cost” is **not** enough. Qualitative OK only if hard multiples unavailable (must say so).  
 3. **Risk bands** — post-add weight would stay inside soft single-name / cluster / high-beta limits (or call out soft-band pressure explicitly and keep the Consider cautious).  
 4. **Not event-blind** — if a binary event is imminent (earnings, lock-up, FOMC), prefer **Watch** until after the event unless valuation + thesis still clearly favor a staged add *and* you flag the event risk.  
 5. **Language** — **Consider** only (tradeoffs + falsifier). Never “buy N shares”, never present average-down as mandatory.
 
 If the gate fails → default **Hold policy** / **Watch** / **Review** (thesis or size), not average-down.
+
+## Valuation bands (forward P/S house metric)
+
+**House metric:** forward P/S vs own history. Stocks are priced on expected sales; use **forward** spot. Historical **min/max** may be trailing P/S (label **trailing proxy**) when a free forward-P/S history is unavailable.
+
+Each brief must include the **Valuation bands** table (exact headers in `AGENTS.md`) for every holding. Cached min/max live in `valuation.md` (refresh monthly).
+
+**Bands** (linear position in the sourced min–max range):
+
+| Band | Meaning |
+|------|---------|
+| **Low** | Spot in the bottom 25% of the range |
+| **Mid** | 25–75% |
+| **High** | Top 25% |
+
+**P/E filter (mandatory):** also report **forward P/E** band vs own history. **Low forward P/S does not count as valuation-attractive** if forward P/E is **High** (or N/M with a broken margin/KPI story). Stronger evidence: **both Low**. Mid/High P/S → no valuation edge for average-down.
+
+**SPCX:** P/S and P/E are **n/a**. Use theme-ETF relative (ARKX/UFO) + any premium/discount.
+
+Low band is **Watch / gate evidence**, never an automatic Add. Concentration, thesis, KPIs, and event rules still bind.
 
 ## Position rating scale (dual lens)
 
@@ -67,7 +87,7 @@ Never write: “buy N shares”, “sell all”, “market order”, or guarante
 - Separate **hard data** (price, filings, earnings dates, reported metrics, valuation multiples when cited) from **narrative**.
 - Each run must **refresh holdings marks** first (`python3 scripts/refresh-holdings.py`) and grade risk bands / P&L vs cost from that file. Qty/cost change only when the owner edits them after a trade.
 - Each run must include a **money flow / sector rotation** skim (sector SPDR leaders/laggards labeled **`TICKER (Sector name)`**, book map, and `| ETF | Sector | 1D % | ~5D % |` table from `holdings.md`). Prefer hard ETF %; label any fund-flow narrative only with a source — no fake Bloomberg terminal numbers.
-- Each run must include **Position ratings (dual lens)** for every holding and **Portfolio recommendation (book-level)**; ranked suggestions must not contradict Net ratings or book stance.
+- Each run must include **Position ratings (dual lens)** for every holding, **Valuation bands** (fwd P/S house metric + P/E filter), and **Portfolio recommendation (book-level)**; ranked suggestions must not contradict Net ratings or book stance.
 - Dual lens required every run:
   1. **Quant / risk** — weights, factor exposure, drawdowns vs cost, correlation themes, peer co-moves vs divergences, sector/style rotation vs book, Quant column in ratings table
   2. **Fundamental / sell-side style** — business quality, catalysts, risks, valuation context (qualitative OK if numbers unavailable), KPI/leading-indicator stress, Fundamental column in ratings table

@@ -20,8 +20,9 @@ Qty and cost from last broker snapshot; Price / MV / Weight / P&L refreshed from
 - **Cyclical cluster:** ODFL + LEN (~29%) — freight + housing amplify industrial/rates sensitivity.
 - **Defensive cluster:** COST + PG + HSY (~35%) — staples ballast, but not immune to input costs (HSY) or valuation (COST).
 - **High-beta / thematic:** TSLA + SPCX (~17%) — narrative and multiple risk.
-- **TSLA & LEN & SPCX** are underwater vs cost — stress-test thesis; average-down only if `rules.md` Average-down gate passes (valuation + thesis + bands).
-- **SPCX** is an ETF proxy for space priority theme, not private SpaceX stock — analyze as ETF (holdings, liquidity, premium/discount if any).
+- **TSLA & LEN & SPCX** are underwater vs cost — stress-test thesis; average-down only if `rules.md` Average-down gate passes (fwd P/S band + P/E filter + thesis + risk bands).
+- **SPCX** — repo still labeled AXS Space Priority ETF; public tape/SEC (Aug 4 8-K) is **Space Exploration Technologies Corp**. Confirm instrument before treating P/S as a stock multiple. Until confirmed: **n/a** on P/S/P/E; use ARKX/UFO relative.
+- **Valuation house metric:** forward P/S vs own history (`valuation.md` + `rules.md` Valuation bands). P/E filter required. Low P/S ≠ buy.
 
 ## Peers & leading indicators (agent must-check)
 
@@ -71,3 +72,4 @@ Public proxies for a Bloomberg-style “where is the money” skim. Prefer last 
 ## How to update
 
 After any trade, edit **Qty** and **Cost/sh** only and set **Qty/cost as-of** to the broker date. Do not hand-edit Price / MV / Weight / P&L — `python3 scripts/refresh-holdings.py` (start of every brief) recomputes those from Yahoo. Thesis / kill / peers: edit when the case or instrument identity changes.
+Refresh `valuation.md` min/max **monthly** (or when estimates jump).

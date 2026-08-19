@@ -18,7 +18,8 @@ The site is a **desk with five perspectives** (not a single scrolling note):
 |------|------|
 | `holdings.md` | Positions, thesis, kill criteria; Price/MV/Weight/P&L refreshed from Yahoo each run |
 | `scripts/refresh-holdings.py` | Yahoo mark refresh (keeps Qty and Cost/sh) |
-| `rules.md` | Risk bands + suggestion language |
+| `rules.md` | Risk bands + suggestion language + valuation bands |
+| `valuation.md` | Cached fwd P/S / P/E spots + historical min/max (monthly) |
 | `AGENTS.md` | Full agent protocol |
 | `calendar.md` | Earnings / catalysts |
 | `notes.md` | Your overrides |
