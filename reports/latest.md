@@ -1,151 +1,151 @@
-# Portfolio brief — 2026-08-14
+# Portfolio brief — 2026-08-20
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** Friday cash open (ET), ~10:30 ET cron. **Retail sales printed soft 8:30 ET**; **Freddie PMMS resolved Thu noon**. **Marks as-of 2026-08-14** Yahoo REG; **Qty/cost as-of 2026-08-02**. Premarket table = **session % vs Thu Aug 13 close** (cash-open proxy). Futures: Yahoo continuous vs Aug 13 settle.
+**Session:** Thursday cash open (ET), ~10:30 ET cron. **SPCX second lock-up tranche is today**; **Freddie PMMS noon ET still pending** (last print Aug 13). **Marks as-of 2026-08-20** Yahoo REG; **Qty/cost as-of 2026-08-02**. Premarket table = **session % vs Wed Aug 19 close** (cash-open proxy). Futures: Yahoo continuous vs Aug 19 settle.
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Demand print:** July retail/food sales **−0.6% MoM** to **$763.6B** (cons. ~**+0.1%**); **+5.0% YoY**; May–Jul **+6.3%** YoY ([Census](https://www.census.gov/retail/sales.html); [Fortune/AP](https://fortune.com/2026/08/14/its-not-lights-out-for-the-economy-u-s-retail-sales-drop-0-6-in-july/)).
-- **Rates / vol:** 10y (^TNX) **~4.66%** (up slightly vs Thu); VIX **~14.6** ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/)).
-- **Oil:** WTI **~$81.4** ([Yahoo CL=F](https://finance.yahoo.com/quote/CL%3DF/)).
-- **Asia/HK:** Nikkei **68,713.80 (+0.59%)**; HSI **25,116.85 (−1.10%)** — Japan bid, HK soft on tech/property ([Nikkei](https://indexes.nikkei.co.jp/en/nkave/archives/data); [MarketScreener](https://www.marketscreener.com/quote/index/HANG-SENG-INDEX-455354/)).
+- **Risk-off open:** Oil bid and Iran “economic warfare” headlines lift crude; 10y (^TNX) **~4.69%**; VIX **~16.0** ([Schaeffer’s](https://www.schaeffersresearch.com/content/ezines/2026/08/20/stock-futures-pinched-by-oil-iran-escalation); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/); [Yahoo CL=F](https://finance.yahoo.com/quote/CL%3DF/)).
+- **Policy tape:** July FOMC minutes (released Wed 2pm ET) showed a **9–3** hold with hike dissenters and hawkish lean still in the text ([Fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm); [Market Daily](https://marketdaily.com/fomc-minutes-reveal-broad-hawkish-sentiment-behind-the-feds-most-fractured-vote-in-a-decade/)).
+- **Asia/HK:** Nikkei **66,216.79 (+1.36%)**; HSI **25,698.49 (+0.80%)** — Asia bid overnight even as US risk softens ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/); [Schaeffer’s Asia wrap](https://www.schaeffersresearch.com/content/ezines/2026/08/20/stock-futures-pinched-by-oil-iran-escalation)).
 
 ## US premarket
 
-Cash **open** — table is session % vs prior close (not true PRE). Book-relevant: **SPCX** extending Thu fade into **Aug 20** supply; **LEN** giving back Thu PPI bid; **TSLA** still bid; core staples/UNH quiet.
+Cash **open** — table is session % vs prior close (not true PRE). Book-relevant: **SPCX** soft on unlock day; **COST** sympathy after **WMT** miss; **TSLA/LEN** risk-off with rates/oil; core UNH/ODFL quiet.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | -0.04 |
-| NQ | Nasdaq 100 futures | -0.02 |
-| YM | Dow futures | -0.10 |
-| RTY | Russell 2000 futures | +0.29 |
-| UNH | UnitedHealth | +0.50 |
-| COST | Costco | +0.01 |
-| ODFL | Old Dominion | -0.71 |
-| TSLA | Tesla | +1.67 |
-| LEN | Lennar | -1.09 |
-| PG | Procter & Gamble | -0.23 |
-| HSY | Hershey | -0.95 |
-| SPCX | SPCX ETF | -3.14 |
+| ES | S&P 500 futures | -0.38 |
+| NQ | Nasdaq 100 futures | -0.49 |
+| YM | Dow futures | -0.78 |
+| RTY | Russell 2000 futures | -1.10 |
+| UNH | UnitedHealth | +0.62 |
+| COST | Costco | -2.01 |
+| ODFL | Old Dominion | +0.03 |
+| TSLA | Tesla | -3.05 |
+| LEN | Lennar | -2.33 |
+| PG | Procter & Gamble | -0.90 |
+| HSY | Hershey | -0.16 |
+| SPCX | SPCX ETF | -4.68 |
 
 ## Money flow / sector rotation
 
-Last **full session Thu Aug 13** (Yahoo dated closes). Do not confuse with today’s live sector %.
+Last **full session Wed Aug 19** (Yahoo dated closes). Do not confuse with today’s live sector %.
 
-- **Leaders:** **XLC (Communication Services) +2.07%**, **XLRE (Real Estate) +1.42%**, **XLP (Consumer Staples) +1.08%**, **XLK (Technology) +1.01%**.
-- **Laggards:** **XLB (Materials) −0.51%**, **XLI (Industrials) −0.05%**, **XLV (Health Care) −0.04%**.
-- **~5-day:** **XLE (Energy) +4.99%** / **XLK (Technology) +2.94%** / **XLV (Health Care) +2.39%** lead; **XLY (Consumer Discretionary) +0.30%** still soft.
-- **Style (Thu):** **IWF (growth) +1.00%** vs **IWD (value) +0.36%**; **IWM (small caps) +0.26%**.
+- **Leaders:** **XLV (Health Care) +3.51%**, **XLY (Consumer Discretionary) +1.92%**, **XLB (Materials) +1.43%**, **XLP (Consumer Staples) +1.12%**.
+- **Laggards:** **XLK (Technology) −1.07%**, **XLI (Industrials) −0.88%**, **XLF (Financials) −0.62%**.
+- **~5-day:** **XLV (Health Care) +4.30%** / **XLE (Energy) +4.18%** lead; **XLK (Technology) −2.76%** / **XLI (Industrials) −2.11%** lag.
+- **Style (Wed):** **IWD (value) +0.79%** vs **IWF (growth) −0.33%**; **IWM (small caps) +0.50%**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Thu favored **XLC/XLK/XLP** (helps TSLA beta and staples ballast, not ODFL weight). Soft retail today is a **staples/discretionary demand overlay**, not a rotation into this book’s concentrated UNH/COST/ODFL core.
+- **Book map:** Wed’s **XLV/XLP** leadership favors UNH + staples ballast; **XLI** soft fights ODFL weight. Today’s live tape is unlock + WMT spillover, not a clean continuation of Wed’s rotation.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | +0.48 | +0.30 |
-| XLP | Consumer Staples | +1.08 | +1.05 |
-| XLE | Energy | +0.05 | +4.99 |
-| XLF | Financials | +0.59 | +0.78 |
-| XLV | Health Care | -0.04 | +2.39 |
-| XLI | Industrials | -0.05 | +0.56 |
-| XLB | Materials | -0.51 | +0.27 |
-| XLRE | Real Estate | +1.42 | +0.69 |
-| XLK | Technology | +1.01 | +2.94 |
-| XLU | Utilities | +0.46 | +1.52 |
-| XLC | Communication Services | +2.07 | +1.23 |
+| XLY | Consumer Discretionary | +1.92 | +0.59 |
+| XLP | Consumer Staples | +1.12 | +1.72 |
+| XLE | Energy | -0.16 | +4.18 |
+| XLF | Financials | -0.62 | -0.76 |
+| XLV | Health Care | +3.51 | +4.30 |
+| XLI | Industrials | -0.88 | -2.11 |
+| XLB | Materials | +1.43 | -0.11 |
+| XLRE | Real Estate | +0.81 | +1.12 |
+| XLK | Technology | -1.07 | -2.76 |
+| XLU | Utilities | +0.00 | +0.41 |
+| XLC | Communication Services | +0.76 | +0.95 |
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **55.6%** (under soft top-3 **60%**). Cyclical **~29%**, staples **~34%**, high-beta **~17%**. No hard breach. Qty/cost freeze **2026-08-02**. MV ≈ **$30,843**.
-- **Underwater vs cost:** LEN **−23.9%**, SPCX **−8.8%**, TSLA **−4.2%**.
-- **Peer divergences:** **SPCX** fading hard vs flat **ARKX/UFO**. **ODFL** soft vs green **SAIA/XPO/TFII**. Builders co-soft (LEN slightly worse than DHI/PHM). UNH quiet vs ELV/CI — industry not thesis-grade.
-- **Average-down gate:** **Fails** on LEN (MarketBeat trailing P/E **~13.6×** / P/B **~0.97** / PEG **~2.8** — peer-ish, not a clear cheap-vs-history edge; soft retail is demand noise, not a valuation unlock) and SPCX (next unlock). Modest Freddie ease does **not** clear the gate. ([MarketBeat LEN](https://www.marketbeat.com/stocks/NYSE/LEN/))
+- **Bands:** UNH/COST/ODFL ≈ **55.0%** (under soft top-3 **60%**). Cyclical **~29%**, staples **~35%**, high-beta **~17%**. No hard breach. Qty/cost freeze **2026-08-02**. MV ≈ **$30,189**.
+- **Underwater vs cost:** LEN **−25.1%**, SPCX **−11.3%**, TSLA **−5.7%**.
+- **Peer divergences:** **SPCX** underperforms **ARKX/UFO** on unlock day. **COST** eases vs **WMT** crash (company-specific). Builders co-soft (LEN ≈ DHI/PHM). LTL co-flat. UNH in-line with ELV/CI.
+- **Average-down gate:** **Fails** on LEN (MarketBeat trailing P/E **~13.3×** / P/B **~0.95** / PEG **~2.8** — peer-ish, not a clear cheap-vs-history edge; housing-starts stress + Freddie noon pending) and SPCX (unlock in force). ([MarketBeat LEN](https://www.marketbeat.com/stocks/NYSE/LEN/))
 
 ## Leading indicators (book map)
 
-- **Retail (printed):** July total **−0.6% MoM** / **+5.0% YoY**; core (ex auto/gas/building/food services) **−0.4%** per wire summaries ([Census](https://www.census.gov/retail/sales.html); [Globe and Mail/Reuters](https://www.theglobeandmail.com/business/economy/article-us-retail-sales-for-july-2026/)).
-- **LEN / housing:** Freddie **6.67%** (Aug 13; prior **6.69%**); 15y **5.96%** ([Freddie Mac](https://www.freddiemac.com/pmms)). NAR Jul existing sales still **−1.7%** (prior print).
-- **SPCX:** Next unlock ~**319M Aug 20** ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next)).
-- **HSY / cocoa:** CC=F **~$5,740** — still sub-**$6k** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
-- **ODFL:** ISM Jul **55.6**; Q2 yield-up / tons-down path unchanged ([ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/347/old-dominion-freight-line-reports-second-quarter-2026)).
+- **SPCX:** ~**319M** shares eligible **today** (second post-IPO tranche) ([TipRanks](https://www.tipranks.com/news/spacex-stock-lock-up-expiration-looms-technical-indicators-flash-sell); [Gate](https://www.gate.com/news/detail/spacex-unlocks-319-million-shares-on-august-20-expanding-float-by-7-23519711)).
+- **LEN / housing:** Freddie last **6.67%** (Aug 13; **noon print pending**). July starts **1.239M (−12.4% MoM)**; single-family **808k (−9.9% MoM)** ([Freddie Mac](https://www.freddiemac.com/pmms); [Census](https://www.census.gov/construction/nrc/current/index.html)).
+- **COST / retail:** WMT U.S. comps **+2.6%** (slowest since 2020) + soft Q3 EPS guide — consumer read-through, not COST membership break ([24/7 Wall St.](https://247wallst.com/investing/2026/08/20/walmart-drops-8-on-slowest-same-store-sales-growth-since-2020-target-holds-steady-costco-eases/)).
+- **HSY / cocoa:** CC=F **~$5,991** — still near / sub-**$6k** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **ODFL:** ISM Jul **55.6**; Q2 yield-up / tons-down path unchanged — no new KPI print ([ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/347/old-dominion-freight-line-reports-second-quarter-2026)).
 
 ## What needs attention today
 
-- **SPCX** fade into **Aug 20** supply — high-beta Watch, not chase; P&L vs cost worsened.
-- **Soft retail** — demand check for COST/staples and LEN orders; no size change on one print.
-- **LEN** — Freddie eased; gate still fails (see health).
-- **UNH** amended shareholder suit (cyber/Medicare/governance allegations) — overhang Watch, not a kill-line trip yet ([Benzinga](https://www.benzinga.com/news/health-care/26/08/61188605/unitedhealths-crisis-deepens-lawsuit-alleges-medicare-fraud-algorithmic-care-denials-and-237-million-insider-sales); [TipRanks](https://www.tipranks.com/news/unitedhealth-hit-by-new-lawsuit-allegations-over-cyber-security-and-governance-failings)).
-- Quiet: PG/HSY. ODFL peer lag is Watch, not kill.
+- **SPCX unlock absorption** — primary Watch; underwater deepened; do not average-down into supply.
+- **WMT → COST** sympathy — membership moat still the thesis; Watch traffic/renewal into Sep 24, not a trim on peer noise.
+- **LEN** — starts print + rates/oil tape; Freddie noon; gate still fails (see health).
+- **UNH** suit overhang unchanged — still Watch vs operating case, not a fresh kill trip.
+- Quiet: PG/HSY; ODFL co-flat with LTL peers.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
-| UNH | Hold | Watch | Watch | Suit overhang; Q2 guide intact |
-| COST | Hold | Hold | Hold | Flat after soft retail print |
-| ODFL | Watch | Hold | Watch | Soft vs LTL peers; tons path |
-| TSLA | Watch | Watch | Watch | Beta bid; margin/FCF watch |
-| LEN | Watch | Watch | Watch | Freddie ease; gate still fails |
+| UNH | Hold | Watch | Watch | Suit overhang; XLV led Wed |
+| COST | Hold | Watch | Watch | WMT spillover; membership intact |
+| ODFL | Hold | Hold | Hold | Flat vs LTL; XLI soft Wed |
+| TSLA | Watch | Watch | Watch | Risk-off beta; margin/FCF |
+| LEN | Watch | Watch | Watch | Starts soft; gate still fails |
 | PG | Hold | Hold | Hold | Staples ballast; quiet |
-| HSY | Hold | Hold | Hold | Cocoa sub-$6k; quiet |
-| SPCX | Watch | Watch | Watch | Fade; Aug 20 supply |
+| HSY | Hold | Hold | Hold | Cocoa near $6k; quiet |
+| SPCX | Watch | Watch | Watch | Unlock day; float absorption |
 
 ## Position notes (fundamental lens)
 
-### SPCX — fade into unlock
-Session **~−3%** vs flat theme ETFs; vs cost **−8.8%**. Repo still labels AXS ETF vs listed SpaceX — **confirm instrument**. Gate fails (unlock).
+### SPCX — unlock day
+Second tranche (~**319M**) eligible today; session soft vs theme ETFs. Repo still labels AXS ETF vs listed SpaceX — **confirm instrument**. Gate fails (event).
 
-### LEN — Freddie ease ≠ gate pass
-Thesis (housing/rates) intact after **6.67%** print; soft retail is a demand caution, not a kill. Valuation still **peer-ish** (see health). Gate **fails**.
+### COST — WMT spillover, not membership break
+Peer print is company-specific (comps + Q3 guide); COST easing is sympathy. Thesis intact until membership/traffic commentary turns — next hard check Sep 24 IR.
 
-### UNH — litigation overhang
-Amended Minnesota derivative complaint (Change Healthcare cyber, Medicare billing, insider-sale allegations). Q2’26 raise still the operating case; treat as **Watch**, not thesis break, until filings force a kill-line re-read.
+### LEN — starts stress, gate still closed
+Census starts print is adverse for the housing sleeve; valuation still **peer-ish** (see health). Freddie noon is the next rate KPI. Gate **fails**.
 
-### ODFL — peer lag returns
-Soft vs green LTL peers today; Q2 yield-up / tons-down path unchanged.
+### UNH — overhang unchanged
+Amended derivative complaint (cyber/Medicare/governance) still the legal headline set; Q2’26 raise remains the operating case ([Healthcare Dive](https://www.healthcaredive.com/news/investor-lawsuit-unitedhealth-ignored-governance-cybersecurity-gaps-change/828016/)).
 
-**No material update:** COST, PG, HSY, TSLA.
+**No material update:** ODFL, PG, HSY, TSLA.
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** soft retail digestion and **SPCX Aug 20** supply; **Hold policy** on core size into the unlock. Why: Thu’s **XLC/XLK**-led tape still does not rewrite concentration in UNH/COST/ODFL; bands inside soft limits; LEN/SPCX average-down gate still fails (valuation + unlock). Falsifier: unlock absorption that forces high-beta **Review→Trim**, or retail weakness that hits COST membership/traffic or LEN orders into ~Sep 17. Sleeve tilt: none.
+**[Watch]** SPCX unlock absorption and WMT consumer spillover through Freddie noon; **Hold policy** on core size. Why: Wed’s **XLV/XLP** leadership helps the book’s largest sleeves, but today’s tape is supply + retail idiosyncratic + rates/oil risk-off; bands inside soft limits; LEN/SPCX average-down gate still fails (valuation + event). Falsifier: disorderly unlock that forces high-beta **Review→Trim**, or WMT-style demand weakness that shows up in COST membership/traffic. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** SPCX into Aug 20 unlock; do not average-down the fade. Evidence: supply calendar + peer divergence (KPI / SPCX note). Confidence: **High**. Falsifier: orderly float digestion + owner thesis refresh.
+1. **[Watch]** SPCX unlock absorption today; do not average-down the fade. Evidence: supply calendar + peer divergence (KPI / SPCX note). Confidence: **High**. Falsifier: orderly float digestion with theme-ETF catch-up into next tranche (Sep 9–10).
 
-2. **[Watch]** LEN after Freddie ease + soft retail; no average-down. Evidence: gate still fails (health / LEN note). Confidence: **High**. Falsifier: mortgage path eases further with order/ASP stabilization into ~Sep 17 est. earnings.
+2. **[Watch]** COST after WMT miss; hold size unless membership/traffic softens. Evidence: peer-specific comps/guide vs COST renewal model (COST note). Confidence: **Med**. Falsifier: COST-specific traffic/renewal disappointment before Sep 24.
 
-3. **[Watch]** UNH suit headlines vs operating case; hold size unless kill criteria trip. Evidence: amended complaint vs intact Q2 guide (UNH note). Confidence: **Med**. Falsifier: regulatory action or guidance cut that hits the kill line.
+3. **[Watch]** LEN into Freddie noon + soft starts; no average-down. Evidence: gate still fails (health / LEN note). Confidence: **High**. Falsifier: mortgage path eases with order/ASP stabilization into ~Sep 17 est. earnings.
 
 ## Explicit non-actions
 
-- Do not treat modest Freddie ease or soft retail alone as a LEN add or COST trim.
-- Do not chase TSLA’s beta bid as an average-down.
+- Do not treat WMT’s print as a COST thesis break or trim signal on its own.
+- Do not chase TSLA’s risk-off dip as an average-down.
 
 ## Delta vs yesterday
 
-- Freddie Watch **resolved** at **6.67%** (slight ease); new print Watch is **soft retail (−0.6%)**.
-- SPCX underwater deepened (**−8.8%** vs cost); UNH suit overhang added to Watch.
-- MV ≈ **$30,843**; qty/cost still frozen **2026-08-02**.
+- Last brief was **2026-08-14**; primary new catalysts are **SPCX Aug 20 unlock**, **WMT earnings spillover**, and **Jul housing starts** (printed Aug 18).
+- FOMC minutes (Wed) + oil/Iran headlines replaced soft-retail digestion as the macro overlay; Freddie still **pending noon**.
+- Underwater deepened: LEN **−25.1%**, SPCX **−11.3%**, TSLA **−5.7%**; MV ≈ **$30,189**.
 
 ## Open questions for next run
 
-1. Does soft retail show up in COST traffic/membership commentary before Sep 24 earnings?
-2. Into Aug 20: does SPCX volume/overhang force high-beta **Review→Trim**, or orderly absorption?
+1. Post-close Aug 20: was SPCX unlock absorption orderly, or does volume/overhang force high-beta **Review→Trim**?
+2. What does Freddie print at noon (vs **6.67%**), and does it change LEN’s rate path into ~Sep 17?
 3. Confirm **SPCX instrument** label (listed SpaceX vs AXS ETF in `holdings.md`).
 
 ## Sources
 
-- [Census — Advance Monthly Retail Trade July 2026](https://www.census.gov/retail/sales.html)
-- [Fortune/AP — July retail sales −0.6%](https://fortune.com/2026/08/14/its-not-lights-out-for-the-economy-u-s-retail-sales-drop-0-6-in-july/)
-- [Globe and Mail/Reuters — retail sales detail](https://www.theglobeandmail.com/business/economy/article-us-retail-sales-for-july-2026/)
+- [Schaeffer’s — futures pinched by oil, Iran escalation](https://www.schaeffersresearch.com/content/ezines/2026/08/20/stock-futures-pinched-by-oil-iran-escalation)
+- [Federal Reserve — July FOMC minutes release](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm)
+- [Market Daily — FOMC minutes hawkish dissent](https://marketdaily.com/fomc-minutes-reveal-broad-hawkish-sentiment-behind-the-feds-most-fractured-vote-in-a-decade/)
+- [TipRanks — SPCX lock-up expiration](https://www.tipranks.com/news/spacex-stock-lock-up-expiration-looms-technical-indicators-flash-sell)
+- [Gate — SPCX 319M unlock Aug 20](https://www.gate.com/news/detail/spacex-unlocks-319-million-shares-on-august-20-expanding-float-by-7-23519711)
+- [24/7 Wall St. — Walmart / Costco peer tape](https://247wallst.com/investing/2026/08/20/walmart-drops-8-on-slowest-same-store-sales-growth-since-2020-target-holds-steady-costco-eases/)
+- [Census — July 2026 new residential construction](https://www.census.gov/construction/nrc/current/index.html)
 - [Freddie Mac PMMS](https://www.freddiemac.com/pmms)
-- [Yahoo Finance — quotes / futures / peers / cocoa / 10y / VIX / Asia](https://finance.yahoo.com/)
 - [MarketBeat — LEN key stats](https://www.marketbeat.com/stocks/NYSE/LEN/)
-- [TipRanks — SPCX lock-up calendar](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next)
-- [Benzinga — UNH amended suit](https://www.benzinga.com/news/health-care/26/08/61188605/unitedhealths-crisis-deepens-lawsuit-alleges-medicare-fraud-algorithmic-care-denials-and-237-million-insider-sales)
-- [TipRanks — UNH cybersecurity/governance suit](https://www.tipranks.com/news/unitedhealth-hit-by-new-lawsuit-allegations-over-cyber-security-and-governance-failings)
+- [Healthcare Dive — UNH investor suit](https://www.healthcaredive.com/news/investor-lawsuit-unitedhealth-ignored-governance-cybersecurity-gaps-change/828016/)
+- [Yahoo Finance — quotes / futures / peers / cocoa / 10y / VIX / Asia / sectors](https://finance.yahoo.com/)
 - [ODFL IR — Q2’26 results](https://ir.odfl.com/news-events/press-releases/detail/347/old-dominion-freight-line-reports-second-quarter-2026)
-- [Nikkei 225 historical data](https://indexes.nikkei.co.jp/en/nkave/archives/data)

@@ -25,7 +25,12 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-08-13 | Macro | US cash open / Asia spillover | Post-PPI risk-on open (~10:30 ET): Nikkei **68,308.59 (+1.16%)**; HSI **25,396.51 (−0.17%)**; 10y ~**4.61%**; Freddie noon pending ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/)) |
 | 2026-08-14 | Macro | Retail sales (July) | **Printed −0.6% MoM** to **$763.6B** (cons. ~**+0.1%**); **+5.0% YoY**; May–Jul **+6.3%** ([Census](https://www.census.gov/retail/sales.html); [Fortune/AP](https://fortune.com/2026/08/14/its-not-lights-out-for-the-economy-u-s-retail-sales-drop-0-6-in-july/)) |
 | 2026-08-14 | Macro | US cash / Asia spillover | Soft retail open (~10:30 ET): Nikkei **68,713.80 (+0.59%)**; HSI **25,116.85 (−1.10%)**; 10y ~**4.66%** ([Nikkei](https://indexes.nikkei.co.jp/en/nkave/archives/data); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/)) |
-| 2026-08-20 | SPCX | Next lock-up tranche (est.) | ~**319M** shares eligible (calendar unlock); Watch absorption ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next); [Fool](https://www.fool.com/investing/2026/08/05/spacex-s-911-5-share-unlock-hits-tomorrow-here-s-what-investors-need-to-know/)) |
+| 2026-08-18 | Macro | Housing starts (Jul) | **Printed** — total **1.239M (−12.4% MoM)**; single-family **808k (−9.9% MoM)**; permits **1.443M (+5.0%)** ([Census](https://www.census.gov/construction/nrc/current/index.html)) |
+| 2026-08-19 | Macro | July FOMC minutes | **Printed 2pm ET** — **9–3** hold; hike dissenters; hawkish lean in text ([Fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm)) |
+| 2026-08-20 | SPCX | Lock-up tranche #2 | **In force** — ~**319M** shares eligible; AM session soft vs theme ETFs; Watch absorption ([TipRanks](https://www.tipranks.com/news/spacex-stock-lock-up-expiration-looms-technical-indicators-flash-sell); [Gate](https://www.gate.com/news/detail/spacex-unlocks-319-million-shares-on-august-20-expanding-float-by-7-23519711)) |
+| 2026-08-20 | Macro | Freddie Mac PMMS (weekly) | **Noon ET pending** at brief time; last print **6.67%** / 15y **5.96%** (Aug 13) ([Freddie Mac](https://www.freddiemac.com/pmms)) |
+| 2026-08-20 | Macro | WMT earnings spillover | WMT U.S. comps **+2.6%** (slowest since 2020) + soft Q3 EPS guide; COST sympathy ([24/7 Wall St.](https://247wallst.com/investing/2026/08/20/walmart-drops-8-on-slowest-same-store-sales-growth-since-2020-target-holds-steady-costco-eases/)) |
+| 2026-08-20 | Macro | US cash / Asia spillover | Risk-off open (oil/Iran, VIX ~16, 10y ~4.69%); Nikkei **66,217 (+1.36%)**, HSI **25,698 (+0.80%)** ([Schaeffer’s](https://www.schaeffersresearch.com/content/ezines/2026/08/20/stock-futures-pinched-by-oil-iran-escalation); [Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/)) |
 | 2026-08-28 | Macro | BLS preliminary CES benchmark revision | 10:00 a.m. ET — QCEW-based preliminary revision estimate ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
 | 2026-09-04 | Macro | August Employment Situation | 8:30 a.m. ET ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
@@ -43,5 +48,5 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: **CPI in-line**; **PPI cool (0.0% MoM)**; **retail −0.6% MoM**; claims **209k**; NAR Jul existing sales **−1.7%** (LEN); Freddie **6.67%** vs ~**4.66%** 10y; oil ~**$81**; ISM Jul **55.6** (ODFL); cocoa ~**$5.7k** (HSY); SPCX unlock **Aug 20**
-- Asia/HK overnight: Nikkei **68,713.80 (+0.59%)** / HSI **25,116.85 (−1.10%)** — Japan bid, HK soft; limited direct book overlap
+- US: **CPI in-line**; **PPI cool**; **retail −0.6% MoM**; Jul starts **1.239M** (LEN); Freddie **6.67%** (noon **8/20** pending) vs 10y ~**4.69%**; oil bid on Iran headlines; ISM Jul **55.6** (ODFL); cocoa ~**$6.0k** (HSY); **SPCX unlock Aug 20 in force**; WMT comps soft (COST spillover)
+- Asia/HK overnight: Nikkei **66,216.79 (+1.36%)** / HSI **25,698.49 (+0.80%)** — Asia bid; limited direct book overlap
