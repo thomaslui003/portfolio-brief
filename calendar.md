@@ -33,6 +33,13 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-08-20 | Macro | US cash / Asia spillover | Risk-off close (oil/Iran, yields rebound): S&P **−0.9%**, Dow **−1.3%**, Nasdaq **−1.0%**; Nikkei **66,217 (+1.36%)**, HSI **25,698 (+0.80%)** ([AP/Newser](https://www.newser.com/article/1dcf7c9c3cc490b82b2632302628c46b/the-bond-market-swings-back-to-worries-and-knocks-us-stocks-lower.html); [Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/)) |
 | 2026-08-21 | Macro | S&P Global flash PMI (Aug) | **Printed** — composite **56.0**; services **56.8**; mfg **53.2** (vs Jul **53.9**) ([ActionForex](https://www.actionforex.com/live-comments/651433-us-pmi-composite-hits-52-month-high-as-services-drive-august-acceleration/); [InvestingLive](https://investinglive.com/news/s-p-global-manufacturing-pmi-flash-estimate-for-august-53-2-versus-53-9-estimate/)) |
 | 2026-08-21 | Macro | US cash / Asia spillover | Fri bounce open (~10:30 ET): 10y ~**4.72%**; Nikkei **66,016 (−0.30%)**, HSI **26,009 (+1.21%)** ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/); [Mainichi](https://mainichi.jp/english/articles/20260821/p2g/00m/0bu/027000c)) |
+| 2026-08-24 | Macro | US cash open (Mon) / Asia spillover | NQ soft open; Nikkei **65,528 (−0.74%)**; HSI **25,517 (−1.89%)** on Alibaba placement / tech washout ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/); [Sina](https://finance.sina.com.cn/roll/2026-08-24/doc-inipmhfq1925400.shtml)) |
+| 2026-08-25 | Macro | New home sales / Case-Shiller / FHFA HPI | Housing tape for LEN ([Schwab Network](https://schwabnetwork.com/articles/week-ahead-jackson-hole-puts-fed-and-inflation-in-focus-nvidia-nvda-earnings)) |
+| 2026-08-26 | Macro | July PCE + Q2 GDP 2nd est. | 8:30 a.m. ET — Fed preferred inflation into Sep FOMC ([TechTimes](https://www.techtimes.com/articles/325293/20260824/nvidia-earnings-pce-land-same-day-september-rate-decision-starts-wednesday.htm); [BEA](https://www.bea.gov/)) |
+| 2026-08-26 | Macro | Nvidia earnings (spillover) | After close — risk-appetite / XLK tape for TSLA/SPCX ([Schwab Network](https://schwabnetwork.com/articles/week-ahead-jackson-hole-puts-fed-and-inflation-in-focus-nvidia-nvda-earnings)) |
+| 2026-08-27 | Macro | Freddie Mac PMMS (weekly) | Noon ET Thursday print — LEN KPI |
+| 2026-08-27–29 | Macro | Jackson Hole symposium | KC Fed; Chair Warsh keynote Fri ([Schwab Network](https://schwabnetwork.com/articles/week-ahead-jackson-hole-puts-fed-and-inflation-in-focus-nvidia-nvda-earnings)) |
+| 2026-08-28 | Macro | Warsh Jackson Hole keynote | ~10:00 a.m. ET — first as Chair; rates path ([TechTimes](https://www.techtimes.com/articles/325293/20260824/nvidia-earnings-pce-land-same-day-september-rate-decision-starts-wednesday.htm)) |
 | 2026-08-28 | Macro | BLS preliminary CES benchmark revision | 10:00 a.m. ET — QCEW-based preliminary revision estimate ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
 | 2026-09-02 | ODFL | Ex-dividend | ([StockAnalysis ODFL](https://stockanalysis.com/stocks/odfl/statistics/)) |
@@ -54,6 +61,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: **CPI in-line**; **PPI cool**; **retail −0.6% MoM**; Jul starts **1.239M** (LEN); Freddie **6.65%** vs 10y ~**4.72%**; flash PMI Aug services **56.8** / mfg **53.2**; oil still elevated on Iran; ISM Jul **55.6** (ODFL); cocoa ~**$6.0k** (HSY); **SPCX unlock Aug 20 digested poorly** (next Sep 9); WMT comps hangover (COST)
-- Asia/HK overnight: Nikkei **66,016 (−0.30%)** / HSI **26,009 (+1.21%)** — Japan soft / HK bid; limited direct book overlap
+- US: Week of **Aug 24** — Wed **PCE/GDP** + **NVDA**; Fri **Warsh** Jackson Hole + CES revision; Freddie next **Aug 27**. Prior prints: CPI in-line; PPI cool; retail −0.6% MoM; Jul starts **1.239M** (LEN); Freddie **6.65%**; flash PMI Aug services **56.8** / mfg **53.2**; ISM Jul **55.6** (ODFL); cocoa ~**$5.9k** (HSY); **SPCX unlock Aug 20 digested poorly** (next Sep 9); WMT comps hangover fading (COST)
+- Asia/HK overnight (Aug 24): Nikkei **65,528 (−0.74%)** / HSI **25,517 (−1.89%)** — HK tech washout; limited direct book overlap
 
