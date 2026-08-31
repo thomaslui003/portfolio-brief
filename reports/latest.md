@@ -1,59 +1,60 @@
-# Portfolio brief — 2026-08-28
+# Portfolio brief — 2026-08-31
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** Friday cash open (ET), ~10:35 ET cron. Marks as-of **2026-08-28** Yahoo; Qty/cost as-of **2026-08-02**. Premarket table = **session % vs Thu Aug 27 close** (cash-open proxy). Futures: Yahoo continuous vs Thu settle. Money-flow table = last **full session Thu Aug 27**.
+**Session:** Monday cash open (ET), ~10:30 ET cron. Marks as-of **2026-08-31** Yahoo; Qty/cost as-of **2026-08-02**. Premarket table = **session % vs Fri Aug 28 close** (cash-open proxy). Futures: Yahoo continuous vs Fri settle. Money-flow table = last **full session Fri Aug 28**.
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Warsh Jackson Hole keynote (~10:00 ET):** speech text stresses inflation above 2% and that the Fed’s “predominant focus right now should be on prices,” plus a critique of forward-guidance “hall of mirrors” ([Yahoo Finance live](https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html)).
-- **CES preliminary benchmark** also timed **10:00 ET** ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)); magnitude **not confirmed** via accessible wire at brief time — treat as digestion Watch, not a sized call.
-- **Tape:** futures near flat / NQ soft (see table); **10y (^TNX) ~4.69%**; VIX ~**14.4**; oil (CL=F) ~**$82.9** ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/); [Yahoo CL=F](https://finance.yahoo.com/quote/CL%3DF/)).
-- **Asia/HK:** Nikkei **66,405.56 (+0.41%)**; HSI closed soft (~**25,615 / −0.19%** per local wire; Yahoo mid-print near flat) ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [智通财经](https://m.zhitongcaijing.com/contentnew/appcontentdetail.html?content_id=232341)).
+- **Post-Warsh digestion:** Fri Jackson Hole price-focus language lifted Sep hike odds into the weekend; Mon tape soft with **10y (^TNX) ~4.76%** and VIX ~**15.3** ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/); [TradingKey premarket](https://www.tradingkey.com/analysis/stocks/us-stocks/262141604-us-premarket-us-iran-conflict-pushes-waller-hawkish-remarks-tradingkey)).
+- **CES preliminary (Fri):** total nonfarm overstated by **~79k** (−0.1%); private **−178k** — modest vs recent years, not a labor cliff ([Reuters](https://www.reuters.com/business/world-at-work/us-added-79000-fewer-jobs-12-months-through-march-bls-says-2026-08-28/)).
+- **Oil/Iran:** weekend Hormuz flare-up — WTI ~**$85.6** (+~2.6% vs Fri); inflation/risk spillover into rates week ([Berliner Volks-Zeitung/AFP](https://www.berlinervolkszeitung.de/en/Economy/716226-stocks-drop-as-warsh-fans-us-rate-hike-bets-crude-up-on-us-iran-strikes.html); [Yahoo CL=F](https://finance.yahoo.com/quote/CL%3DF/)).
+- **Asia/HK:** Nikkei opened sharply lower then closed **66,311.93 (−0.14%)**; HSI **25,566.99 (~flat)** ([Nikkei Indexes](https://indexes.nikkei.co.jp/en/nkave/archives/summary?idx=nk225); [CNBC Asia](https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html)).
+- **Week ahead:** Tue **ISM mfg**; Fri **Aug payrolls**; **Labor Day** US cash closed **Sep 7** ([ISM calendar](https://forex.tradingcharts.com/economic_calendar/2026-09-01.html?code=USD); [Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)).
 
 ## US premarket
 
-Cash **open** — table is session % vs prior close (not true PRE). Book-relevant: **COST** repairs Thu staples washout; **LEN** mild green with builders; **SPCX** green vs soft theme peers; **HSY** flat despite cocoa spike (KPI stress without stock confirmation).
+Cash **open** — table is session % vs prior close (not true PRE). Book-relevant: **TSLA** leads on weekend AI/energy narrative; **HSY** soft with cocoa continuation; **LEN** co-weak with builders as yields firm; **SPCX** mild green vs soft theme peers.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | -0.01 |
-| NQ | Nasdaq 100 futures | -0.19 |
-| YM | Dow futures | -0.06 |
-| RTY | Russell 2000 futures | -0.67 |
-| UNH | UnitedHealth | -0.06 |
-| COST | Costco | +1.46 |
-| ODFL | Old Dominion | -0.47 |
-| TSLA | Tesla | -0.51 |
-| LEN | Lennar | +0.69 |
-| PG | Procter & Gamble | +0.48 |
-| HSY | Hershey | +0.16 |
-| SPCX | SPCX ETF | +0.69 |
+| ES | S&P 500 futures | -0.47 |
+| NQ | Nasdaq 100 futures | -0.27 |
+| YM | Dow futures | -0.70 |
+| RTY | Russell 2000 futures | -0.82 |
+| UNH | UnitedHealth | -0.83 |
+| COST | Costco | -0.10 |
+| ODFL | Old Dominion | -0.21 |
+| TSLA | Tesla | +4.48 |
+| LEN | Lennar | -1.68 |
+| PG | Procter & Gamble | +0.25 |
+| HSY | Hershey | -1.87 |
+| SPCX | SPCX ETF | +0.99 |
 
 ## Money flow / sector rotation
 
-Last **full session Thu Aug 27** (Yahoo dated closes). Do not confuse with Friday live %.
+Last **full session Fri Aug 28** (Yahoo dated closes). Do not confuse with Monday live %.
 
-- **Leaders (Thu):** **XLK (Technology) +3.16%** dominated; only clear green sector SPDR on the day.
-- **Laggards (Thu):** **XLP (Consumer Staples) −1.38%**, **XLV (Health Care) −1.13%**, **XLY (Consumer Discretionary) −1.09%**.
-- **~5-day:** **XLK (Technology) +3.01%** / **XLF (Financials) +1.63%** lead; **XLE (Energy) −2.29%** / **XLU (Utilities) −1.35%** soft.
-- **Style (Thu):** **IWF (growth) +1.76%** vs **IWD (value) −0.34%**; **IWM (small caps) +0.29%**.
+- **Leaders (Fri):** **XLC (Communication Services) +1.42%**, **XLY (Consumer Discretionary) +1.15%**, **XLE (Energy) +0.63%**.
+- **Laggards (Fri):** **XLK (Technology) −1.55%**, **XLU (Utilities) −1.04%**, **XLI (Industrials) −0.93%** — Warsh digestion hit growth/duration.
+- **~5-day:** **XLC (Communication Services) +1.43%** / **XLK (Technology) +1.30%** still lead; **XLV (Health Care) −1.98%** / **XLI (Industrials) −1.73%** soft.
+- **Style (Fri):** **IWD (value) +0.29%** vs **IWF (growth) −0.92%**; **IWM (small caps) −1.35%**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Thu tech bid lifted TSLA/SPCX optics; staples/healthcare sleeves lagged into Fri (COST bounce is mean-reversion, not a membership print); industrials soft for ODFL.
+- **Book map:** Fri tech fade fights TSLA/SPCX optics into Mon narrative bid; healthcare/industrials sleeves soft for UNH/ODFL; staples mixed into HSY cocoa stress.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | -1.09 | -0.69 |
-| XLP | Consumer Staples | -1.38 | -0.28 |
-| XLE | Energy | -0.22 | -2.29 |
-| XLF | Financials | -0.65 | +1.63 |
-| XLV | Health Care | -1.13 | -0.47 |
-| XLI | Industrials | -0.85 | -0.54 |
-| XLB | Materials | -0.82 | +1.55 |
-| XLRE | Real Estate | -0.95 | -0.93 |
-| XLK | Technology | +3.16 | +3.01 |
-| XLU | Utilities | -0.76 | -1.35 |
-| XLC | Communication Services | -1.07 | +0.66 |
+| XLY | Consumer Discretionary | +1.15 | -0.69 |
+| XLP | Consumer Staples | +0.43 | -0.63 |
+| XLE | Energy | +0.63 | -1.51 |
+| XLF | Financials | +0.38 | +1.08 |
+| XLV | Health Care | -0.24 | -1.98 |
+| XLI | Industrials | -0.93 | -1.73 |
+| XLB | Materials | -0.09 | -0.67 |
+| XLRE | Real Estate | -0.40 | -1.33 |
+| XLK | Technology | -1.55 | +1.30 |
+| XLU | Utilities | -1.04 | -0.09 |
+| XLC | Communication Services | +1.42 | +1.43 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -72,95 +73,99 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **54.7%** (under soft top-3 **60%**). Cyclical **~28%**, staples **~35%**, high-beta **~18%**. No hard breach. Qty/cost freeze **2026-08-02**. MV ≈ **$30,344**.
-- **Underwater vs cost:** LEN **−24.8%**, SPCX **−5.4%**, TSLA **−2.4%**, HSY **−0.3%**.
-- **Peer divergences:** **SPCX** green vs **ARKX/UFO** soft (idiosyncratic). **ODFL** soft vs flat **SAIA** / weaker **XPO**. Managed-care mixed (UNH flat vs **CI** green / **ELV** soft). Builders co-bid (LEN with DHI/PHM). **HSY** flat while cocoa rips — stock not confirming KPI yet.
-- **Average-down gate:** **Fails** on LEN (P/E filter + rates path), SPCX (Sep unlock), TSLA (valuation), HSY (input-cost KPI).
+- **Bands:** UNH/COST/ODFL ≈ **54.4%** (under soft top-3 **60%**). Cyclical **~28%**, staples **~34%**, high-beta **~18%**. No hard breach. Qty/cost freeze **2026-08-02**. MV ≈ **$30,279**.
+- **Underwater vs cost:** LEN **−25.5%**, SPCX **−4.6%**, HSY **−3.3%**. TSLA back above cost (**+0.7%**).
+- **Peer divergences:** **TSLA** sharply ahead of GM/F/RIVN (narrative). **HSY** lags **MDLZ**. **SPCX** green vs soft **ARKX/UFO**. **ODFL** mid-pack vs **XPO** firm / **SAIA** soft. Builders co-weak (LEN with DHI/PHM/TOL). Managed-care co-soft.
+- **Average-down gate:** **Fails** on LEN (P/E filter + rates/oil path), SPCX (Sep unlock), HSY (input KPI), TSLA (valuation Mid/High).
 
 ## Leading indicators (book map)
 
-- **LEN / mortgage:** Freddie **Aug 27 printed 6.66%** (prior **6.65%**); 15y **5.98%** ([Freddie Mac](https://www.freddiemac.com/pmms)).
-- **HSY / cocoa:** CC=F ~**$6,530** (Fri continuation after Thu spike from ~$5.8k Wed) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/); [Trading Economics](https://tradingeconomics.com/commodity/cocoa)).
-- **SPCX:** IV compressed / range-bound ~$140; next unlock ~**319M Sep 9**; MS “revisit” narrative on Louisiana spaceport is not float clearance ([CNBC options](https://www.cnbc.com/2026/08/27/spacex-shares-are-doing-something-very-unusual-options-traders-are-taking-note.html); [TipRanks unlock](https://www.tipranks.com/news/spacex-stock-spcx-falls-below-ipo-price-why-todays-unlock-hit-hard)).
+- **LEN / mortgage:** Freddie last **Aug 27 printed 6.66%**; next PMMS **Thu Sep 3**; 10y firming (see regime) ([Freddie Mac](https://www.freddiemac.com/pmms)).
+- **HSY / cocoa:** CC=F ~**$6,670** (Mon extension after Fri ~$6.5k) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **SPCX:** next unlock ~**319M Sep 9**; weekend turbine/AI-power narrative is not float clearance ([TipRanks unlock](https://www.tipranks.com/news/spacex-stock-spcx-falls-below-ipo-price-why-todays-unlock-hit-hard); [TeslaNorth](https://teslanorth.com/2026/08/30/spacex-turbine-casting-18-months/)).
+- **TSLA:** invite-only Cybercab event **Sep 3** Austin ([Stocktwits/ARK context](https://stocktwits.com/news-articles/markets/equity/tesla-spacex-coming-soon-real-musk-terafab-dwarf-america-highway-system/cZYyFi4RJsP)).
 - **LEN / housing:** Jul new-sales **607k** / **9.6 months** supply still the live print ([Census NRS](https://www.census.gov/construction/nrs/current/index.html)).
-- **ODFL / freight:** Flash Aug mfg **53.2** vs ISM Jul **55.6** — no new tonnage print.
-- **COST / retail:** WMT comps hangover still peer context into Sep 24 COST print.
+- **ODFL / freight:** Tue **ISM mfg** is the near check; flash Aug mfg **53.2** / ISM Jul **55.6** unchanged until then.
+- **COST / retail:** quiet into **Sep 24** print; WMT hangover still peer context.
 
 ## What needs attention today
 
-- **Warsh digestion** — price-focus language + CES Watch; rates path for LEN; do not average-down while gate fails.
-- **Cocoa continuation** — HSY input-cost Watch even with a flat stock tape.
-- **SPCX** — idiosyncratic bid vs theme peers; Sep 9 unlock still the supply event.
-- **COST bounce** — repairs Thu staples lag; not a membership catalyst (Sep 24 print is the next hard check).
-- Quiet: UNH co-mixed with managed care; ODFL soft vs LTL peers; TSLA fading Thu NVDA beta.
+- **Rates + oil week** — Warsh hike-bet digestion + Hormuz oil bid keep LEN event-bound into ISM/NFP; no average-down while gate fails.
+- **Cocoa continuation** — HSY soft vs MDLZ; input Watch into seasonal sell-in.
+- **SPCX** — mild idio bid ≠ Sep 9 unlock clearance.
+- **TSLA narrative bid** — Cybercab Sep 3 Watch; valuation gate still blocks adds.
+- Quiet: UNH co-soft with managed care; COST/PG/ODFL noise-level.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
-| UNH | Hold | Watch | Watch | Quiet; IRS overhang |
-| COST | Hold | Hold | Hold | Bounce; Sep 24 print |
-| ODFL | Hold | Watch | Watch | Soft vs SAIA/XPO |
-| TSLA | Watch | Watch | Watch | Fades NVDA beta; gate fails |
-| LEN | Watch | Watch | Watch | Freddie done; Warsh Watch |
-| PG | Hold | Hold | Hold | Quiet staples repair |
-| HSY | Watch | Watch | Watch | Cocoa continuation KPI |
-| SPCX | Watch | Watch | Watch | Idio bid ≠ unlock clearance |
+| UNH | Hold | Watch | Watch | Quiet; commercial/IRS overhang |
+| COST | Hold | Hold | Hold | Flat; Sep 24 membership check |
+| ODFL | Hold | Watch | Watch | Soft XLI; ISM Tue check |
+| TSLA | Watch | Watch | Watch | Narrative bid; gate fails |
+| LEN | Watch | Watch | Watch | Yields up; NFP/Freddie week |
+| PG | Hold | Hold | Hold | Quiet staples ballast |
+| HSY | Watch | Watch | Watch | Cocoa extension; lags MDLZ |
+| SPCX | Watch | Watch | Watch | Idio ≠ Sep 9 unlock clearance |
 
 ## Position notes (fundamental lens)
 
-### HSY — cocoa second-day spike
-CC=F extended higher after Thu’s jump; HSY barely green and still near flat vs cost. Low/Low valuation does **not** clear an add while the input KPI is adverse.
+### HSY — cocoa third-session extension
+CC=F pushed higher again; HSY underperforms MDLZ and is deeper underwater vs cost. Low/Low valuation does **not** clear an add while the input KPI is adverse.
 
-### LEN — Freddie resolved; Warsh is the live rates event
-Freddie nudged higher (see KPI). Builders co-bid into the speech does not clear the **P/E filter**. Housing backlog stress unchanged. Gate **fails**.
+### LEN — rates path still the kill-edge
+Builders co-weak as 10y firms and oil adds inflation noise. Housing backlog stress unchanged. Gate **fails** (P/E filter).
 
-### SPCX — idiosyncratic bid vs theme peers
-Mild green while ARKX/UFO soft; CNBC notes IV compression / range trade; Sep 9 ~319M unlock still overhang. Repo label (AXS ETF vs listed SpaceX) unconfirmed. Gate **fails**.
+### TSLA / SPCX — weekend AI-energy narrative
+Turbine casting / Terafab / Cybercab headlines lift TSLA hard and SPCX mildly; neither clears valuation (TSLA) nor Sep unlock (SPCX). Repo label (AXS ETF vs listed SpaceX) still unconfirmed.
 
-### ODFL — soft vs LTL peers
-Mild underperformance vs SAIA; no new tonnage catalyst.
+### ODFL — industrials rotation soft
+No new tonnage print; Tue ISM is the live check.
 
-**No material update:** COST (bounce only), PG, UNH, TSLA (beta fade).
+**No material update:** COST, PG, UNH (co-soft only).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** Warsh + CES digestion through the Jackson Hole session; **Hold policy** on core size into Labor Day / Sep 4 payrolls. Why: price-focus Fed rhetoric keeps the rates sleeve event-bound; cocoa keeps HSY gated; SPCX idio strength does not clear Sep unlock; underwater average-down gates still fail (see valuation / KPI). Falsifier: Warsh digestion that sharply re-prices the 10y against builders, or a disorderly high-beta fade that forces **Review→Trim**. Sleeve tilt: none.
+**[Watch]** Warsh/oil digestion through **Tue ISM** and **Fri Aug payrolls**; **Hold policy** on core size into Labor Day (**Sep 7** closed). Why: hike-bet + energy inflation keep the rates sleeve event-bound; cocoa keeps HSY gated; SPCX idio strength does not clear Sep unlock; underwater average-down gates still fail (see valuation / KPI). Falsifier: orderly 10y ease with builders stabilizing *and* cocoa reversing without volume damage — otherwise stance stays Watch. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** LEN through Warsh/CES digestion; no average-down while gate fails. Evidence: Freddie print + speech price-focus + P/E filter (regime / LEN note). Confidence: **High**. Falsifier: sustained mortgage path lower with order/ASP stabilization into ~Sep 17 print.
+1. **[Watch]** LEN through ISM/Freddie/NFP week; no average-down while gate fails. Evidence: yields/oil path + P/E filter (regime / LEN note). Confidence: **High**. Falsifier: sustained mortgage path lower with order/ASP stabilization into ~Sep 17 print.
 
-2. **[Watch]** HSY on cocoa continuation; hold size unless input path reverses. Evidence: CC=F second-day spike (KPI / HSY note). Confidence: **Med**. Falsifier: cocoa mean-reverts without volume/pricing damage into next print.
+2. **[Watch]** HSY on cocoa extension; hold size unless input path reverses. Evidence: CC=F third-day push + peer lag (KPI / HSY note). Confidence: **Med**. Falsifier: cocoa mean-reverts without volume/pricing damage into next print.
 
-3. **[Watch]** SPCX unlock digestion into Sep 9; treat idio bid / MS narrative as beta, not float clearance. Evidence: peer divergence + unlock calendar (KPI / SPCX note). Confidence: **High**. Falsifier: orderly float digestion with ARKX/UFO catch-up before next unlock.
+3. **[Watch]** SPCX unlock digestion into Sep 9; treat weekend AI-power narrative as beta, not float clearance. Evidence: peer divergence + unlock calendar (KPI / SPCX note). Confidence: **High**. Falsifier: orderly float digestion with ARKX/UFO catch-up before next unlock.
 
 ## Explicit non-actions
 
-- Do not chase COST’s bounce as an add (valuation Mid/High; Sep 24 is the membership check).
-- Do not treat TSLA’s Thu NVDA bounce as still “in force” after Fri fade (valuation gate fails).
+- Do not chase TSLA’s Monday narrative gap as an add (valuation Mid/High; Cybercab is Watch, not a gate pass).
+- Do not treat COST flatness as a membership signal (Sep 24 is the check).
 
 ## Delta vs yesterday
 
-- Freddie **printed 6.66%** (was pending); Warsh keynote **in force** with price-focus language.
-- Cocoa extended to ~**$6.5k**; HSY Net stays **Watch**.
-- COST session bounce after Thu staples washout; SPCX underwater eased to **−5.4%** with idio vs ARKX/UFO.
+- CES preliminary printed **−79k** total / **−178k** private (was TBD); Warsh hike-bet + Hormuz oil now dominate Mon tape.
+- Cocoa extended again (~**$6.7k**); HSY Net stays **Watch** and deeper underwater.
+- TSLA flipped above cost on narrative bid; LEN drawdown widened to **−25.5%**.
 
 ## Open questions for next run
 
-1. What CES preliminary magnitude printed, and did Warsh Q&A re-price 10y enough to change LEN Net?
+1. Does Tue **ISM mfg** confirm or break the Jul **55.6** industrial tone for ODFL?
 2. Confirm **SPCX instrument** label (listed SpaceX vs AXS ETF in `holdings.md`).
-3. Does cocoa hold above ~$6.5k into next week, or reverse without HSY volume damage?
+3. After Cybercab **Sep 3**, does TSLA hold the gap without delivery/margin confirmation?
 
 ## Sources
 
-- [Yahoo Finance — Warsh Jackson Hole live](https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html)
-- [BLS — Employment Situation / CES preliminary notice](https://www.bls.gov/news.release/empsit.nr0.htm)
+- [TradingKey — US premarket Aug 31](https://www.tradingkey.com/analysis/stocks/us-stocks/262141604-us-premarket-us-iran-conflict-pushes-waller-hawkish-remarks-tradingkey)
+- [Reuters — CES preliminary −79k](https://www.reuters.com/business/world-at-work/us-added-79000-fewer-jobs-12-months-through-march-bls-says-2026-08-28/)
+- [Berliner Volks-Zeitung/AFP — oil/Iran + Warsh](https://www.berlinervolkszeitung.de/en/Economy/716226-stocks-drop-as-warsh-fans-us-rate-hike-bets-crude-up-on-us-iran-strikes.html)
+- [Nikkei Indexes — Aug 31 close](https://indexes.nikkei.co.jp/en/nkave/archives/summary?idx=nk225)
+- [CNBC — Asia live updates](https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html)
 - [Freddie Mac PMMS](https://www.freddiemac.com/pmms)
-- [CNBC — SPCX options / IV compression](https://www.cnbc.com/2026/08/27/spacex-shares-are-doing-something-very-unusual-options-traders-are-taking-note.html)
-- [TipRanks — SPCX unlock below IPO](https://www.tipranks.com/news/spacex-stock-spcx-falls-below-ipo-price-why-todays-unlock-hit-hard)
-- [Trading Economics — cocoa](https://tradingeconomics.com/commodity/cocoa)
+- [Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)
+- [TipRanks — SPCX unlock](https://www.tipranks.com/news/spacex-stock-spcx-falls-below-ipo-price-why-todays-unlock-hit-hard)
+- [TeslaNorth — SpaceX turbine casting](https://teslanorth.com/2026/08/30/spacex-turbine-casting-18-months/)
+- [Stocktwits — Cybercab Sep 3 / Terafab](https://stocktwits.com/news-articles/markets/equity/tesla-spacex-coming-soon-real-musk-terafab-dwarf-america-highway-system/cZYyFi4RJsP)
 - [Census — New Residential Sales](https://www.census.gov/construction/nrs/current/index.html)
-- [Yahoo ^N225 history](https://finance.yahoo.com/quote/%5EN225/history/)
-- [智通财经 — HSI Aug 28 close](https://m.zhitongcaijing.com/contentnew/appcontentdetail.html?content_id=232341)
-- [Yahoo Finance — quotes / futures / peers / cocoa / 10y / VIX / Asia / sectors](https://finance.yahoo.com/)
+- [Nasdaq — US holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)
+- [Yahoo Finance — quotes / futures / peers / sectors / 10y / VIX / oil](https://finance.yahoo.com/)

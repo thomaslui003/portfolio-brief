@@ -45,11 +45,17 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-08-27 | Macro | US cash / Asia spillover | NVDA-led session: XLK **+3.16%**; Nikkei **66,132 (−0.20%)**; HSI **~25,566 (−0.34%)**; cocoa (CC=F) spiked ~**$6.2k** ([Yahoo sector charts](https://finance.yahoo.com/); [Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)) |
 | 2026-08-27–29 | Macro | Jackson Hole symposium | KC Fed; Chair Warsh keynote Fri ([Schwab Network](https://schwabnetwork.com/articles/week-ahead-jackson-hole-puts-fed-and-inflation-in-focus-nvidia-nvda-earnings)) |
 | 2026-08-28 | Macro | Warsh Jackson Hole keynote | **Printed ~10:00 ET** — inflation above 2%; “predominant focus… on prices”; forward-guidance “hall of mirrors” ([Yahoo Finance live](https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html)) |
-| 2026-08-28 | Macro | BLS preliminary CES benchmark revision | 10:00 a.m. ET — scheduled; magnitude **not confirmed** on accessible wire at ~10:35 ET brief ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
+| 2026-08-28 | Macro | BLS preliminary CES benchmark revision | **Printed** — total nonfarm **−79k (−0.1%)**; private **−178k**; govt offset ~**+99k**; final in Feb 2027 ([Reuters](https://www.reuters.com/business/world-at-work/us-added-79000-fewer-jobs-12-months-through-march-bls-says-2026-08-28/); [BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
 | 2026-08-28 | Macro | US cash / Asia spillover | Post-Warsh open (~10:35 ET): Nikkei **66,405.56 (+0.41%)**; HSI ~**25,615 (−0.19%)**; cocoa ~**$6.5k**; COST bounce; LEN mild green ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [智通财经](https://m.zhitongcaijing.com/contentnew/appcontentdetail.html?content_id=232341); [Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)) |
-| TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
+| 2026-08-29–30 | Macro | US–Iran Hormuz flare-up | Weekend strikes / retaliation narrative; Mon WTI ~**$85.6**; Brent ~**$90** ([AFP wire](https://www.berlinervolkszeitung.de/en/Economy/716226-stocks-drop-as-warsh-fans-us-rate-hike-bets-crude-up-on-us-iran-strikes.html)) |
+| 2026-08-31 | Macro | US cash / Asia spillover | Mon open soft (~10:30 ET): Nikkei **66,311.93 (−0.14%)** after early −1.5k plunge; HSI **25,566.99 (flat)**; 10y ~**4.76%**; cocoa ~**$6.7k**; TSLA narrative bid ([Nikkei Indexes](https://indexes.nikkei.co.jp/en/nkave/archives/summary?idx=nk225); [CNBC Asia](https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/)) |
+| 2026-09-01 | Macro | ISM Manufacturing PMI (Aug) | 10:00 a.m. ET; cons. ~**55.1** (Jul **55.6**) ([calendar](https://forex.tradingcharts.com/economic_calendar/2026-09-01.html?code=USD)) |
 | 2026-09-02 | ODFL | Ex-dividend | ([StockAnalysis ODFL](https://stockanalysis.com/stocks/odfl/statistics/)) |
+| 2026-09-03 | Macro | Freddie Mac PMMS (weekly) | Noon ET ([Freddie Mac](https://www.freddiemac.com/pmms)) |
+| 2026-09-03 | TSLA | Cybercab event (Austin) | Invite-only + livestream ([Stocktwits](https://stocktwits.com/news-articles/markets/equity/tesla-spacex-coming-soon-real-musk-terafab-dwarf-america-highway-system/cZYyFi4RJsP)) |
 | 2026-09-04 | Macro | August Employment Situation | 8:30 a.m. ET ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
+| 2026-09-07 | Macro | Labor Day — US cash **closed** | NYSE/Nasdaq closed; reopen Tue Sep 8 ([Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)) |
+| TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
 | 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next)) |
 | 2026-09-14 | UNH | Ex-dividend | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
 | 2026-09-15–16 | Macro | FOMC | Markets reprice hike odds after soft Jul payrolls |
@@ -67,6 +73,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: Week of **Aug 24** — Wed **PCE sticky** (+3.7% / core +3.3%) + GDP **1.5%**; **NVDA printed** strong (Thu XLK +3.16%); Freddie **Aug 27 printed 6.66%**; Fri **Warsh** price-focus keynote + CES preliminary (magnitude TBD at brief); cocoa extended ~**$6.5k** (HSY Watch). Prior: Jul new home sales **607k** (LEN); flash PMI Aug mfg **53.2**; ISM Jul **55.6** (ODFL); **SPCX** Sep 9 unlock Watch; next hard macro **Sep 4** payrolls / **Sep 15–16** FOMC
-- Asia/HK overnight (Aug 28): Nikkei **66,405.56 (+0.41%)** / HSI ~**25,615 (−0.19%)** — mild risk-on Japan, soft HK; limited direct book overlap
+- US: Week of **Aug 31** — Warsh hike-bet digestion + Hormuz oil; CES printed **−79k**; Tue **ISM mfg**; Thu **Freddie**; Fri **Aug payrolls**; **Labor Day Sep 7 closed**. Cocoa ~**$6.7k** (HSY Watch). Prior: Freddie **6.66%**; Jul new home sales **607k** (LEN); flash PMI Aug mfg **53.2**; ISM Jul **55.6** (ODFL); **SPCX** Sep 9 unlock Watch; next FOMC **Sep 15–16**
+- Asia/HK overnight (Aug 31): Nikkei **66,311.93 (−0.14%)** after early plunge / HSI **25,566.99 (flat)** — Warsh spillover digested; limited direct book overlap
 
