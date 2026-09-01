@@ -49,7 +49,8 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-08-28 | Macro | US cash / Asia spillover | Post-Warsh open (~10:35 ET): Nikkei **66,405.56 (+0.41%)**; HSI ~**25,615 (−0.19%)**; cocoa ~**$6.5k**; COST bounce; LEN mild green ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [智通财经](https://m.zhitongcaijing.com/contentnew/appcontentdetail.html?content_id=232341); [Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)) |
 | 2026-08-29–30 | Macro | US–Iran Hormuz flare-up | Weekend strikes / retaliation narrative; Mon WTI ~**$85.6**; Brent ~**$90** ([AFP wire](https://www.berlinervolkszeitung.de/en/Economy/716226-stocks-drop-as-warsh-fans-us-rate-hike-bets-crude-up-on-us-iran-strikes.html)) |
 | 2026-08-31 | Macro | US cash / Asia spillover | Mon open soft (~10:30 ET): Nikkei **66,311.93 (−0.14%)** after early −1.5k plunge; HSI **25,566.99 (flat)**; 10y ~**4.76%**; cocoa ~**$6.7k**; TSLA narrative bid ([Nikkei Indexes](https://indexes.nikkei.co.jp/en/nkave/archives/summary?idx=nk225); [CNBC Asia](https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/)) |
-| 2026-09-01 | Macro | ISM Manufacturing PMI (Aug) | 10:00 a.m. ET; cons. ~**55.1** (Jul **55.6**) ([calendar](https://forex.tradingcharts.com/economic_calendar/2026-09-01.html?code=USD)) |
+| 2026-09-01 | Macro | ISM Manufacturing PMI (Aug) | **Printed 54.6** (cons. ~**55.2**; Jul **55.6**) — New Orders **53.7** / Employment **51.2** / Prices **71.1**; 8th expansion month ([PR Newswire/ISM](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-6-august-2026-ism-manufacturing-pmi-report-302865127.html); [TradingEconomics](https://tradingeconomics.com/united-states/business-confidence)) |
+| 2026-09-01 | Macro | US cash / Asia spillover | Soft open (~10:30 ET): oil/Hormuz + sticky 10y; Nikkei **66,215 (−0.15%)**; HSI **25,330 (−0.93%)**; ODFL soft with LTL peers post-ISM ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/)) |
 | 2026-09-02 | ODFL | Ex-dividend | ([StockAnalysis ODFL](https://stockanalysis.com/stocks/odfl/statistics/)) |
 | 2026-09-03 | Macro | Freddie Mac PMMS (weekly) | Noon ET ([Freddie Mac](https://www.freddiemac.com/pmms)) |
 | 2026-09-03 | TSLA | Cybercab event (Austin) | Invite-only + livestream ([Stocktwits](https://stocktwits.com/news-articles/markets/equity/tesla-spacex-coming-soon-real-musk-terafab-dwarf-america-highway-system/cZYyFi4RJsP)) |
@@ -73,6 +74,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: Week of **Aug 31** — Warsh hike-bet digestion + Hormuz oil; CES printed **−79k**; Tue **ISM mfg**; Thu **Freddie**; Fri **Aug payrolls**; **Labor Day Sep 7 closed**. Cocoa ~**$6.7k** (HSY Watch). Prior: Freddie **6.66%**; Jul new home sales **607k** (LEN); flash PMI Aug mfg **53.2**; ISM Jul **55.6** (ODFL); **SPCX** Sep 9 unlock Watch; next FOMC **Sep 15–16**
-- Asia/HK overnight (Aug 31): Nikkei **66,311.93 (−0.14%)** after early plunge / HSI **25,566.99 (flat)** — Warsh spillover digested; limited direct book overlap
+- US: Week of **Sep 1** — ISM Aug **printed 54.6**; oil/Hormuz + sticky yields; Thu **Freddie**; Fri **Aug payrolls**; **Labor Day Sep 7 closed**. Cocoa ~**$6.6k** (HSY Watch). Prior: Freddie **6.66%**; Jul new home sales **607k** (LEN); **SPCX** Sep 9 unlock Watch; TSLA Cybercab **Sep 3**; next FOMC **Sep 15–16**
+- Asia/HK overnight (Sep 1): Nikkei **66,215.34 (−0.15%)** / HSI **25,329.73 (−0.93%)** — oil/yields spillover; limited direct book overlap
 
