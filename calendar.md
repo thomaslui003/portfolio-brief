@@ -52,15 +52,18 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-09-01 | Macro | ISM Manufacturing PMI (Aug) | **Printed 54.6** (cons. ~**55.2**; Jul **55.6**) — New Orders **53.7** / Employment **51.2** / Prices **71.1**; 8th expansion month ([PR Newswire/ISM](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-6-august-2026-ism-manufacturing-pmi-report-302865127.html); [TradingEconomics](https://tradingeconomics.com/united-states/business-confidence)) |
 | 2026-09-01 | Macro | US cash / Asia spillover | Soft open (~10:30 ET): oil/Hormuz + sticky 10y; Nikkei **66,215 (−0.15%)**; HSI **25,330 (−0.93%)**; ODFL soft with LTL peers post-ISM ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/)) |
 | 2026-09-02 | ODFL | Ex-dividend | ([StockAnalysis ODFL](https://stockanalysis.com/stocks/odfl/statistics/)) |
-| 2026-09-03 | Macro | Freddie Mac PMMS (weekly) | Noon ET ([Freddie Mac](https://www.freddiemac.com/pmms)) |
-| 2026-09-03 | TSLA | Cybercab event (Austin) | Invite-only + livestream ([Stocktwits](https://stocktwits.com/news-articles/markets/equity/tesla-spacex-coming-soon-real-musk-terafab-dwarf-america-highway-system/cZYyFi4RJsP)) |
-| 2026-09-04 | Macro | August Employment Situation | 8:30 a.m. ET ([BLS](https://www.bls.gov/news.release/empsit.nr0.htm)) |
+| 2026-09-03 | Macro | Freddie Mac PMMS (weekly) | **Printed 6.71%** (prior **6.66%**); 15y **6.04%** ([Freddie Mac](https://www.freddiemac.com/pmms); [GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/03/3356148/0/en/mortgage-rates-average-6-71.html)) |
+| 2026-09-03 | TSLA | Cybercab event (Austin) | **Printed** — public Cybercab rides (no wheel/pedals); stock **+5.4%** Thu ([AP](https://apnews.com/article/tesla-cybercab-austin-elon-musk-driverless-8791add840f4debbc41bcaa9d1e64561)) |
+| 2026-09-04 | Macro | August Employment Situation | **Printed** — NFP **+162k** (cons. ~**56k**); U-3 **4.1%**; AHE **+0.3% / +3.1% YoY**; Jun–Jul revised **+55k** ([TradingEconomics NFP](https://tradingeconomics.com/united-states/non-farm-payrolls); [TradingEconomics U-3](https://tradingeconomics.com/united-states/unemployment-rate)) |
+| 2026-09-04 | TSLA | NHTSA Cybercab audit | **Printed** — audit of FMVSS self-certification for no-controls Cybercab ([TechCrunch](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)) |
+| 2026-09-04 | Macro | US cash / Asia spillover | Post-NFP open (~10:40 ET): Nikkei **65,021 (+1.26%)**; HSI **25,651 (+1.74%)**; TSLA giveback; ODFL lags LTL peers ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/)) |
 | 2026-09-07 | Macro | Labor Day — US cash **closed** | NYSE/Nasdaq closed; reopen Tue Sep 8 ([Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
-| 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next)) |
+| 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next); [FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/)) |
 | 2026-09-14 | UNH | Ex-dividend | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
-| 2026-09-15–16 | Macro | FOMC | Markets reprice hike odds after soft Jul payrolls |
-| ~2026-09-17 | LEN | Earnings (est.) | Yahoo/MarketBeat estimate — confirm on IR ([Yahoo LEN](https://finance.yahoo.com/quote/LEN/); [MarketBeat](https://www.marketbeat.com/stocks/NYSE/LEN/earnings/)) |
+| 2026-09-15–16 | Macro | FOMC | Hot Aug payrolls keep hike-odds debate live vs inflation path |
+| 2026-09-16 | LEN | Q3’26 earnings (AMC) | Confirmed release after close ([PR Newswire/Lennar](https://www.stocktitan.net/news/LEN/lennar-corporation-to-broadcast-its-third-quarter-2026-earnings-call-meyqoyz3tf1u.html)) |
+| 2026-09-17 | LEN | Q3’26 earnings call | 11:00 a.m. ET webcast ([investors.lennar.com](https://investors.lennar.com)) |
 | 2026-09-24 | COST | Q4 FY26 earnings call | Confirmed 2:00 PM PT ([Costco IR](https://investor.costco.com/events-and-presentations/events/event-details/2026/Q4-2026-Earnings-Call/default.aspx)) |
 | ~2026-10-21 | TSLA | Earnings (est.) | ([Yahoo TSLA](https://finance.yahoo.com/quote/TSLA/)) |
 | ~2026-10-27 | UNH | Earnings (est.) | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
@@ -74,6 +77,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: Week of **Sep 1** — ISM Aug **printed 54.6**; oil/Hormuz + sticky yields; Thu **Freddie**; Fri **Aug payrolls**; **Labor Day Sep 7 closed**. Cocoa ~**$6.6k** (HSY Watch). Prior: Freddie **6.66%**; Jul new home sales **607k** (LEN); **SPCX** Sep 9 unlock Watch; TSLA Cybercab **Sep 3**; next FOMC **Sep 15–16**
-- Asia/HK overnight (Sep 1): Nikkei **66,215.34 (−0.15%)** / HSI **25,329.73 (−0.93%)** — oil/yields spillover; limited direct book overlap
+- US: Week of **Sep 1–4** — ISM Aug **54.6**; Freddie **6.71%**; Aug NFP **+162k** / U-3 **4.1%**; **Labor Day Sep 7 closed**. Cocoa ~**$6.2k** (eased; HSY still Watch). Jul new home sales **607k** (LEN); **SPCX** Sep 9 unlock Watch; TSLA Cybercab **Sep 3** + NHTSA audit **Sep 4**; LEN earnings **Sep 16/17**; next FOMC **Sep 15–16**
+- Asia/HK overnight (Sep 4): Nikkei **65,020.94 (+1.26%)** / HSI **25,650.87 (+1.74%)** — SoftBank/AI rebound; limited direct book overlap
 
