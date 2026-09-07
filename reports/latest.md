@@ -1,60 +1,45 @@
-# Portfolio brief — 2026-09-04
+# Portfolio brief — 2026-09-07
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** Friday cash open (ET), ~10:40 ET cron. Marks as-of **2026-09-04** Yahoo; Qty/cost as-of **2026-08-02**. Premarket table = **session % vs Thu Sep 3 close** (cash-open proxy). Futures: Yahoo continuous vs Thu settle. Money-flow table = last **full session Thu Sep 3**. **Aug NFP printed 8:30 ET** — brief includes the print.
+**Session:** **Labor Day — US cash closed** (NYSE/Nasdaq). Marks as-of **2026-09-07** Yahoo last close (Fri Sep 4); Qty/cost as-of **2026-08-02**. No premarket table. Money-flow = last **full session Fri Sep 4**. Suggestions kept minimal.
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Hot labor print:** Aug nonfarm **+162k** (cons. ~**56k**); U-3 **4.1%** unchanged; AHE **+0.3% MoM / +3.1% YoY**; participation **61.6%** (from **61.4%**); Jun–Jul payrolls revised **+55k** combined ([TradingEconomics NFP](https://tradingeconomics.com/united-states/non-farm-payrolls); [TradingEconomics U-3](https://tradingeconomics.com/united-states/unemployment-rate)).
-- **Rates/vol:** **10y (^TNX) ~4.76%** sticky; VIX ~**14.1** ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/)).
-- **Oil:** WTI ~**$89.9**, Brent ~**$94.5** — still elevated vs mid-Aug but easing vs Thu ([Yahoo CL=F](https://finance.yahoo.com/quote/CL%3DF/); [Yahoo BZ=F](https://finance.yahoo.com/quote/BZ%3DF/)).
-- **Asia/HK:** Nikkei **65,020.94 (+1.26%)**; HSI **25,650.87 (+1.74%)** — SoftBank/AI rebound overnight ([Zawya/Reuters](https://www.zawya.com/en/capital-markets/japans-nikkei-rises-on-softbank-rally-but-posts-weekly-loss-478096); [Xinhua/NAMPA HSI](https://www.nampa.org/text/23007295)).
-- **Week ahead:** **Labor Day Sep 7** US cash closed; reopen Tue **Sep 8**; SPCX unlock ~**Sep 9**; next FOMC **Sep 15–16** ([Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)).
+- **US holiday:** equity/bond cash dark; reopen **Tue Sep 8** ([Benzinga Labor Day](https://www.benzinga.com/markets/equities/26/09/61646501/is-stock-market-open-today-labor-day-2026-september-7); [Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)).
+- **Fri close carry:** S&P **−0.38%**, Dow **−0.51%**, Nasdaq **−0.29%**; 10y (^TNX) **~4.78%**; VIX holiday print **~15.2** ([Yahoo ^GSPC](https://finance.yahoo.com/quote/%5EGSPC/); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/)).
+- **Oil:** WTI ~**$91.5**, Brent ~**$96.3** — still elevated (Fri settle; holiday flat) ([Yahoo CL=F](https://finance.yahoo.com/quote/CL%3DF/); [Yahoo BZ=F](https://finance.yahoo.com/quote/BZ%3DF/)).
+- **Asia/HK Mon:** Nikkei **66,399.84 (+2.12%)**; HSI **25,413.12 (−0.93%)** — Japan/tech bid vs HK rate-hike/peg pressure after hot US payrolls ([MarketWatch Asia](https://www.marketwatch.com/data-news/japanese-stocks-rally-as-hang-seng-falls-c8e6f7f3-6c80304da021); [StockTi HSI](https://stockti.com/hang-seng-slips-1-as-us-rate-hike-bets-weigh-on-hong-kong)).
+- **Week ahead:** SPCX unlock ~**Sep 9–10**; FOMC **Sep 15–16**; LEN **Sep 16 AMC / call Sep 17**; COST **Sep 24**.
 
 ## US premarket
 
-Cash **open** — table is session % vs prior close (not true PRE). Book-relevant: **TSLA** giving back Thu’s Cybercab bid after **NHTSA** audit headlines; **ODFL** lagging strong LTL peers; staples/managed-care mild soft; **SPCX** flat after Thu unlock-positioning bounce.
-
-| Symbol | Name | Premarket % |
-|--------|------|-------------|
-| ES | S&P 500 futures | -0.29 |
-| NQ | Nasdaq 100 futures | +0.17 |
-| YM | Dow futures | -0.51 |
-| RTY | Russell 2000 futures | +0.08 |
-| UNH | UnitedHealth | -0.97 |
-| COST | Costco | -0.86 |
-| ODFL | Old Dominion | +0.34 |
-| TSLA | Tesla | -6.29 |
-| LEN | Lennar | -0.49 |
-| PG | Procter & Gamble | -0.42 |
-| HSY | Hershey | -0.70 |
-| SPCX | SPCX ETF | -0.14 |
+US closed — no premarket tape (Labor Day).
 
 ## Money flow / sector rotation
 
-Last **full session Thu Sep 3** (Yahoo dated closes). Do not confuse with Friday live %.
+Last **full session Fri Sep 4** (Yahoo dated closes). Holiday — no live US sector tape.
 
-- **Leaders (Thu):** **XLF (Financials) +1.56%**, **XLY (Consumer Discretionary) +1.39%**, **XLK (Technology) +1.29%** — risk-on into Cybercab/NFP eve.
-- **Laggards (Thu):** **XLE (Energy) −0.74%**, **XLB (Materials) −0.62%**, **XLP (Consumer Staples) −0.32%**.
-- **~5-day:** **XLE (Energy) +3.74%** / **XLC (Communication Services) +1.77%** lead; **XLI (Industrials) −2.37%** / **IWM (small caps) −1.54%** soft.
-- **Style (Thu):** **IWF (growth) +1.33%** ahead of **IWD (value) +0.89%**; **IWM (small caps) +0.40%**.
+- **Leaders (Fri):** **XLK (Technology) +0.70%**, **XLI (Industrials) +0.41%**, **XLU (Utilities) +0.12%**.
+- **Laggards (Fri):** **XLY (Consumer Discretionary) −1.33%**, **XLC (Communication Services) −1.19%**, **XLV (Health Care) −1.04%**, **XLP (Consumer Staples) −0.80%**.
+- **~5-day:** **XLE (Energy) +2.20%** still leads; **XLY (Consumer Discretionary) −1.96%** / **XLB (Materials) −1.39%** soft.
+- **Style (Fri):** **IWM (small caps) +0.28%** ahead of flat **IWF (growth)** and soft **IWD (value)**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Thu risk-on favored TSLA/XLY context and left **XLI (Industrials)** still soft on a 5-day basis; staples sleeve lagged; LEN rates path still fights the hot NFP/Freddie tape.
+- **Book map:** Fri fade hit TSLA/XLY context and staples/healthcare sleeves; XLI bounce did **not** lift ODFL vs LTL peers; LEN still rates-bound into reopen.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | +1.39 | +0.50 |
-| XLP | Consumer Staples | -0.32 | +0.21 |
-| XLE | Energy | -0.74 | +3.74 |
-| XLF | Financials | +1.56 | +1.17 |
-| XLV | Health Care | +0.18 | +0.98 |
-| XLI | Industrials | +1.03 | -2.37 |
-| XLB | Materials | -0.62 | -1.15 |
-| XLRE | Real Estate | +1.19 | -0.92 |
-| XLK | Technology | +1.29 | -1.40 |
-| XLU | Utilities | +0.84 | -0.35 |
-| XLC | Communication Services | +0.85 | +1.77 |
+| XLY | Consumer Discretionary | -1.33 | -1.96 |
+| XLP | Consumer Staples | -0.80 | -1.02 |
+| XLE | Energy | -0.87 | +2.20 |
+| XLF | Financials | -0.79 | +0.00 |
+| XLV | Health Care | -1.04 | +0.17 |
+| XLI | Industrials | +0.41 | -1.06 |
+| XLB | Materials | -0.34 | -1.39 |
+| XLRE | Real Estate | -0.72 | -1.24 |
+| XLK | Technology | +0.70 | +0.86 |
+| XLU | Utilities | +0.12 | +0.82 |
+| XLC | Communication Services | -1.19 | -0.85 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -69,106 +54,102 @@ Last **full session Thu Sep 3** (Yahoo dated closes). Do not confuse with Friday
 | HSY | 2.96 | 2.98 | 3.62 | Low | 19.77 | Low | No — cocoa KPI |
 | SPCX | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 
-Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy for ranges). LEN still fails the P/E filter; HSY Low/Low still blocked while cocoa remains elevated vs summer base ([valuation.md](../valuation.md)).
+Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy for ranges). No holiday print moves spots; average-down still blocked across underwater names ([valuation.md](../valuation.md)).
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **54%** (under soft top-3 **60%**). Cyclical **~27%**, staples **~34%**, high-beta **~18%**. No hard breach. Qty/cost freeze **2026-08-02**. MV ≈ **$29,867**.
-- **Underwater vs cost:** LEN **−26.2%**, HSY **−4.3%**, TSLA **−2.3%**, COST **−1.9%** (back below cost), SPCX **−0.2%**.
-- **Peer divergences:** **ODFL** lags **SAIA/XPO/TFII** (peers +2–4% while ODFL ~flat). **TSLA** reverses vs quiet GM/F after Thu Cybercab gap. Managed-care co-soft (UNH with ELV/CI/HUM). Builders quiet co-move. **SPCX** flat vs flat **ARKX/UFO**.
-- **Average-down gate:** **Fails** on LEN (P/E + Freddie/NFP), SPCX (Sep 9 unlock), HSY (input KPI), TSLA (valuation Mid/High + NHTSA event), COST (Mid/High).
+- **Bands:** UNH/COST/ODFL ≈ **54%** (under soft top-3 **60%**). Cyclical **~27%**, staples **~34%**, high-beta **~18%**. No hard breach. Qty/cost freeze **2026-08-02**. MV ≈ **$29,826** (Fri marks).
+- **Underwater vs cost:** LEN **−26.6%**, HSY **−4.7%**, COST **−2.0%**, TSLA **−1.9%**, SPCX **−1.4%**.
+- **Peer divergences (Fri):** **ODFL** ~flat vs **XPO/SAIA/TFII +3–4.5%** — still material. **TSLA −5.9%** vs mild-green GM/F after Cybercab/NHTSA digest. Managed-care co-soft. Builders co-soft. **SPCX −1.2%** while **ARKX/UFO** ~flat — mild idio giveback after Thu unlock bounce.
+- **Average-down gate:** **Fails** across the board (valuation and/or KPI/events: LEN P/E + rates, SPCX unlock, HSY cocoa, TSLA Mid/High + audit, COST Mid/High).
 
 ## Leading indicators (book map)
 
-- **LEN / mortgage:** Freddie **Sep 3 printed 6.71%** (prior **6.66%**); 15y **6.04%** ([Freddie Mac](https://www.freddiemac.com/pmms); [GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/03/3356148/0/en/mortgage-rates-average-6-71.html)).
-- **Macro / Fed path:** Aug NFP hot vs cons. (see regime) — hike-odds tape risk into **Sep 15–16** FOMC.
-- **HSY / cocoa:** CC=F ~**$6,187** (eased from early-week ~$6.5–6.6k; still elevated) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
-- **TSLA:** Cybercab public rides **Austin Sep 3**; **NHTSA** opened certification audit **Sep 4** ([AP](https://apnews.com/article/tesla-cybercab-austin-elon-musk-driverless-8791add840f4debbc41bcaa9d1e64561); [TechCrunch](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)).
-- **SPCX:** next unlock ~**319M Sep 9** (+~**59M** Sep 10) ([FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/); [TipRanks unlock](https://www.tipranks.com/news/spacex-stock-spcx-falls-below-ipo-price-why-todays-unlock-hit-hard)).
-- **ODFL / freight:** ISM Aug still the live print (see prior brief); no new tonnage print.
-- **LEN / housing:** Jul new-sales **607k** / **9.6 months** supply; earnings **Sep 16 AMC / call Sep 17** ([Census NRS](https://www.census.gov/construction/nrs/current/index.html); [PR Newswire/Lennar](https://www.stocktitan.net/news/LEN/lennar-corporation-to-broadcast-its-third-quarter-2026-earnings-call-meyqoyz3tf1u.html)).
-- **COST / retail:** quiet into **Sep 24** print; Costco Next storefronts reported offline ([NY Ledger](https://thenyledger.com/news/costco-quietly-pulls-popular-member-perk-seemingly-without-warning-real-bummer-for-the-deals/)).
+- **LEN / mortgage:** Freddie last PMMS **Sep 3** (see prior brief); holiday daily surveys firmer into reopen ([Forbes Advisor 9/7](https://www.forbes.com/advisor/mortgages/mortgage-rates-09-07-26/)).
+- **Macro / Fed path:** Hot Aug NFP still the live labor print into **Sep 15–16** FOMC (see prior brief).
+- **HSY / cocoa:** CC=F Fri close **~$6,082** (eased vs late-Aug spike; still elevated) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **TSLA:** Cybercab commercial Austin rides + **NHTSA AQ26002** FMVSS self-cert audit (~1,000 vehicles) — still the live overhang ([CNBC](https://www.cnbc.com/2026/09/04/us-auto-safety-regulator-opens-probe-into-nearly-1000-tesla-cybercabs.html); [Electrek](https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/)).
+- **SPCX:** unlock ~**319M Sep 9** (+~**59M** Sep 10) still ahead ([FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/); [TechTimes unlock](https://www.techtimes.com/articles/326114/20260901/spacex-stock-lockup-hits-tuesday-november-earnings-tranche-dwarfs-september-9-four-times.htm)).
+- **ODFL / freight:** no new tonnage print over the holiday; Fri peer lag unresolved.
+- **LEN / housing:** next company print **Sep 16/17** (see calendar).
+- **COST / retail:** quiet into **Sep 24**.
 
 ## What needs attention today
 
-- **Hot NFP + Freddie uptick** — LEN stays event-bound into earnings; average-down gate still fails.
-- **TSLA Cybercab → NHTSA audit** — Watch regulatory path, not the Thu gap.
-- **SPCX** Thu bounce ≠ Sep 9 unlock clearance.
-- **ODFL vs LTL peers** — relative lag; confirm whether idio or catch-up noise.
-- Quiet: UNH prior-auth cut is process news; COST Next closure is member-perk noise into Sep 24; PG ballast.
+- **Holiday — no cash tape** — decision window is prep for **Tue reopen**, not intraday action.
+- **SPCX Sep 9 unlock** — first material book event after reopen; Hold policy on size through eligibility.
+- **TSLA NHTSA audit** — regulatory path still open; do not re-chase Fri’s Cybercab giveback.
+- **LEN rates path** — hot NFP + firmer holiday mortgage surveys keep earnings Watch; gate still fails.
+- Quiet: UNH/COST/PG/HSY — no new thesis-moving holiday headlines; ODFL peer lag for Tue confirmation only.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
-| UNH | Hold | Hold | Hold | Prior-auth trim; size soft-max |
+| UNH | Hold | Hold | Hold | Soft-max size; holiday quiet |
 | COST | Hold | Hold | Hold | Underwater; Mid/High gate |
-| ODFL | Watch | Hold | Watch | Lags LTL peers today |
-| TSLA | Watch | Watch | Watch | Cybercab + NHTSA audit |
-| LEN | Watch | Watch | Watch | Freddie up; hot NFP |
+| ODFL | Watch | Hold | Watch | Fri LTL peer lag |
+| TSLA | Watch | Watch | Watch | NHTSA audit overhang |
+| LEN | Watch | Watch | Watch | Rates firm; earnings ahead |
 | PG | Hold | Hold | Hold | Defensive ballast |
-| HSY | Watch | Watch | Watch | Cocoa easing ≠ all-clear |
-| SPCX | Watch | Watch | Watch | Unlock Sep 9 still ahead |
+| HSY | Watch | Watch | Watch | Cocoa eased ≠ all-clear |
+| SPCX | Watch | Watch | Watch | Unlock Sep 9 ahead |
 
 ## Position notes (fundamental lens)
 
-### TSLA — Cybercab launch meets NHTSA audit
-Thu public Cybercab rides in Austin lifted the stock; Fri **NHTSA** opened an audit of self-certification for a vehicle with no manual controls. Narrative catalyst now carries a regulatory overhang. Valuation Mid/High keeps the gate closed.
+### SPCX — unlock still the catalyst
+Fri mild giveback after Thu bounce does not clear ~Sep 9–10 float eligibility. Theme-relative only (n/a P/S); treat as event Watch into reopen.
 
-### LEN — mortgage print + hot payrolls
-Freddie stepped up to a fresh 2026 high-ish print while Aug payrolls beat hard — higher-for-longer risk into **Sep 16/17** results. Gate **fails** (P/E filter).
+### TSLA — audit, not launch narrative
+NHTSA AQ26002 is process/data-request on FMVSS self-cert for no-controls Cybercab (~1k pop.). Commercial Austin rides continue for now, but regulatory path is the kill-edge watch. Gate closed (Mid/High).
 
-### ODFL — peer lag, not a new company print
-LTL peers bid while ODFL is roughly flat — flag relative, not thesis break, pending tonnage/yield confirmation.
+### LEN — rates sleeve still event-bound
+Holiday cash dark; mortgage surveys firmer vs last Freddie print keeps higher-for-longer risk into **Sep 16/17**. Gate **fails** (P/E filter).
 
-### HSY — cocoa easing helps, does not clear
-Input KPI has cooled from early-week spike levels but remains elevated; Low/Low valuation still blocked for average-down.
+### ODFL — peer lag unresolved
+Fri XLI bounce left ODFL flat while LTL peers ripped — relative, not a new company print.
 
-**No material update:** UNH (prior-auth reduction supportive process, not kill-edge), COST (Next marketplace noise), PG, SPCX (theme-relative into unlock).
+**No material update:** UNH, COST, PG, HSY (cocoa still elevated vs summer base).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** Hot NFP + Freddie uptick keep the rates sleeve event-bound through **Labor Day reopen** and **LEN Sep 16/17**; **Hold policy** on core size into **SPCX Sep 9** unlock. Why: rotation briefly favored risk-on Thu but industrials 5-day and mortgage path still fight ODFL/LEN; Cybercab’s regulatory follow-through and unlock overhang keep TSLA/SPCX gated; underwater average-down gates still fail (see valuation / KPI). Falsifier: orderly 10y ease with builders stabilizing *and* NHTSA path clarifying without delivery/margin damage — otherwise stance stays Watch. Sleeve tilt: none.
+**[Hold policy]** through Labor Day; **[Watch]** into **Tue reopen → SPCX Sep 9 unlock → LEN Sep 16/17**. Why: no US cash tape to trade; Fri rotation faded discretionary/staples while ODFL lagged peers and rates sleeve stays gated; underwater average-down still fails (see valuation / KPI). Falsifier: orderly post-holiday ease in yields with builders stabilizing *and* unlock absorbed without theme break — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** TSLA through NHTSA Cybercab audit digest; do not re-chase Thu’s gap. Evidence: AP launch + TechCrunch audit (TSLA note). Confidence: **High**. Falsifier: audit closes quickly with commercial rides uninterrupted and no further multiple-only tape.
+1. **[Watch]** SPCX through ~Sep 9–10 unlock; no size change on holiday positioning. Evidence: unlock calendar (KPI). Confidence: **High**. Falsifier: unlock absorbed with ARKX/UFO co-strength and no fresh float overhang.
 
-2. **[Watch]** LEN through Labor Day into Sep 16/17 print; no average-down while gate fails. Evidence: Freddie + hot NFP path (KPI / LEN note). Confidence: **High**. Falsifier: mortgage path lowers with order/ASP stabilization at the print.
+2. **[Watch]** TSLA NHTSA Cybercab audit into Tue reopen; do not re-chase Fri’s gap. Evidence: CNBC/Electrek audit (TSLA note). Confidence: **High**. Falsifier: audit closes as data-only with rides uninterrupted and no multiple re-rating solely on narrative.
 
-3. **[Watch]** SPCX into ~Sep 9 unlock; treat Thu bounce as positioning, not clearance. Evidence: unlock calendar (KPI). Confidence: **High**. Falsifier: unlock absorbed with ARKX/UFO co-strength and no fresh float overhang.
+3. **[Hold policy]** LEN size into Sep 16/17; no average-down while gate fails. Evidence: rates/KPI + valuation P/E filter. Confidence: **High**. Falsifier: mortgage path eases with order/ASP stabilization at the print.
 
 ## Explicit non-actions
 
-- Do not treat ODFL’s peer lag alone as a thesis break without tonnage/yield confirmation.
-- Do not treat HSY’s cocoa ease as a full input all-clear for average-down.
+- Do not invent holiday “adds” — cash market closed.
+- Do not treat ODFL’s Fri peer lag alone as thesis break without tonnage/yield confirmation Tue.
 
 ## Delta vs yesterday
 
-- **Aug NFP printed +162k** (was TBD Watch) — hot vs cons.; rates sleeve Watch reinforced.
-- **Freddie printed 6.71%** (from 6.66%) — LEN kill-edge live into earnings.
-- **TSLA Cybercab launched** then **NHTSA audit** flipped Thu’s +5% gap into Fri giveback; COST flipped back underwater vs cost.
+- **Labor Day closed** (was Fri cash open / hot NFP digest) — no premarket; suggestions minimal.
+- **Asia split Mon:** Nikkei strong / HSI soft on hike-bet/peg narrative (vs Fri SoftBank rebound co-bid).
+- **Money-flow table** now Fri Sep 4 (was Thu Sep 3); XLK/XLI led Fri while XLY/XLV/XLP lagged — TSLA/ODFL peer gaps still live into reopen.
 
 ## Open questions for next run
 
-1. After Labor Day reopen, does the 10y/Freddie path re-price the hot NFP into FOMC week?
-2. Does NHTSA’s Cybercab audit stay data-request only, or does it constrain commercial expansion?
+1. Tue reopen: does the 10y/Freddie path re-price hot NFP, or fade into FOMC week?
+2. Does NHTSA AQ26002 stay data-request only after reopen, or constrain Cybercab expansion?
 3. Confirm **SPCX instrument** label (listed SpaceX vs AXS ETF in `holdings.md`) before/at the Sep 9 unlock.
 
 ## Sources
 
-- [TradingEconomics — US Nonfarm Payrolls Aug +162k](https://tradingeconomics.com/united-states/non-farm-payrolls)
-- [TradingEconomics — US Unemployment Rate 4.1%](https://tradingeconomics.com/united-states/unemployment-rate)
-- [Freddie Mac PMMS — 6.71% as of Sep 3](https://www.freddiemac.com/pmms)
-- [GlobeNewswire — Mortgage Rates Average 6.71%](https://www.globenewswire.com/news-release/2026/09/03/3356148/0/en/mortgage-rates-average-6-71.html)
-- [AP — Tesla Cybercab launch Austin](https://apnews.com/article/tesla-cybercab-austin-elon-musk-driverless-8791add840f4debbc41bcaa9d1e64561)
-- [TechCrunch — NHTSA Cybercab investigation](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)
-- [Zawya — Nikkei Sep 4](https://www.zawya.com/en/capital-markets/japans-nikkei-rises-on-softbank-rally-but-posts-weekly-loss-478096)
-- [Xinhua/NAMPA — HSI Sep 4](https://www.nampa.org/text/23007295)
-- [FinanceFeeds — SPCX Sep 9 unlock](https://financefeeds.com/spacex-spcx-share-unlock-september-9/)
-- [TipRanks — SPCX unlock](https://www.tipranks.com/news/spacex-stock-spcx-falls-below-ipo-price-why-todays-unlock-hit-hard)
-- [Lennar — Q3’26 earnings call Sep 17](https://www.stocktitan.net/news/LEN/lennar-corporation-to-broadcast-its-third-quarter-2026-earnings-call-meyqoyz3tf1u.html)
-- [Home Health Care News — UNH prior auth cuts](https://homehealthcarenews.com/2026/09/unitedhealth-group-to-cut-prior-authorizations-for-1700-services-including-home-health/)
-- [Census — New Residential Sales](https://www.census.gov/construction/nrs/current/index.html)
+- [Benzinga — Labor Day 2026 market closed](https://www.benzinga.com/markets/equities/26/09/61646501/is-stock-market-open-today-labor-day-2026-september-7)
 - [Nasdaq — US holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)
-- [Yahoo Finance — quotes / futures / peers / sectors / 10y / VIX / oil / cocoa](https://finance.yahoo.com/)
+- [MarketWatch — Nikkei rally / HSI soft Sep 7](https://www.marketwatch.com/data-news/japanese-stocks-rally-as-hang-seng-falls-c8e6f7f3-6c80304da021)
+- [StockTi — Hang Seng slips on US hike bets](https://stockti.com/hang-seng-slips-1-as-us-rate-hike-bets-weigh-on-hong-kong)
+- [CNBC — NHTSA Cybercab audit ~1,000 vehicles](https://www.cnbc.com/2026/09/04/us-auto-safety-regulator-opens-probe-into-nearly-1000-tesla-cybercabs.html)
+- [Electrek — NHTSA AQ26002 Cybercab certification](https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/)
+- [FinanceFeeds — SPCX Sep 9 unlock](https://financefeeds.com/spacex-spcx-share-unlock-september-9/)
+- [TechTimes — SPCX Sep 9 lockup tranche](https://www.techtimes.com/articles/326114/20260901/spacex-stock-lockup-hits-tuesday-november-earnings-tranche-dwarfs-september-9-four-times.htm)
+- [Forbes Advisor — mortgage rates Sep 7](https://www.forbes.com/advisor/mortgages/mortgage-rates-09-07-26/)
+- [Freddie Mac PMMS](https://www.freddiemac.com/pmms)
+- [Yahoo Finance — quotes / sectors / peers / 10y / VIX / oil / cocoa / Asia](https://finance.yahoo.com/)

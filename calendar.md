@@ -57,9 +57,10 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-09-04 | Macro | August Employment Situation | **Printed** — NFP **+162k** (cons. ~**56k**); U-3 **4.1%**; AHE **+0.3% / +3.1% YoY**; Jun–Jul revised **+55k** ([TradingEconomics NFP](https://tradingeconomics.com/united-states/non-farm-payrolls); [TradingEconomics U-3](https://tradingeconomics.com/united-states/unemployment-rate)) |
 | 2026-09-04 | TSLA | NHTSA Cybercab audit | **Printed** — audit of FMVSS self-certification for no-controls Cybercab ([TechCrunch](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)) |
 | 2026-09-04 | Macro | US cash / Asia spillover | Post-NFP open (~10:40 ET): Nikkei **65,021 (+1.26%)**; HSI **25,651 (+1.74%)**; TSLA giveback; ODFL lags LTL peers ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/)) |
-| 2026-09-07 | Macro | Labor Day — US cash **closed** | NYSE/Nasdaq closed; reopen Tue Sep 8 ([Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)) |
+| 2026-09-07 | Macro | Labor Day — US cash **closed** | **Confirmed** — NYSE/Nasdaq/bonds dark; reopen Tue Sep 8 ([Benzinga](https://www.benzinga.com/markets/equities/26/09/61646501/is-stock-market-open-today-labor-day-2026-september-7); [Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)) |
+| 2026-09-07 | Macro | Asia/HK (Labor Day US) | Nikkei **66,400 (+2.12%)**; HSI **25,413 (−0.93%)** — Japan/tech bid vs HK hike-bet/peg pressure ([MarketWatch](https://www.marketwatch.com/data-news/japanese-stocks-rally-as-hang-seng-falls-c8e6f7f3-6c80304da021); [StockTi](https://stockti.com/hang-seng-slips-1-as-us-rate-hike-bets-weigh-on-hong-kong)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
-| 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 ([TipRanks](https://www.tipranks.com/news/spacex-spcx-completed-its-first-lock-up-heres-what-investors-should-watch-next); [FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/)) |
+| 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 — still ahead into Tue reopen ([FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/); [TechTimes](https://www.techtimes.com/articles/326114/20260901/spacex-stock-lockup-hits-tuesday-november-earnings-tranche-dwarfs-september-9-four-times.htm)) |
 | 2026-09-14 | UNH | Ex-dividend | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
 | 2026-09-15–16 | Macro | FOMC | Hot Aug payrolls keep hike-odds debate live vs inflation path |
 | 2026-09-16 | LEN | Q3’26 earnings (AMC) | Confirmed release after close ([PR Newswire/Lennar](https://www.stocktitan.net/news/LEN/lennar-corporation-to-broadcast-its-third-quarter-2026-earnings-call-meyqoyz3tf1u.html)) |
@@ -77,6 +78,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: Week of **Sep 1–4** — ISM Aug **54.6**; Freddie **6.71%**; Aug NFP **+162k** / U-3 **4.1%**; **Labor Day Sep 7 closed**. Cocoa ~**$6.2k** (eased; HSY still Watch). Jul new home sales **607k** (LEN); **SPCX** Sep 9 unlock Watch; TSLA Cybercab **Sep 3** + NHTSA audit **Sep 4**; LEN earnings **Sep 16/17**; next FOMC **Sep 15–16**
-- Asia/HK overnight (Sep 4): Nikkei **65,020.94 (+1.26%)** / HSI **25,650.87 (+1.74%)** — SoftBank/AI rebound; limited direct book overlap
+- US: **Labor Day Sep 7 closed**; reopen Tue Sep 8. Carry: Freddie **6.71%** (Sep 3); Aug NFP **+162k** / U-3 **4.1%**; cocoa Fri ~**$6.1k** (eased; HSY still Watch). **SPCX** Sep 9–10 unlock Watch; TSLA NHTSA AQ26002 live; LEN earnings **Sep 16/17**; FOMC **Sep 15–16**; COST **Sep 24**
+- Asia/HK overnight (Sep 7): Nikkei **66,399.84 (+2.12%)** / HSI **25,413.12 (−0.93%)** — Japan/tech bid vs HK rate-hike/peg soft; limited direct book overlap
 
