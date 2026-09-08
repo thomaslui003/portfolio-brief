@@ -59,10 +59,14 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-09-04 | Macro | US cash / Asia spillover | Post-NFP open (~10:40 ET): Nikkei **65,021 (+1.26%)**; HSI **25,651 (+1.74%)**; TSLA giveback; ODFL lags LTL peers ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/)) |
 | 2026-09-07 | Macro | Labor Day — US cash **closed** | **Confirmed** — NYSE/Nasdaq/bonds dark; reopen Tue Sep 8 ([Benzinga](https://www.benzinga.com/markets/equities/26/09/61646501/is-stock-market-open-today-labor-day-2026-september-7); [Nasdaq holiday schedule](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)) |
 | 2026-09-07 | Macro | Asia/HK (Labor Day US) | Nikkei **66,400 (+2.12%)**; HSI **25,413 (−0.93%)** — Japan/tech bid vs HK hike-bet/peg pressure ([MarketWatch](https://www.marketwatch.com/data-news/japanese-stocks-rally-as-hang-seng-falls-c8e6f7f3-6c80304da021); [StockTi](https://stockti.com/hang-seng-slips-1-as-us-rate-hike-bets-weigh-on-hong-kong)) |
+| 2026-09-08 | Macro | US cash reopen (post–Labor Day) | Soft open: S&P/Nasdaq ~−0.5%; Dow heavier; oil bid on Gulf/Houthi–Saudi energy strikes; 10y ~**4.79%** ([Reuters](https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-08/); [Yahoo](https://finance.yahoo.com/)) |
+| 2026-09-08 | Macro | Asia/HK spillover | Nikkei **65,269 (−1.70%)**; HSI **25,317 (−0.38%)** — yen strength + oil ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/); [KSAT/AP](https://www.ksat.com/business/2026/09/08/asian-shares-and-us-futures-decline-while-oil-prices-press-higher/)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
-| 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 — still ahead into Tue reopen ([FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/); [TechTimes](https://www.techtimes.com/articles/326114/20260901/spacex-stock-lockup-hits-tuesday-november-earnings-tranche-dwarfs-september-9-four-times.htm)) |
+| 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 — **tomorrow** ([FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/); [TechTimes](https://www.techtimes.com/articles/326114/20260901/spacex-stock-lockup-hits-tuesday-november-earnings-tranche-dwarfs-september-9-four-times.htm)) |
+| 2026-09-10 | Macro | PPI (August) | 8:30 ET ([BLS Sep schedule](https://data.bls.gov/schedule/2026/09_sched_list.htm)) |
+| 2026-09-11 | Macro | CPI + Real Earnings (August) | 8:30 ET — final CPI into FOMC week ([BLS Sep schedule](https://data.bls.gov/schedule/2026/09_sched_list.htm)) |
 | 2026-09-14 | UNH | Ex-dividend | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
-| 2026-09-15–16 | Macro | FOMC | Hot Aug payrolls keep hike-odds debate live vs inflation path |
+| 2026-09-15–16 | Macro | FOMC | Hot Aug payrolls + oil spike keep hike-odds debate live vs inflation path |
 | 2026-09-16 | LEN | Q3’26 earnings (AMC) | Confirmed release after close ([PR Newswire/Lennar](https://www.stocktitan.net/news/LEN/lennar-corporation-to-broadcast-its-third-quarter-2026-earnings-call-meyqoyz3tf1u.html)) |
 | 2026-09-17 | LEN | Q3’26 earnings call | 11:00 a.m. ET webcast ([investors.lennar.com](https://investors.lennar.com)) |
 | 2026-09-24 | COST | Q4 FY26 earnings call | Confirmed 2:00 PM PT ([Costco IR](https://investor.costco.com/events-and-presentations/events/event-details/2026/Q4-2026-Earnings-Call/default.aspx)) |
@@ -78,6 +82,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: **Labor Day Sep 7 closed**; reopen Tue Sep 8. Carry: Freddie **6.71%** (Sep 3); Aug NFP **+162k** / U-3 **4.1%**; cocoa Fri ~**$6.1k** (eased; HSY still Watch). **SPCX** Sep 9–10 unlock Watch; TSLA NHTSA AQ26002 live; LEN earnings **Sep 16/17**; FOMC **Sep 15–16**; COST **Sep 24**
-- Asia/HK overnight (Sep 7): Nikkei **66,399.84 (+2.12%)** / HSI **25,413.12 (−0.93%)** — Japan/tech bid vs HK rate-hike/peg soft; limited direct book overlap
+- US: cash **reopened Sep 8** (soft/oil bid). Freddie **6.71%** (Sep 3); Aug NFP **+162k** / U-3 **4.1%**; cocoa ~**$5.9k** (further ease; HSY still Watch). **SPCX** Sep 9–10 unlock Watch; **PPI Sep 10** / **CPI Sep 11**; TSLA NHTSA AQ26002 live; LEN earnings **Sep 16/17**; FOMC **Sep 15–16**; COST **Sep 24**
+- Asia/HK overnight (Sep 8): Nikkei **65,269 (−1.70%)** / HSI **25,317 (−0.38%)** — yen + oil; limited direct book overlap
 
