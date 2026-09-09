@@ -1,18 +1,18 @@
 # Holdings
 
 Qty and cost from last broker snapshot; Price / MV / Weight / P&L refreshed from Yahoo each run.
-**Marks as-of:** 2026-09-08 · **Qty/cost as-of:** 2026-08-02 · Currency: USD · Total MV ≈ **$29,802**
+**Marks as-of:** 2026-09-09 · **Qty/cost as-of:** 2026-08-02 · Currency: USD · Total MV ≈ **$29,588**
 
 | Ticker | Name | Qty | Price | Cost/sh | MV ($) | Weight | P&L vs cost | Tags | Thesis (1 line) | Kill / review if |
 |--------|------|-----|-------|---------|--------|--------|-------------|------|-----------------|------------------|
-| UNH | UnitedHealth | 15 | 393.03 | 309.944 | 5,895.45 | 19.8% | +26.8% | healthcare, managed-care, US, large-cap | Quality compounder in US healthcare; watch policy & utilization | Structural margin break, adverse CMS/regulatory shock, thesis-breaking litigation |
-| COST | Costco | 6 | 912.74 | 934.657 | 5,476.44 | 18.4% | −2.3% | consumer-staples, retail, membership, US, large-cap | Membership moat + traffic; long-duration compounder | Membership/traffic deterioration, sustained gross-margin collapse |
-| ODFL | Old Dominion Freight Line | 25 | 187.62 | 157.267 | 4,690.50 | 15.7% | +19.3% | industrials, trucking, LTL, cyclical, US | Best-in-class LTL; cycle + share gains | Sustained tonnage/price weakness, share loss to peers |
-| TSLA | Tesla | 11.179 | 364.22 | 361.10 | 4,071.62 | 13.7% | +0.9% | auto, EV, tech-adjacent, high-beta, US | Optional growth/AI narrative; size as satellite, not core | Repeated delivery misses + margin collapse without offsetting energy/AI story |
-| LEN | Lennar | 42 | 81.68 | 113.824 | 3,430.56 | 11.5% | −28.2% | homebuilder, rates-sensitive, US, cyclical | Housing cycle / rates bet; underwater — needs thesis refresh | Higher-for-longer rates + order cancelations, land impairments |
-| PG | Procter & Gamble | 22 | 144.96 | 141.55 | 3,189.07 | 10.7% | +2.4% | consumer-staples, defensive, FX-sensitive, US, large-cap | Defensive cash-flow ballast | Volume decline + pricing fatigue, major brand share loss |
-| HSY | Hershey | 9 | 174.24 | 181.77 | 1,568.12 | 5.3% | −4.1% | consumer-staples, cocoa-input, US | Brand snack name; cocoa/input-cost sensitive | Cocoa spike without pricing power, category weakness |
-| SPCX | AXS Space Priority ETF | 10 | 148.05 | 150.00 | 1,480.49 | 5.0% | −1.3% | thematic, space, ETF, high-risk | Thematic SpaceX/space exposure via ETF (not direct SpaceX equity) | Thesis failure on space theme, structural underperformance vs peers |
+| UNH | UnitedHealth | 15 | 387.65 | 309.944 | 5,814.75 | 19.7% | +25.1% | healthcare, managed-care, US, large-cap | Quality compounder in US healthcare; watch policy & utilization | Structural margin break, adverse CMS/regulatory shock, thesis-breaking litigation |
+| COST | Costco | 6 | 903.54 | 934.657 | 5,421.24 | 18.3% | −3.3% | consumer-staples, retail, membership, US, large-cap | Membership moat + traffic; long-duration compounder | Membership/traffic deterioration, sustained gross-margin collapse |
+| ODFL | Old Dominion Freight Line | 25 | 184.20 | 157.267 | 4,605.00 | 15.6% | +17.1% | industrials, trucking, LTL, cyclical, US | Best-in-class LTL; cycle + share gains | Sustained tonnage/price weakness, share loss to peers |
+| TSLA | Tesla | 11.179 | 371.82 | 361.10 | 4,156.57 | 14.0% | +3.0% | auto, EV, tech-adjacent, high-beta, US | Optional growth/AI narrative; size as satellite, not core | Repeated delivery misses + margin collapse without offsetting energy/AI story |
+| LEN | Lennar | 42 | 81.05 | 113.824 | 3,404.10 | 11.5% | −28.8% | homebuilder, rates-sensitive, US, cyclical | Housing cycle / rates bet; underwater — needs thesis refresh | Higher-for-longer rates + order cancelations, land impairments |
+| PG | Procter & Gamble | 22 | 143.18 | 141.55 | 3,149.96 | 10.6% | +1.2% | consumer-staples, defensive, FX-sensitive, US, large-cap | Defensive cash-flow ballast | Volume decline + pricing fatigue, major brand share loss |
+| HSY | Hershey | 9 | 170.88 | 181.77 | 1,537.96 | 5.2% | −6.0% | consumer-staples, cocoa-input, US | Brand snack name; cocoa/input-cost sensitive | Cocoa spike without pricing power, category weakness |
+| SPCX | AXS Space Priority ETF | 10 | 149.87 | 150.00 | 1,498.70 | 5.1% | −0.1% | thematic, space, ETF, high-risk | Thematic SpaceX/space exposure via ETF (not direct SpaceX equity) | Thesis failure on space theme, structural underperformance vs peers |
 
 ## Portfolio notes
 

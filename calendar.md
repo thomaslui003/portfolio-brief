@@ -62,8 +62,11 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-09-08 | Macro | US cash reopen (post–Labor Day) | Soft open: S&P/Nasdaq ~−0.5%; Dow heavier; oil bid on Gulf/Houthi–Saudi energy strikes; 10y ~**4.79%** ([Reuters](https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-08/); [Yahoo](https://finance.yahoo.com/)) |
 | 2026-09-08 | Macro | Asia/HK spillover | Nikkei **65,269 (−1.70%)**; HSI **25,317 (−0.38%)** — yen strength + oil ([Yahoo ^N225](https://finance.yahoo.com/quote/%5EN225/); [Yahoo ^HSI](https://finance.yahoo.com/quote/%5EHSI/); [KSAT/AP](https://www.ksat.com/business/2026/09/08/asian-shares-and-us-futures-decline-while-oil-prices-press-higher/)) |
 | TBD | SPCX | Confirm holdings label | Owner: listed SpaceX vs AXS ETF wording in `holdings.md` / `notes.md` |
-| 2026-09-09–10 | SPCX | Lock-up tranches (est.) | ~**319M** Sep 9 + ~**59M** Sep 10 — **tomorrow** ([FinanceFeeds](https://financefeeds.com/spacex-spcx-share-unlock-september-9/); [TechTimes](https://www.techtimes.com/articles/326114/20260901/spacex-stock-lockup-hits-tuesday-november-earnings-tranche-dwarfs-september-9-four-times.htm)) |
+| 2026-09-09 | SPCX | Lock-up tranche #3 (day 90) | **Printing** — up to ~**319M** Class A eligible; session soft (~**−2.4%** mid-session) vs theme peers ([FinanceFeeds](https://financefeeds.com/spacex-spcx-lockup-september-9-319-million-shares/); [Motley Fool](https://www.fool.com/investing/2026/09/09/spacex-shareholders-up-to-47-billion-insider-selling-pressure-hit-tape-today-sept-9/)) |
+| 2026-09-09 | Macro | US cash / Asia spillover / oil | Soft open: Brent briefly **>$100**, WTI ~**$96**; Nikkei **65,143 (−0.19%)**; HSI **25,275 (−0.17%)**; UNH idio soft on Optum Florida/TPG ([WSJ](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026); [MarketWatch](https://www.marketwatch.com/data-news/hong-kong-stocks-decline-for-third-session-as-nikkei-225-declines-c61a1582-d386870b6b1b); [Bloomberg Law](https://news.bloomberglaw.com/private-equity/unitedhealth-sells-interest-in-florida-wellmed-clinics-to-tpg)) |
+| 2026-09-10 | SPCX | Lock-up (Rule 144 affiliates) | Up to ~**59.1M** affiliate shares eligible ([FinanceFeeds](https://financefeeds.com/spacex-spcx-lockup-september-9-319-million-shares/)) |
 | 2026-09-10 | Macro | PPI (August) | 8:30 ET ([BLS Sep schedule](https://data.bls.gov/schedule/2026/09_sched_list.htm)) |
+| 2026-09-10 | Macro | Freddie Mac PMMS (weekly) | Noon ET — last print **6.71%** Sep 3 ([Freddie Mac](https://www.freddiemac.com/pmms)) |
 | 2026-09-11 | Macro | CPI + Real Earnings (August) | 8:30 ET — final CPI into FOMC week ([BLS Sep schedule](https://data.bls.gov/schedule/2026/09_sched_list.htm)) |
 | 2026-09-14 | UNH | Ex-dividend | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
 | 2026-09-15–16 | Macro | FOMC | Hot Aug payrolls + oil spike keep hike-odds debate live vs inflation path |
@@ -82,6 +85,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: cash **reopened Sep 8** (soft/oil bid). Freddie **6.71%** (Sep 3); Aug NFP **+162k** / U-3 **4.1%**; cocoa ~**$5.9k** (further ease; HSY still Watch). **SPCX** Sep 9–10 unlock Watch; **PPI Sep 10** / **CPI Sep 11**; TSLA NHTSA AQ26002 live; LEN earnings **Sep 16/17**; FOMC **Sep 15–16**; COST **Sep 24**
-- Asia/HK overnight (Sep 8): Nikkei **65,269 (−1.70%)** / HSI **25,317 (−0.38%)** — yen + oil; limited direct book overlap
+- US: cash open Sep 9 — Brent briefly **>$100** / WTI ~**$96**; Freddie last **6.71%** (Sep 3; next **Sep 10 noon**); Aug NFP **+162k** / U-3 **4.1%**; cocoa ~**$5.9k** (HSY still Watch). **SPCX** day-90 unlock **printing Sep 9** + affiliates **Sep 10**; **PPI Sep 10** / **CPI Sep 11**; TSLA NHTSA AQ26002 live; LEN earnings **Sep 16/17**; FOMC **Sep 15–16**; COST **Sep 24**
+- Asia/HK overnight (Sep 9): Nikkei **65,143 (−0.19%)** / HSI **25,275 (−0.17%)** — yen + oil; limited direct book overlap
 
