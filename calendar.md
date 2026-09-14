@@ -70,8 +70,9 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-09-10 | Macro | US cash / Asia spillover | Soft open post-PPI: 10y ~**4.92%**; WTI ~**$99** / Brent ~**$105**; Nikkei **65,271 (+0.20%)**; HSI **24,954 (−1.27%)**; LEN hard red with builders ([Yahoo](https://finance.yahoo.com/); [Yonhap Infomax](https://en.infomaxai.com/news/articleView.html?idxno=138720)) |
 | 2026-09-11 | Macro | CPI + Real Earnings (August) | **Printed 8:30 ET** — headline **+0.4% MoM / +3.4% YoY**; core **+0.3% MoM** (hot vs ~**0.2%**) / **+2.4% YoY**; gasoline **+3.9%**; FedWatch hike odds ~**90%** into FOMC ([CNBC](https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html); [BLS Sep schedule](https://data.bls.gov/schedule/2026/09_sched_list.htm)) |
 | 2026-09-11 | Macro | US cash / Asia spillover | Bounce open post-CPI on oil pullback: WTI ~**$99.8** / Brent ~**$105**; Nikkei **64,011 (−1.93%)**; HSI **24,806 (−0.60%)**; UNH idio soft vs peers ([Yahoo](https://finance.yahoo.com/); [Yonhap Infomax](https://en.infomaxai.com/news/articleView.html?idxno=138861); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1869684-20260911.htm)) |
-| 2026-09-14 | UNH | Ex-dividend | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
-| 2026-09-15–16 | Macro | FOMC | Hot Aug payrolls + oil spike keep hike-odds debate live vs inflation path |
+| 2026-09-14 | UNH | Ex-dividend | **Today** ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
+| 2026-09-14 | Macro | US cash open / Asia spillover / oil | Soft open into FOMC: NQ soft on AI-safety headlines; WTI ~**$104** / Brent ~**$109** on Saudi East-West pipeline shutdown; 10y ~**5.00%**; Nikkei **63,493 (−0.81%)**; HSI **24,918 (+0.45%)** ([Reuters](https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14/); [Reuters oil](https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/); [MarketWatch](https://www.marketwatch.com/data-news/japanese-stocks-decline-for-second-session-as-hong-kong-stocks-gain-c2347cc8-9322aa2a4615)) |
+| 2026-09-15–16 | Macro | FOMC | Decision **Wed 2pm ET** + SEP/dots; markets ~**86–90%** odds of **+25 bp** (first under Warsh) after hot-core CPI + oil ([Reuters](https://www.reuters.com/business/feds-table-is-set-rate-hike-first-under-warsh-2026-09-14/); [Fed calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)) |
 | 2026-09-16 | LEN | Q3’26 earnings (AMC) | Confirmed release after close ([PR Newswire/Lennar](https://www.stocktitan.net/news/LEN/lennar-corporation-to-broadcast-its-third-quarter-2026-earnings-call-meyqoyz3tf1u.html)) |
 | 2026-09-17 | LEN | Q3’26 earnings call | 11:00 a.m. ET webcast ([investors.lennar.com](https://investors.lennar.com)) |
 | 2026-09-24 | COST | Q4 FY26 earnings call | Confirmed 2:00 PM PT ([Costco IR](https://investor.costco.com/events-and-presentations/events/event-details/2026/Q4-2026-Earnings-Call/default.aspx)) |
@@ -87,6 +88,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: cash open Sep 11 — **CPI printed** (+0.4% / +3.4% YoY; core **+0.3%** hot / +2.4% YoY); WTI ~**$99.8** / Brent ~**$105**; 10y ~**4.93%**; Freddie **6.76%** (Sep 10); cocoa ~**$6.0k** (HSY still Watch). **SPCX** Sep 9–10 unlock window done; next unlock **Sep 24**; TSLA NHTSA AQ26002 live; LEN earnings **Sep 16/17**; FOMC **Sep 15–16**; COST **Sep 24**
-- Asia/HK overnight (Sep 11): Nikkei **64,011 (−1.93%)** / HSI **24,806 (−0.60%)** — oil/rate-hike spillover; limited direct book overlap
+- US: cash open Sep 14 — soft into **FOMC Sep 15–16** (hike odds ~**86–90%**); WTI ~**$104** / Brent ~**$109** (Saudi pipeline); 10y ~**5.00%**; Freddie still **6.76%** (Sep 10; next **Sep 17**); cocoa ~**$6.1k** (HSY Watch). **SPCX** next unlock **Sep 24**; TSLA NHTSA AQ26002 live; LEN **Sep 16/17**; COST **Sep 24**
+- Asia/HK overnight (Sep 14): Nikkei **63,493 (−0.81%)** / HSI **24,918 (+0.45%)** — AI-safety/chip washout vs HK rebound; limited direct book overlap
 
