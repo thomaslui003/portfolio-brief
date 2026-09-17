@@ -1,60 +1,59 @@
-# Portfolio brief — 2026-09-16
+# Portfolio brief — 2026-09-17
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** US cash **open** (~10:45 ET). Marks as-of **2026-09-16** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Tue Sep 15 complete close** (Yahoo chart). Money-flow table = last **full session Tue Sep 15**. **FOMC decision 2pm ET** still ahead; LEN **Q3 AMC tonight / call Sep 17**.
+**Session:** US cash **open** (~10:40 ET). Marks as-of **2026-09-17** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Wed Sep 16 complete close** (Yahoo chart). Money-flow table = last **full session Wed Sep 16** (post-FOMC). **LEN call 11:00 ET** still ahead; Freddie PMMS **noon ET** pending (last print Sep 10).
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Mild green into Fed day:** S&P ~**+0.3%**, Nasdaq ~**+0.6%**, Dow soft; 10y (^TNX) eases to ~**4.97%** after Tue’s ~**5%** print; VIX ~**16.9** ([CNBC live](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html); [Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/)).
-- **Hike still crowded:** FedWatch ~**93%** odds of **+25 bp** to **3.75–4.00%** at **2pm**; Warsh presser / SEP are the second-order risk ([Reuters](https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16/); [CNBC](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html)).
-- **Oil still elevated but off Tue highs:** WTI/Brent pull back on API inventory build; East-West / Yanbu disruption unresolved ([CNBC](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html); [Reuters Tue settle](https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/)).
-- **Consumer print:** Aug retail sales **+1.2%** MoM (vs ~**+0.8%** cons.) ([CNBC](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html)).
-- **Asia/HK Wed:** Nikkei **63,923 (+0.69%)**; HSI **24,713 (+0.19%)** into Fed ([CNBC Asia](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html)).
+- **Post-Fed bounce after Wed slip:** Fed hiked **+25 bp** to **3.75–4.00%** (12–0); median year-end funds rate **4.1%** (another hike in dots); Wed cash S&P **−0.45%** / Dow **−1.2%** / Nasdaq flat ([Fed statement](https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf); [CNBC](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html); [AP/Newser](https://www.newser.com/article/e2e82957e490b7be205db6013f621c3d/us-stocks-slip-after-the-fed-hikes-interest-rates-and-hints-more-increases-may-be-on-the-way.html)).
+- **Rates/vol digest:** 10y (^TNX) ~**4.95%**; VIX off Wed spike (~**15.6** live) ([Yahoo ^TNX](https://finance.yahoo.com/quote/%5ETNX/); [Yahoo ^VIX](https://finance.yahoo.com/quote/%5EVIX/)).
+- **Oil still elevated but softer:** WTI ~**$100.5** / Brent ~**$103** ([Yahoo CL=F](https://finance.yahoo.com/quote/CL%3DF/); [Yahoo BZ=F](https://finance.yahoo.com/quote/BZ%3DF/)).
+- **Asia/HK Thu:** Nikkei **64,136 (+0.33%)**; HSI **24,604 (−0.44%)** — Fed relief uneven ([MarketWatch](https://www.marketwatch.com/data-news/japanese-stocks-climb-for-second-day-as-hong-kong-stocks-drop-6358f82f-ecdfc280f7c8); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1870446-20260917.htm)).
 
 ## US premarket
 
-Cash already open — table uses Yahoo **session % vs Tue Sep 15**. Book-relevant: **SPCX** sharp green vs theme; **ODFL** red with LTL; **LEN** mild green into AMC binary; staples/healthcare quiet.
+Cash already open — table uses Yahoo **session % vs Wed Sep 16**. Book-relevant: **TSLA/SPCX** lead risk-on bounce; **LEN** mild green into 11am call after soft AMC print; staples/ODFL mixed.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | +1.15 |
-| NQ | Nasdaq 100 futures | +1.69 |
-| YM | Dow futures | +0.60 |
-| RTY | Russell 2000 futures | +1.00 |
-| UNH | UnitedHealth | +0.74 |
-| COST | Costco | -0.14 |
-| ODFL | Old Dominion | -2.38 |
-| TSLA | Tesla | +1.86 |
-| LEN | Lennar | +0.97 |
-| PG | Procter & Gamble | +0.58 |
-| HSY | Hershey | +0.87 |
-| SPCX | SPCX ETF | +5.33 |
+| ES | S&P 500 futures | +1.88 |
+| NQ | Nasdaq 100 futures | +2.60 |
+| YM | Dow futures | +1.33 |
+| RTY | Russell 2000 futures | +1.85 |
+| UNH | UnitedHealth | +0.98 |
+| COST | Costco | -0.47 |
+| ODFL | Old Dominion | +0.53 |
+| TSLA | Tesla | +3.66 |
+| LEN | Lennar | +0.71 |
+| PG | Procter & Gamble | -0.23 |
+| HSY | Hershey | -1.00 |
+| SPCX | SPCX ETF | +2.16 |
 
 ## Money flow / sector rotation
 
-Last **full session Tue Sep 15** (Yahoo dated closes). Live Wed tone: energy still leadership; industrials/freight soft.
+Last **full session Wed Sep 16** (Yahoo dated closes). Live Thu tone: tech/discretionary bounce; energy still digesting.
 
-- **Leaders (Tue):** **XLE (Energy) +2.17%**, **XLB (Materials) +0.48%**.
-- **Laggards (Tue):** **XLY (Consumer Discretionary) −1.75%**, **XLU (Utilities) −1.20%**, **XLC (Communication Services) −0.90%**, **XLP (Consumer Staples) −0.82%**.
-- **~5-day (thru Tue):** **XLC +2.25%** / **XLE +1.79%** lead; **XLU −4.90%** / **XLI (Industrials) −3.19%** / **XLY −2.73%** lag.
-- **Style (Tue):** **IWD (value) −0.74%** / **IWF (growth) −0.67%** / **IWM (small caps) −0.96%** — broad soft; live Wed growth leads.
+- **Leaders (Wed):** **XLK (Technology) +0.10%**, **XLV (Health Care) +0.07%** — only green sleeves into hawkish Fed.
+- **Laggards (Wed):** **XLE (Energy) −2.88%**, **XLF (Financials) −1.62%**, **XLC (Communication Services) −0.90%**, **XLB (Materials) −0.73%**.
+- **~5-day (thru Wed):** **XLC +1.35%** / **XLV +1.27%** lead; **XLU (Utilities) −2.82%** / **XLY (Consumer Discretionary) −1.59%** / **XLE −1.39%** lag.
+- **Style (Wed):** **IWF (growth) +0.07%** / **IWD (value) −0.92%** / **IWM (small caps) −0.43%** — growth held; value/small soft on hike.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Energy leadership is outside the book but feeds the hike/housing Watch; soft **XLI** + LTL co-move keep **ODFL** event-bound; staples/healthcare digestion aids **COST/PG/UNH** without a size signal; high-beta bounce does not clear unlock/audit calendar.
+- **Book map:** Post-Fed growth bounce aids **TSLA/SPCX** without clearing unlock/audit; soft **XLE** is outside the book but supports sticky-inflation Watch for **LEN**; **XLV/XLP** digestion keeps **UNH/COST/PG/HSY** as ballast, not a size signal.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | -1.75 | -2.73 |
-| XLP | Consumer Staples | -0.82 | -0.35 |
-| XLE | Energy | +2.17 | +1.79 |
-| XLF | Financials | -0.32 | -0.79 |
-| XLV | Health Care | -0.05 | +0.32 |
-| XLI | Industrials | -0.64 | -3.19 |
-| XLB | Materials | +0.48 | -2.33 |
-| XLRE | Real Estate | -0.12 | -1.89 |
-| XLK | Technology | -0.29 | -2.20 |
-| XLU | Utilities | -1.20 | -4.90 |
-| XLC | Communication Services | -0.90 | +2.25 |
+| XLY | Consumer Discretionary | -0.63 | -1.59 |
+| XLP | Consumer Staples | -0.48 | +0.29 |
+| XLE | Energy | -2.88 | -1.39 |
+| XLF | Financials | -1.62 | -1.65 |
+| XLV | Health Care | +0.07 | +1.27 |
+| XLI | Industrials | -0.08 | -1.08 |
+| XLB | Materials | -0.73 | -0.79 |
+| XLRE | Real Estate | -0.60 | -0.56 |
+| XLK | Technology | +0.10 | -0.70 |
+| XLU | Utilities | +0.00 | -2.82 |
+| XLC | Communication Services | -0.90 | +1.35 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -66,105 +65,103 @@ Last **full session Tue Sep 15** (Yahoo dated closes). Live Wed tone: energy sti
 | TSLA | 12.33 | 1.42 | 30.25 | Mid | 174.74 | High | No — Mid/High |
 | LEN | 0.65 | 0.43 | 1.33 | Low | 15.05 | High | No — P/E filter |
 | PG | 3.77 | 2.80 | 4.83 | Mid | 20.52 | Mid | No — Mid P/S |
-| HSY | 2.96 | 2.98 | 3.62 | Low | 19.77 | Low | No — cocoa KPI |
+| HSY | 2.96 | 2.98 | 3.62 | Low | 19.77 | Low | Yes — soft size |
 | SPCX | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 
-Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy for ranges). No print moved spots; average-down still blocked ([valuation.md](../valuation.md)).
+Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy for ranges). No print moved spots; LEN still blocked by P/E filter despite Low P/S ([valuation.md](../valuation.md)).
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **53%** (under soft top-3 **60%**). Cyclical **~27%**, staples **~35%**, high-beta **~19%** (at soft thematic max). No hard breach. MV ≈ **$29,260**.
-- **Underwater vs cost:** LEN **−29.0%**, HSY **−5.3%**, COST **−3.7%**. TSLA/SPCX flipped slightly green vs cost on the mark.
-- **Peer divergences (session):** **SPCX** sharp green vs flat **ARKX/UFO** (idio bounce into Sep 24). **ODFL** co-soft with **XPO/SAIA** (LTL washout; JBHT guidance cut is freight-context). **LEN** co-green with **DHI/TOL**. **UNH** mild green vs soft **HUM**. Industry co-moves elsewhere.
-- **Average-down gate:** **Fails** (LEN P/E + FOMC/earnings; SPCX unlock; HSY cocoa; COST/TSLA Mid/High; event-blind).
+- **Bands:** UNH/COST/ODFL ≈ **53%** (under soft top-3 **60%**). Cyclical **~26%**, staples **~35%**, high-beta **~19.5%** (at soft thematic max). No hard breach. MV ≈ **$29,154**.
+- **Underwater vs cost:** LEN **−30.7%**, HSY **−7.0%**, COST **−4.9%**. TSLA/SPCX green vs cost.
+- **Peer divergences (session):** **LEN** lags **DHI/TOL** bounce after soft AMC print. **COST** soft vs **TGT** green (delivery expansion ≠ discretionary bid). **SPCX** co-moves **ARKX/UFO** (vs Wed idio). LTL co-soft recovery (**ODFL/XPO/SAIA**). Industry co-moves elsewhere.
+- **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX (P/E or Mid/High or unlock). HSY valuation leg clears on Low/Low + cocoa ease — still **no Consider** into Fed digest / soft size preference.
 
 ## Leading indicators (book map)
 
-- **LEN / mortgage:** Freddie still **Sep 10** PMMS **6.76%** (15y **6.09%**); next print **Thu Sep 17**; Mortgage News Daily survey ~**7.22%** (secondary) ([Freddie Mac](https://www.freddiemac.com/pmms); [CNBC](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html)).
-- **Rates / FOMC:** 10y eased from Tue highs; hike odds elevated into 2pm (see regime).
-- **Oil:** pullback but still elevated; East-West repair timing disputed (see regime).
-- **HSY / cocoa:** CC=F ~**$5,940** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
-- **SPCX:** next ~**328M** tranche **Sep 24** ([Motley Fool](https://www.fool.com/investing/2026/09/15/spacexs-next-share-unlock-is-coming-history-says-t/); [Gate](https://www.gate.com/news/detail/SPCX/spacex-unlocks-319-million-shares-on-9-september-591-million-more-on-10-24137140)).
-- **TSLA:** NHTSA **AQ26002** escalated to **Special Order** (sworn replies due **Sep 30**) ([Electrek](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
-- **COST:** Uber Eats delivery expanded to **47** states / **600** warehouses ([CNBC](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html)).
-- **UNH / ODFL:** no new utilization or tonnage print; LTL soft with peers (see health).
+- **LEN / mortgage:** Freddie still **Sep 10** PMMS **6.76%** (15y **6.09%**); **Sep 17 noon** print pending ([Freddie Mac](https://www.freddiemac.com/pmms)).
+- **Rates / FOMC:** Hike + hawkish dots delivered (see regime); path still higher-for-longer for housing.
+- **HSY / cocoa:** CC=F ~**$5,784** (easing vs prior ~$5.9–6.0k) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **SPCX:** next ~**328M** tranche **Sep 24** ([Motley Fool](https://www.fool.com/investing/2026/09/15/spacexs-next-share-unlock-is-coming-history-says-t/)).
+- **TSLA:** NHTSA **Special Order** replies still due **Sep 30** ([Electrek](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/)).
+- **COST:** DoorDash + Uber Eats nationwide member delivery ([AP/WTOP](https://wtop.com/national/2026/09/doordash-and-uber-eats-to-offer-delivery-from-us-costco-stores/)).
+- **UNH / ODFL:** no new utilization or tonnage print; UNH audit/refund chatter is noise vs kill bar.
 
 ## What needs attention today
 
-- **FOMC 2pm + SEP/Warsh** — no size adds into the print; housing sleeve stays event-bound through LEN tonight/tomorrow.
-- **LEN AMC into dual binary** — rates/oil path still adverse; drawdown vs cost is not a gate pass.
-- **SPCX +5% idio bounce** — Hold policy on size into Sep 24 unlock; bounce ≠ clearance.
-- **TSLA Special Order Watch** — sworn Cybercab replies due Sep 30; green tape ≠ audit clearance.
-- Quiet: COST Uber Eats / retail-sales tone supportive but Mid/High gate; PG/HSY/UNH sleeve digestion; ODFL LTL co-soft.
+- **LEN 11am call** — digest AMC print (orders/incentives/FY cut) vs peer bounce; Review thesis, not average-down.
+- **Freddie noon** — confirms whether mortgage KPI worsened into the Fed hike week.
+- **SPCX → Sep 24 unlock** — Hold size despite theme co-bounce.
+- **TSLA Special Order → Sep 30** — green tape ≠ audit clearance.
+- Quiet: COST delivery partners supportive but Mid/High gate; PG ballast; HSY cocoa ease helps Gate math only; ODFL LTL co-move.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
-| UNH | Hold | Watch | Watch | TPG digest; soft-max size OK |
-| COST | Hold | Hold | Hold | Uber Eats noise; Mid/High gate |
+| UNH | Hold | Watch | Watch | Soft-max size; audit noise |
+| COST | Hold | Hold | Hold | Delivery reach; Mid/High gate |
 | ODFL | Watch | Hold | Watch | LTL co-soft; cycle intact |
-| TSLA | Watch | Watch | Watch | Special Order; green ≠ clear |
-| LEN | Watch | Watch | Watch | AMC into FOMC; P/E blocks |
+| TSLA | Watch | Watch | Watch | Special Order; bounce ≠ clear |
+| LEN | Review | Review | Review | Soft print + Fed path; P/E blocks |
 | PG | Hold | Hold | Hold | Defensive ballast |
-| HSY | Watch | Watch | Watch | Cocoa sticky; Low/Low blocked |
-| SPCX | Watch | Watch | Watch | Bounce vs theme; Sep 24 next |
+| HSY | Watch | Watch | Watch | Cocoa easing; soft size only |
+| SPCX | Watch | Watch | Watch | Theme co-move; Sep 24 next |
 
 ## Position notes (fundamental lens)
 
-### LEN — AMC into FOMC
-Mild green with builders into tonight’s print; consensus frames incentives/margin vs sticky mortgage path. Thesis/kill not tripped, but underwater drawdown + **P/E filter** + dual binary keep gate **closed** ([Lennar IR](https://investors.lennar.com/press-releases/2026/09-02-2026-213038897); [Pip Theory preview](https://piptheory.com/research/lennar-q3-2026-preview-incentives-mortgage-rates)).
+### LEN — Q3 printed; call today
+EPS **$1.19** (vs **$2.29** YoY); deliveries **20,840 (−3%)**; orders **20,879 (−9%)**; ASP **$372k** with ~**12%** incentives; gross margin **15.8%**; FY deliveries cut to **80–81k** (from **82–83k**). Affordability/rates thesis stressed; kill (cancelations/impairments) not clearly tripped — **Review**, gate still **No** on P/E filter ([Lennar IR](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results); [PR Newswire](https://www.prnewswire.com/news-releases/lennar-reports-third-quarter-2026-results-302881102.html)).
 
-### SPCX / TSLA — bounce vs calendar
-SPCX leads **ARKX/UFO** hard on the session — treat as float/theme noise into Sep 24; **no average-down**. TSLA green with **Special Order** still outstanding — Watch, not Add ([Electrek](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/)).
+### COST — DoorDash joins Uber Eats
+Nationwide member delivery via DoorDash adds reach on top of Uber Eats expansion; valuation Mid/High still blocks Consider ([AP/WTOP](https://wtop.com/national/2026/09/doordash-and-uber-eats-to-offer-delivery-from-us-costco-stores/)).
 
-### ODFL — LTL co-soft
-Session red with **XPO/SAIA**; JBHT cut is freight-context, not an ODFL thesis break. Hold size; Watch tonnage/yield into next print.
+### HSY — cocoa ease
+Fwd P/S/P/E Low/Low clears valuation leg as cocoa prints softer (see KPI); still prefer soft size / no sleeve tilt into Fed digest.
 
-### COST
-Uber Eats national expansion is membership/reach positive; valuation Mid/High + FOMC still block Consider ([CNBC](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html)).
-
-**No material update:** UNH (TPG digest continues), PG, HSY (cocoa still sticky — see KPI).
+**No material update:** UNH (audit chatter below kill), ODFL (LTL co-move), TSLA/SPCX (calendar Watch), PG.
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **FOMC Wed 2pm → LEN Sep 16/17**. Why: hike path still live while housing KPIs stay adverse and the unlock/Special-Order calendar constrains high-beta; underwater average-down fails (see valuation / KPI). Falsifier: Fed delivers a credible one-and-done with oil easing *and* LEN orders/ASP/incentives stabilize at the print — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **LEN call digest → Sep 24 unlock / COST earnings**. Why: Fed hike + hawkish dots keep housing/rates adverse while high-beta calendar binds; underwater average-down still fails for LEN (see valuation) and is not warranted as a book tilt even where HSY’s valuation leg clears. Falsifier: Freddie eases *and* LEN call stabilizes orders/incentives *and* unlock digests cleanly — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** LEN through FOMC decision and Sep 16/17 earnings; no size change. Evidence: Freddie KPI + valuation P/E filter. Confidence: **High**. Falsifier: Fed holds/one-and-done with order/ASP stabilization at the print.
+1. **[Review]** LEN thesis after 11am call — orders, incentives, Q4 guide vs kill bar; no size add. Evidence: IR print + valuation P/E filter. Confidence: **High**. Falsifier: call shows order stabilization with incentives fading *and* P/E band not High.
 
-2. **[Watch]** TSLA/SPCX high-beta sleeve into FOMC + Sep 24 unlock; Hold size despite bounce. Evidence: Special Order + unlock calendar / theme divergence. Confidence: **Med**. Falsifier: theme peers lead *and* audit clears without float shock.
+2. **[Watch]** SPCX/TSLA high-beta sleeve into Sep 24 unlock and Sep 30 Special Order; Hold size on bounce. Evidence: unlock calendar + NHTSA Watch. Confidence: **Med**. Falsifier: theme peers lead *and* audit clears without float shock.
 
-3. **[Hold policy]** No average-down on LEN/HSY/COST/SPCX/TSLA while valuation/KPI/event gates fail. Evidence: valuation table + KPI. Confidence: **High**. Falsifier: P/S Low *and* P/E not High with thesis/KPI clear *and* event risk past.
+3. **[Hold policy]** No average-down on LEN/COST/TSLA/SPCX; no HSY size tilt despite Gate Yes. Evidence: valuation table + KPI/events. Confidence: **High**. Falsifier: Low P/S *and* P/E not High with thesis/KPI clear *and* event risk past for a named sleeve.
 
 ## Explicit non-actions
 
-- Do not treat SPCX’s session bounce or TSLA green as gate clearance ahead of Sep 24 / Sep 30.
-- Do not chase ODFL LTL co-soft or COST Uber Eats as size signals into FOMC.
+- Do not treat TSLA/SPCX bounce or LEN mild green as gate clearance ahead of Sep 24 / call details.
+- Do not chase COST delivery headlines as a size signal into Sep 24 earnings.
 
 ## Delta vs yesterday
 
-- **FOMC decision day** (still ahead at 2pm); hike odds ~**93%**; 10y eases below **5%**.
-- **Oil pulls back** but East-West still offline; **retail sales** printed hot.
-- **SPCX +5% idio** vs theme; **ODFL** soft with LTL; LEN prints **tonight**.
+- **FOMC hiked +25 bp** with hawkish dots (median **4.1%** YE); Wed cash slipped then Thu futures bounce.
+- **LEN Q3 printed soft** (orders −9% / ~12% incentives / FY cut); call **today 11am**.
+- **Cocoa eased**; COST adds **DoorDash**; Freddie **noon still pending**.
 
 ## Open questions for next run
 
-1. Did FOMC hike, and how did Warsh/SEP re-price the 10y and builder sleeve into the LEN call?
-2. LEN Q3: deliveries, ASP, incentives, and orders vs guide — any kill-edge language?
+1. LEN call: any kill-edge language on cancelations, land, or Q4 margin/ASP path?
+2. Did Freddie Sep 17 PMMS print above/below **6.76%**, and how did builders react?
 3. Confirm **SPCX instrument** label (listed SpaceX vs AXS ETF in `holdings.md`) ahead of the Sep 24 tranche.
 
 ## Sources
 
-- [Reuters — Warsh words matter more than expected hike Sep 16](https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16/)
-- [CNBC — live markets / FedWatch / retail sales / oil / Asia Sep 16](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html)
-- [Reuters — oil settles higher on Yanbu / East-West Sep 15](https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/)
+- [Fed — FOMC statement Sep 16 2026](https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf)
+- [Fed — Warsh press conference opening statement](https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf)
+- [CNBC — Fed hikes to 3.75%–4%](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)
+- [AP/Newser — stocks slip after Fed hike](https://www.newser.com/article/e2e82957e490b7be205db6013f621c3d/us-stocks-slip-after-the-fed-hikes-interest-rates-and-hints-more-increases-may-be-on-the-way.html)
+- [Lennar IR — Q3’26 results](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results)
+- [PR Newswire — Lennar Q3’26](https://www.prnewswire.com/news-releases/lennar-reports-third-quarter-2026-results-302881102.html)
 - [Freddie Mac PMMS](https://www.freddiemac.com/pmms)
-- [Lennar IR — Q3’26 earnings Sep 16/17](https://investors.lennar.com/press-releases/2026/09-02-2026-213038897)
-- [Pip Theory — LEN Q3 preview](https://piptheory.com/research/lennar-q3-2026-preview-incentives-mortgage-rates)
+- [AP/WTOP — Costco DoorDash + Uber Eats delivery](https://wtop.com/national/2026/09/doordash-and-uber-eats-to-offer-delivery-from-us-costco-stores/)
 - [Motley Fool — SPCX Sep 24 unlock](https://www.fool.com/investing/2026/09/15/spacexs-next-share-unlock-is-coming-history-says-t/)
-- [Gate — SPCX unlock calendar](https://www.gate.com/news/detail/SPCX/spacex-unlocks-319-million-shares-on-9-september-591-million-more-on-10-24137140)
-- [Electrek — NHTSA Special Order Cybercab Sep 15](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/)
-- [NHTSA — Cybercab AQ26002](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)
-- [Yahoo Finance — quotes / sectors / peers / 10y / VIX / oil / cocoa / Asia](https://finance.yahoo.com/)
+- [Electrek — NHTSA Special Order Cybercab](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/)
+- [MarketWatch — Asia closes Sep 17](https://www.marketwatch.com/data-news/japanese-stocks-climb-for-second-day-as-hong-kong-stocks-drop-6358f82f-ecdfc280f7c8)
+- [RTHK — HSI slip post Fed hike](https://news.rthk.hk/rthk/en/component/k2/1870446-20260917.htm)
+- [Yahoo Finance — quotes / sectors / peers / 10y / VIX / oil / cocoa](https://finance.yahoo.com/)
