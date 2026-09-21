@@ -83,8 +83,11 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | 2026-09-17 | Macro | US cash / Asia spillover (post-Fed) | Bounce session: futures/cash green; 10y ~**4.95%**; WTI ~**$100.5** / Brent ~**$103**; Nikkei **64,136 (+0.33%)**; HSI **24,604 (−0.44%)**; cocoa ~**$5.8k** ([Yahoo](https://finance.yahoo.com/); [MarketWatch](https://www.marketwatch.com/data-news/japanese-stocks-climb-for-second-day-as-hong-kong-stocks-drop-6358f82f-ecdfc280f7c8); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1870446-20260917.htm)) |
 | 2026-09-17 | COST | DoorDash + Uber Eats delivery | DoorDash nationwide member delivery; Uber Eats already expanding nationwide ([AP/WTOP](https://wtop.com/national/2026/09/doordash-and-uber-eats-to-offer-delivery-from-us-costco-stores/); [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-17/doordash-uber-expand-costco-delivery-partnership-in-the-us)) |
 | 2026-09-18 | Macro | US cash / Asia spillover / BOJ | Open (~10:30 ET): NQ-led futures green on oil retreat; 10y ~**5.00%**; WTI ~**$98** / Brent ~**$100**; cocoa ~**$5.4k**; BOJ hiked to **1.25%**; Nikkei **65,019 (+1.38%)**; HSI **24,751 (+0.60%)**; LEN hard red post-call ([Reuters](https://www.reuters.com/business/nasdaq-futures-lead-wall-st-gains-oil-retreat-eases-inflation-worries-2026-09-18/); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1870624-20260918.htm)) |
+| 2026-09-21 | Macro | US cash open / Asia spillover / oil | AI/NQ-led bounce; oil softer on diplomacy hopes; 10y ~**4.96%**; Japan **closed** (Respect for the Aged Day); HSI **25,043 (+1.18%)** ([Reuters](https://www.reuters.com/business/wall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21/); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1870953-20260921.htm); [Yonhap Infomax](https://en.infomaxai.com/news/articleView.html?idxno=140269)) |
+| 2026-09-21 | ODFL | General rate increase | **Printed** — **4.9%** GRI on ODFL 559/670/550 tariffs effective **Oct 5** ([Business Wire](https://markets.financialcontent.com/stocks/article/bizwire-2026-9-21-old-dominion-freight-line-inc-announces-general-rate-increase)) |
 | 2026-09-24 | COST | Q4 FY26 earnings call | Confirmed 2:00 PM PT ([Costco IR](https://investor.costco.com/events-and-presentations/events/event-details/2026/Q4-2026-Earnings-Call/default.aspx)) |
 | 2026-09-24 | SPCX | Lock-up tranche (day 105) | Up to ~**328M** shares eligible ([Motley Fool](https://www.fool.com/investing/2026/09/15/spacexs-next-share-unlock-is-coming-history-says-t/); [FinanceFeeds](https://financefeeds.com/spacex-spcx-lockup-september-9-319-million-shares/)) |
+| 2026-09-24 | Macro | Freddie Mac PMMS (weekly) | Next weekly print (noon ET); last **6.95%** Sep 17 ([Freddie Mac](https://www.freddiemac.com/pmms)) |
 | ~2026-10-21 | TSLA | Earnings (est.) | ([Yahoo TSLA](https://finance.yahoo.com/quote/TSLA/)) |
 | ~2026-10-27 | UNH | Earnings (est.) | ([Yahoo UNH](https://finance.yahoo.com/quote/UNH/)) |
 | Reported | UNH | Q2’26 printed Jul 16 | Guide raised; next print TBD |
@@ -97,6 +100,6 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 
 ## Macro watches
 
-- US: FOMC **printed** Sep 16 — hiked to **3.75–4.00%**, median YE **4.1%**; Freddie **6.95%** (Sep 17); 10y ~**5.00%**; WTI ~**$98** / Brent ~**$100**; cocoa ~**$5.4k**. **SPCX** unlock **Sep 24** (same day as COST earnings); TSLA NHTSA Special Order replies **Sep 30**; LEN call **printed** Sep 17 (Review)
-- Asia/HK overnight (Sep 18): BOJ hiked to **1.25%**; Nikkei **65,019 (+1.38%)** / HSI **24,751 (+0.60%)** — AI/semis bid; limited direct book overlap
+- US: FOMC **printed** Sep 16 — hiked to **3.75–4.00%**, median YE **4.1%**; Freddie **6.95%** (Sep 17; next **Sep 24** noon); 10y ~**4.96%**; oil softer Mon on diplomacy chatter; cocoa ~**$5.3k**. **Sep 24 cluster:** SPCX unlock + COST earnings + Freddie; TSLA NHTSA Special Order replies **Sep 30**; LEN call **printed** Sep 17 (Review); ODFL **4.9%** GRI effective **Oct 5**
+- Asia/HK overnight (Sep 21): Japan **holiday**; HSI **25,043 (+1.18%)** on Xi–Trump summit hopes — limited direct book overlap
 
