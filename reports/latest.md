@@ -1,58 +1,58 @@
-# Portfolio brief — 2026-09-29
+# Portfolio brief — 2026-09-30
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** US cash **open** (~10:30 ET Tue). Marks as-of **2026-09-29** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Mon Sep 28 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Mon Sep 28** (Yahoo).
+**Session:** US cash **open** (~10:30 ET Wed). Marks as-of **2026-09-30** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Tue Sep 29 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Tue Sep 29** (Yahoo).
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Digest after Mon risk-off:** Wall Street closed lower Mon on multi-year Treasury highs and sticky oil/Hormuz; Tue US futures near flat as the tape digests yields and AI-safety chatter ([Gate/Yonhap Infomax](https://www.gate.com/news/detail/us-stock-futures-edge-lower-as-treasury-yields-hold-near-multi-year-highs-24623395); [France24/AFP](https://www.france24.com/en/live-news/20260929-stocks-drop-and-oil-rises-as-hormuz-hopes-fade); [Reuters wrap Mon](https://za.investing.com/news/economy-news/stocks-fall-oil-prices-off-highs-amid-renewed-hopes-for-middle-east-negotiations-4481518)).
-- **Rates / vol / oil:** US10Y ~**5.25%**; VIX ~**15.9**; WTI ~**$91** (off Mon highs) ([Yahoo ^TNX / ^VIX / CL=F](https://finance.yahoo.com/)).
-- **Asia/HK:** Nikkei **65,481 (−0.60%)**; HSI **24,524 (−0.48%)** — regional caution into US yields/oil ([Yahoo ^N225 / ^HSI](https://finance.yahoo.com/); [Business Upturn Asia](https://businessupturn.com/asia/east-asia/east-asia-markets-roundup-shenzhen-plunges-as-regional-selling-weighs-on-tuesday-session/)).
+- **Mild bid after Tue yield scare:** S&P/Nasdaq green on the open after Tue’s soft close; long-end yields still near multi-decade highs even as NY Fed President Williams said there is “no need for urgency” on the next hike ([NY Fed Williams](https://www.newyorkfed.org/newsevents/speeches/2026/wil260929); [Nasdaq wrap](https://www.nasdaq.com/articles/stock-market-news-sep-30-2026); [Investing.com](https://in.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-5611976)).
+- **Rates / vol / oil:** US10Y ~**5.26%**; VIX ~**15.8**; WTI ~**$91** (bounce after Tue’s slide) ([Yahoo ^TNX / ^VIX / CL=F](https://finance.yahoo.com/)).
+- **Asia/HK:** Nikkei **66,754 (+1.94%)**; HSI **24,613 (+0.37%)** into HK National Day holiday — risk-on overnight vs prior soft Asia ([Nikkei](https://www.nikkei.com/article/DGXZQOFL305E90Q6A930C2000000/); [The Standard](https://www.thestandard.com.hk/finance/article/344250/Biopharma-shares-drive-HSI-up-86-points-at-market-close-ahead-of-National-Day-holiday)).
 
 ## US premarket
 
-Cash already open — table uses **session % vs Mon close**. Book-relevant: **SPCX** leads on Starship digest; **LEN** still peer-relative green; **UNH/HSY/COST** soft with staples/healthcare tape; **TSLA** mild soft into Special Order **T−1**.
+Cash already open — table uses **session % vs Tue close**. Book-relevant: **SPCX** extends theme lead; **UNH/LEN** soft vs indices; **TSLA** mild soft into Special Order **due today**.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | -0.09 |
-| NQ | Nasdaq 100 futures | +0.26 |
-| YM | Dow futures | -0.26 |
-| RTY | Russell 2000 futures | -0.26 |
-| UNH | UnitedHealth | -1.21 |
-| COST | Costco | -0.71 |
-| ODFL | Old Dominion | -0.26 |
-| TSLA | Tesla | -0.46 |
-| LEN | Lennar | +0.66 |
-| PG | Procter & Gamble | -0.81 |
-| HSY | Hershey | -1.03 |
-| SPCX | SPCX ETF | +1.15 |
+| ES | S&P 500 futures | +0.58 |
+| NQ | Nasdaq 100 futures | +0.77 |
+| YM | Dow futures | +0.15 |
+| RTY | Russell 2000 futures | +0.30 |
+| UNH | UnitedHealth | -1.85 |
+| COST | Costco | -0.48 |
+| ODFL | Old Dominion | -0.36 |
+| TSLA | Tesla | -0.54 |
+| LEN | Lennar | -1.46 |
+| PG | Procter & Gamble | -0.50 |
+| HSY | Hershey | -0.36 |
+| SPCX | SPCX ETF | +1.92 |
 
 ## Money flow / sector rotation
 
-Last **full session Mon Sep 28** (Yahoo dated closes). Live Tue: NQ mild bid vs Dow/RTY soft; growth not leading the book’s heavy sleeves.
+Last **full session Tue Sep 29** (Yahoo dated closes). Live Wed: NQ/S&P mild green; book sleeves mixed.
 
-- **Leaders (Mon):** **XLV (Health Care) +0.33%**, **XLP (Consumer Staples) +0.27%**, **XLE (Energy) +0.10%**.
-- **Laggards (Mon):** **XLC (Communication Services) −1.58%**, **XLY (Consumer Discretionary) −1.41%**, **XLF (Financials) −1.19%**.
-- **~5-day (thru Mon):** **XLV +1.33%** still leads; **XLU −3.47%** / **XLF −3.06%** / **XLRE −2.91%** lag.
-- **Style (Mon):** **IWF (growth) −0.83%** and **IWM (small caps) −0.69%** both soft vs flat indices ([Yahoo](https://finance.yahoo.com/)).
+- **Leaders (Tue):** **XLU (Utilities) +1.17%**, **XLC (Communication Services) +0.26%**, **XLI (Industrials) +0.21%**, **XLY (Consumer Discretionary) +0.14%**.
+- **Laggards (Tue):** **XLE (Energy) −0.90%**, **XLB (Materials) −0.75%**, **XLP (Consumer Staples) −0.52%**, **XLF (Financials) −0.33%**.
+- **~5-day (thru Tue):** **XLV +0.49%** still least-bad; **XLY −2.83%** / **XLB −2.83%** / **XLRE −2.73%** lag.
+- **Style (Tue):** **IWF (growth) +0.08%** vs **IWD (value) −0.43%** / **IWM (small caps) −0.36%** ([Yahoo](https://finance.yahoo.com/)).
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Mon **XLP/XLV** relative bids cushion **COST/PG/UNH** even as Tue session softens them; **XLI** soft fights **ODFL** after Mon peer lead; **XLRE**/sticky 10y still fights **LEN**; **XLK**/NQ fade + **TSLA** event Watch; **SPCX** bounce vs theme peers on orbit digest with Oct unlock still ahead.
+- **Book map:** Tue **XLP/XLV** soft aligns with Wed **COST/PG/UNH** weakness; **XLI** mild bid does not clear **ODFL** Mid-P/S; **XLRE**/sticky 10y still fights **LEN** (now peer-lagging); **XLK**/NQ bid coexists with **TSLA** event Watch; **SPCX** keeps leading **ARKX/UFO** into Oct unlock.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | -1.41 | -2.88 |
-| XLP | Consumer Staples | +0.27 | +0.44 |
-| XLE | Energy | +0.10 | -0.58 |
-| XLF | Financials | -1.19 | -3.06 |
-| XLV | Health Care | +0.33 | +1.33 |
-| XLI | Industrials | -0.97 | -0.71 |
-| XLB | Materials | -0.66 | -0.48 |
-| XLRE | Real Estate | -0.51 | -2.91 |
-| XLK | Technology | -0.89 | -0.16 |
-| XLU | Utilities | -0.66 | -3.47 |
-| XLC | Communication Services | -1.58 | -3.11 |
+| XLY | Consumer Discretionary | +0.14 | -2.83 |
+| XLP | Consumer Staples | -0.52 | -1.06 |
+| XLE | Energy | -0.90 | -0.39 |
+| XLF | Financials | -0.33 | -1.44 |
+| XLV | Health Care | -0.31 | +0.49 |
+| XLI | Industrials | +0.21 | -0.67 |
+| XLB | Materials | -0.75 | -2.83 |
+| XLRE | Real Estate | -0.02 | -2.73 |
+| XLK | Technology | -0.02 | -0.90 |
+| XLU | Utilities | +1.17 | -2.02 |
+| XLC | Communication Services | +0.26 | -1.81 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -71,28 +71,28 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **53%** (under soft top-3 **60%**). Cyclical **~27%**, staples **~35%**, high-beta **~18.6%** (under soft thematic **20%**). No hard breach. MV ≈ **$29,145**.
-- **Underwater vs cost:** LEN **−27.4%**, HSY **−10.4%**, COST **−1.9%**, SPCX **−1.9%**, TSLA **−1.6%**.
-- **Peer divergences (Tue session):** **LEN** leads **DHI/PHM/TOL**. **SPCX** leads **ARKX/UFO**. **ODFL** mild lag vs **XPO/SAIA** after Mon lead. **COST** holds up vs softer **WMT/BJ**. **UNH** soft vs quieter **CI/HUM**. **HSY** co-moves with **MDLZ**.
+- **Bands:** UNH/COST/ODFL ≈ **53%** (under soft top-3 **60%**). Cyclical **~27%**, staples **~35%**, high-beta **~18.7%** (under soft thematic **20%**). No hard breach. MV ≈ **$29,021**.
+- **Underwater vs cost:** LEN **−28.2%**, HSY **−11.4%**, TSLA **−2.8%**, COST **−1.6%**. **SPCX** now **+1.3%** vs cost.
+- **Peer divergences (Wed session):** **LEN** lags **DHI/PHM/TOL** (peer lead flipped). **SPCX** still leads **ARKX/UFO**. **COST** holds up vs softer **WMT/BJ**. **UNH** soft with **CI** harder; vs **ELV/HUM** mild idio soft. **ODFL** relatively firm vs **XPO/SAIA/TFII**.
 - **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX (P/E or Mid/High or theme n/a). HSY valuation leg clears — still **no Consider** (soft size preference).
 
 ## Leading indicators (book map)
 
-- **LEN / mortgage:** Freddie Sep 24 PMMS **7.03%** (15y **6.42%**) still live; next PMMS **Oct 1** noon; Zillow/US News 30y purchase ~**7.48%** Sep 28 ([GlobeNewswire/Freddie](https://www.globenewswire.com/news-release/2026/09/24/3368592/0/en/mortgage-rates-average-7-03.html); [US News/Zillow](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-september-28-2026); [Freddie calendar](https://www.freddiemac.com/pmms/docs/PMMS_Publication_Calendar.pdf)).
-- **HSY / cocoa:** CC=F ~**$5,411** (soft vs Mon) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **LEN / mortgage:** Freddie Sep 24 PMMS **7.03%** (15y **6.42%**) still live; next PMMS **Oct 1** noon; Bankrate/WSJ 30y purchase ~**7.34%** Sep 30 ([GlobeNewswire/Freddie](https://www.globenewswire.com/news-release/2026/09/24/3368592/0/en/mortgage-rates-average-7-03.html); [WSJ/Bankrate](https://www.wsj.com/buyside/personal-finance/mortgage/mortgage-rates-today-9-30-2026); [Freddie calendar](https://www.freddiemac.com/pmms/docs/PMMS_Publication_Calendar.pdf)).
+- **HSY / cocoa:** CC=F ~**$5,378** (soft) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
 - **ODFL:** **4.9%** GRI effective **Oct 5** ([ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/350/old-dominion-freight-line-inc-announces-general-rate)).
-- **COST:** Q4 membership fees **+7.3%**; renewals **92.3%** US/Can / **89.8%** worldwide; Street debate = membership growth pace vs Mid/High multiple ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/24/3368754/0/en/costco-wholesale-corporation-reports-fourth-quarter-and-fiscal-year-2026-operating-results.html); [Insider Monkey](https://www.insidermonkey.com/news/analysts-cut-costco-cost-price-targets-after-a-q4-beat-and-the-stock-rose-anyway-1845841/)).
-- **SPCX:** Starship Flight 14 orbit + Starlink V3 deploy printed; next unlocks **Oct 9 / Oct 24** ([Space.com](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success); [Stocktwits](https://stocktwits.com/news-articles/markets/equity/spcx-stock-analyst-massive-ai-opportunity-1000-yearly-launches-starship-win/cZMmogbRBXu); [InsiderFinance](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)).
-- **TSLA:** NHTSA Special Order replies due **Sep 30** (**T−1**) ([Electrek](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
-- **UNH:** UHC president transition (Hunter) — process, not CMS print ([Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/robert-hunter-be-new-unitedhealthcare-president-2026-09-28/)).
+- **COST:** Q4 membership fees **+7.3%**; renewals **92.3%** US/Can / **89.8%** worldwide — Mid/High multiple still binds ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/24/3368754/0/en/costco-wholesale-corporation-reports-fourth-quarter-and-fiscal-year-2026-operating-results.html); [Grocery Dive](https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/)).
+- **SPCX:** Starship Flight 14 orbit digest still live; next unlocks **Oct 9 / Oct 24** ([Space.com](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success); [InsiderFinance](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)).
+- **TSLA:** NHTSA Special Order sworn replies **due end of day Sep 30** — no public response yet as of this brief ([BaseNor](https://www.basenor.com/blogs/news/nhtsas-cybercab-inquiry-what-tesla-must-answer-today); [TechTimes](https://www.techtimes.com/articles/327689/20260917/foot-brake-rule-still-applies-nhtsa-puts-tesla-cybercab-under-sworn-oath.htm); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
+- **UNH:** UHC president transition (Hunter) still process; soft session not a CMS print ([Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/robert-hunter-be-new-unitedhealthcare-president-2026-09-28/); [Insider Monkey](https://www.insidermonkey.com/news/robert-hunter-named-unitedhealth-unh-insurance-president-1846708/)).
 
 ## What needs attention today
 
-- **TSLA Special Order T−1** — Hold high-beta size into Sep 30 sworn replies; soft alone is not a thesis break.
-- **LEN Review** — peer lead continues, but Freddie **7%+** / P/E filter still block average-down (see bands + KPI).
-- **SPCX bounce ≠ unlock clear** — orbit digest positive vs theme peers; Oct 9 supply still binds size.
-- **COST Mid/High gate** still blocks add-on-weakness despite membership print and relative vs WMT/BJ.
-- Quiet: ODFL (GRI calendar; mild peer lag); PG ballast; HSY Gate math only; UNH leadership process Watch.
+- **TSLA Special Order due EOD** — Hold high-beta size until sworn replies / NHTSA digest; soft alone is not a thesis break.
+- **LEN Review** — peer lead flipped to lag; Freddie **7%+** / P/E filter still block average-down (see bands + KPI).
+- **SPCX extended bounce ≠ unlock clear** — theme lead continues; Oct 9 supply still binds size.
+- **UNH soft-max size** — leadership process + session soft; no trim without thesis break.
+- Quiet: COST Mid/High gate; ODFL GRI calendar; PG ballast; HSY Gate math only.
 
 ## Position ratings (dual lens)
 
@@ -100,78 +100,79 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 |--------|-------|-------------|-----|------------------|
 | UNH | Hold | Watch | Watch | Soft-max size; leadership process |
 | COST | Hold | Hold | Hold | Membership clear; Mid/High gate |
-| ODFL | Watch | Hold | Watch | Mild peer lag; GRI Oct 5 |
-| TSLA | Watch | Watch | Watch | Special Order T−1 |
-| LEN | Review | Review | Review | Peer lead ≠ Freddie relief |
+| ODFL | Watch | Hold | Watch | Relative firm; GRI Oct 5 |
+| TSLA | Watch | Watch | Watch | Special Order due EOD |
+| LEN | Review | Review | Review | Peer lead flipped; Freddie binds |
 | PG | Hold | Hold | Hold | Defensive ballast; quiet |
 | HSY | Watch | Watch | Watch | Gate Yes; soft size only |
-| SPCX | Watch | Watch | Watch | Orbit bounce; unlock calendar |
+| SPCX | Watch | Watch | Watch | Theme lead; unlock calendar |
 
 ## Position notes (fundamental lens)
 
-### TSLA — Special Order T−1
-Sworn Cybercab FMVSS replies due tomorrow — no new delivery/margin print; Mid/High valuation still blocks add ([Electrek](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
+### TSLA — Special Order due today
+Sworn Cybercab FMVSS replies due EOD — no public filing yet; Mid/High valuation still blocks add ([BaseNor](https://www.basenor.com/blogs/news/nhtsas-cybercab-inquiry-what-tesla-must-answer-today); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
 
-### SPCX — orbit digest bounce; unlock still ahead
-Flight 14 orbit + V3 deploy still the theme catalyst; Tue leads **ARKX/UFO** after Mon soft close — Hold size into **Oct 9** unlock ([Space.com](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success); [InsiderFinance](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)). Instrument label (listed SpaceX vs AXS ETF wording) still open.
+### LEN — Review; peer lead faded
+Now lagging **DHI/PHM/TOL** on the session after Tue’s relative bid; Freddie **7.03%** and the P/E filter still fail the average-down gate (see bands) ([WSJ/Bankrate](https://www.wsj.com/buyside/personal-finance/mortgage/mortgage-rates-today-9-30-2026); [Lennar IR](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results)). **No average-down.**
 
-### LEN — Review unchanged
-Still leading **DHI/PHM/TOL** on the session, but Freddie **7.03%** and the P/E filter still fail the average-down gate (see bands) ([GlobeNewswire/Freddie](https://www.globenewswire.com/news-release/2026/09/24/3368592/0/en/mortgage-rates-average-7-03.html); [Lennar IR](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results)). **No average-down.**
+### SPCX — theme lead extends; unlock still ahead
+Orbit digest + Wed session lead vs **ARKX/UFO**; now green vs cost — Hold size into **Oct 9** unlock ([Space.com](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success); [InsiderFinance](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)). Instrument label (listed SpaceX vs AXS ETF wording) still open.
 
-### UNH — leadership process, not kill-edge
-Robert Hunter named UnitedHealthcare president (LinkedIn/Reuters) — modernization agenda framing; soft session vs quieter peers does not trip kill criteria ([Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/robert-hunter-be-new-unitedhealthcare-president-2026-09-28/)).
+### UNH — soft session; process not kill-edge
+Hunter UHC-president transition still the only fresh process item; soft vs quieter **ELV/HUM** does not trip kill criteria ([Insider Monkey](https://www.insidermonkey.com/news/robert-hunter-named-unitedhealth-unh-insurance-president-1846708/)).
 
-### COST — Hold; valuation still Mid/High
-Membership/renewals intact post-print; Street target cuts debate membership growth pace — **fwd P/S Mid + fwd P/E High** still blocks average-down (see bands) ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/24/3368754/0/en/costco-wholesale-corporation-reports-fourth-quarter-and-fiscal-year-2026-operating-results.html); [Insider Monkey](https://www.insidermonkey.com/news/analysts-cut-costco-cost-price-targets-after-a-q4-beat-and-the-stock-rose-anyway-1845841/)).
-
-**No material update:** ODFL (GRI calendar), PG, HSY (Gate Yes soft size only).
+**No material update:** COST (membership clear / Mid/High), ODFL (GRI calendar), PG, HSY (Gate Yes soft size only).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **TSLA Special Order (Sep 30), next Freddie (Oct 1), and SPCX unlock digest**. Why: sticky yields/oil still fight the housing sleeve while LEN’s peer lead fails the average-down gate (see valuation); Starship orbit digest lifts SPCX vs theme peers but does not clear Oct supply or high-beta soft-band caution; COST membership clear but Mid/High still blocks add-on-weakness. Falsifier: clean Special Order digest *and* Freddie eases with LEN orders/incentives stabilizing *and* COST fwd multiples leave Mid/High — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **TSLA Special Order digest (Sep 30 EOD), next Freddie (Oct 1), and SPCX unlock**. Why: Williams eased October-hike urgency but the long end and mortgage tape still fight the housing sleeve while LEN’s peer lead faded and the average-down gate stays closed (see valuation); SPCX theme lead does not clear Oct supply or high-beta soft-band caution; COST membership clear but Mid/High still blocks add-on-weakness. Falsifier: clean Special Order digest *and* Freddie eases with LEN orders/incentives stabilizing *and* COST fwd multiples leave Mid/High — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** TSLA into Sep 30 Special Order replies; Hold high-beta size on soft alone. Evidence: Electrek/NHTSA calendar + health high-beta band. Confidence: **High**. Falsifier: replies land without thesis break *and* sleeve clearly under soft max with theme outperformance.
+1. **[Watch]** TSLA into Sep 30 EOD Special Order replies; Hold high-beta size on soft alone. Evidence: BaseNor/NHTSA calendar + health high-beta band. Confidence: **High**. Falsifier: replies land without thesis break *and* sleeve clearly under soft max with theme outperformance.
 
-2. **[Review]** LEN thesis/size after continued peer lead — bounce ≠ Freddie/P/E clearance. Evidence: KPI Freddie + valuation P/E filter + Lennar IR/call. Confidence: **High**. Falsifier: orders stabilize with incentives fading *and* P/E band not High.
+2. **[Review]** LEN thesis/size after peer lead flipped — bounce ≠ Freddie/P/E clearance. Evidence: KPI Freddie + valuation P/E filter + Lennar IR/call. Confidence: **High**. Falsifier: orders stabilize with incentives fading *and* P/E band not High.
 
-3. **[Watch]** SPCX Starship digest into Oct 9 unlock; Hold size despite bounce vs theme peers. Evidence: Space.com Flight 14 + InsiderFinance unlock schedule + ARKX/UFO relative. Confidence: **Med**. Falsifier: sustained theme outperformance with unlock supply absorbed and sleeve clearly under soft max.
+3. **[Watch]** SPCX Starship digest into Oct 9 unlock; Hold size despite theme-relative lead. Evidence: Space.com Flight 14 + InsiderFinance unlock schedule + ARKX/UFO relative. Confidence: **Med**. Falsifier: sustained theme outperformance with unlock supply absorbed and sleeve clearly under soft max.
 
 ## Explicit non-actions
 
 - Do not chase **COST** on relative strength vs WMT/BJ while Mid/High stands.
 - Do not size-tilt **HSY** on cocoa softness alone (Gate Yes ≠ Consider).
+- Do not trim **UNH** on session soft alone without a kill-edge print.
 
 ## Delta vs yesterday
 
-- **SPCX** flips to theme-relative **leader** on orbit digest (was soft Mon despite print).
-- **TSLA** Special Order clock moves to **T−1**; session soft milder than Mon’s hard dump.
-- Asia flips soft (Nikkei/HSI red) after Mon’s mixed Asia; US futures near flat vs Mon risk-off open.
+- **LEN** flips from peer-relative **leader** to **laggard** vs DHI/PHM/TOL.
+- **TSLA** Special Order clock moves from T−1 to **due EOD today**; no public reply yet.
+- Asia flips green (Nikkei/HSI) after Tue soft; US session mild green vs Tue’s near-flat digest; **SPCX** now green vs cost.
 
 ## Open questions for next run
 
-1. Does NHTSA Special Order reply (Sep 30) change TSLA Cybercab certification risk, or is it process-only?
-2. Does Oct 1 Freddie print ease from **7.03%**, and does LEN keep relative strength vs DHI/PHM?
-3. Post-Flight 14: any anomaly/reentry follow-up that would reverse the orbit narrative into the Oct 9 unlock?
+1. Did Tesla’s Sep 30 Special Order filing land, and does NHTSA acknowledge process-only vs escalate?
+2. Does Oct 1 Freddie print ease from **7.03%**, and does LEN reclaim relative strength vs DHI/PHM?
+3. Any Starship Flight 14 anomaly/reentry follow-up that would reverse the orbit narrative into the Oct 9 unlock?
 
 ## Sources
 
-- [Gate — US futures / yields near multi-year highs](https://www.gate.com/news/detail/us-stock-futures-edge-lower-as-treasury-yields-hold-near-multi-year-highs-24623395)
-- [France24/AFP — Asia soft; oil/Hormuz](https://www.france24.com/en/live-news/20260929-stocks-drop-and-oil-rises-as-hormuz-hopes-fade)
-- [Reuters — Mon stocks fall; yields/oil](https://za.investing.com/news/economy-news/stocks-fall-oil-prices-off-highs-amid-renewed-hopes-for-middle-east-negotiations-4481518)
-- [Business Upturn — East Asia Tue session](https://businessupturn.com/asia/east-asia/east-asia-markets-roundup-shenzhen-plunges-as-regional-selling-weighs-on-tuesday-session/)
-- [Space.com — Starship Flight 14 orbital success](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success)
-- [Stocktwits — SPCX analyst coverage after Starship](https://stocktwits.com/news-articles/markets/equity/spcx-stock-analyst-massive-ai-opportunity-1000-yearly-launches-starship-win/cZMmogbRBXu)
-- [Electrek — NHTSA Special Order Cybercab](https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/)
+- [NY Fed — Williams “Unwavering Dedication” (Sep 29)](https://www.newyorkfed.org/newsevents/speeches/2026/wil260929)
+- [CNA — Williams sees no urgency for next hike](https://www.channelnewsasia.com/world/federal-reserve-new-york-fed-president-no-urgency-next-rate-hike-6420096)
+- [Nasdaq — Stock market news Sep 30 2026](https://www.nasdaq.com/articles/stock-market-news-sep-30-2026)
+- [Investing.com — Futures drift higher; yields pause; oil slides](https://in.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-5611976)
+- [Nikkei — Nikkei closes +1.94% Sep 30](https://www.nikkei.com/article/DGXZQOFL305E90Q6A930C2000000/)
+- [The Standard — HSI +0.37% into National Day](https://www.thestandard.com.hk/finance/article/344250/Biopharma-shares-drive-HSI-up-86-points-at-market-close-ahead-of-National-Day-holiday)
+- [BaseNor — NHTSA Cybercab inquiry; replies due today](https://www.basenor.com/blogs/news/nhtsas-cybercab-inquiry-what-tesla-must-answer-today)
+- [TechTimes — Special Order sworn oath / FMVSS 135](https://www.techtimes.com/articles/327689/20260917/foot-brake-rule-still-applies-nhtsa-puts-tesla-cybercab-under-sworn-oath.htm)
 - [NHTSA — Cybercab self-certification AQ](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)
-- [Reuters — UNH UHC president Hunter](https://www.reuters.com/business/healthcare-pharmaceuticals/robert-hunter-be-new-unitedhealthcare-president-2026-09-28/)
+- [Space.com — Starship Flight 14 orbital success](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success)
+- [InsiderFinance — SPCX unlock schedule](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)
 - [GlobeNewswire — Freddie PMMS 7.03% Sep 24](https://www.globenewswire.com/news-release/2026/09/24/3368592/0/en/mortgage-rates-average-7-03.html)
-- [US News — mortgage rates ~7.48% Sep 28](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-september-28-2026)
+- [WSJ/Bankrate — mortgage rates ~7.34% Sep 30](https://www.wsj.com/buyside/personal-finance/mortgage/mortgage-rates-today-9-30-2026)
 - [Freddie Mac — PMMS publication calendar](https://www.freddiemac.com/pmms/docs/PMMS_Publication_Calendar.pdf)
 - [GlobeNewswire — Costco Q4 FY26 results](https://www.globenewswire.com/news-release/2026/09/24/3368754/0/en/costco-wholesale-corporation-reports-fourth-quarter-and-fiscal-year-2026-operating-results.html)
-- [Insider Monkey — COST analyst target cuts post-Q4](https://www.insidermonkey.com/news/analysts-cut-costco-cost-price-targets-after-a-q4-beat-and-the-stock-rose-anyway-1845841/)
+- [Grocery Dive — Costco Q4 fresh/comps](https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/)
 - [ODFL IR — 4.9% GRI Oct 5](https://ir.odfl.com/news-events/press-releases/detail/350/old-dominion-freight-line-inc-announces-general-rate)
 - [Lennar IR — Q3’26 results](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results)
-- [InsiderFinance — SPCX unlock schedule](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)
+- [Reuters — UNH UHC president Hunter](https://www.reuters.com/business/healthcare-pharmaceuticals/robert-hunter-be-new-unitedhealthcare-president-2026-09-28/)
+- [Insider Monkey — Hunter named UNH insurance president](https://www.insidermonkey.com/news/robert-hunter-named-unitedhealth-unh-insurance-president-1846708/)
 - [Yahoo Finance — session % / futures / sectors / KPIs](https://finance.yahoo.com/)
