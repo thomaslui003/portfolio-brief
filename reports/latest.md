@@ -1,59 +1,59 @@
-# Portfolio brief — 2026-10-02
+# Portfolio brief — 2026-10-05
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** US cash **open** (~10:30 ET Fri). Marks as-of **2026-10-02** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Thu Oct 1 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Thu Oct 1** (Yahoo). Soft Sep NFP already printed **8:30 ET**.
+**Session:** US cash **open** (~10:45 ET Mon). Marks as-of **2026-10-05** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Fri Oct 2 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Fri Oct 2** (Yahoo).
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Soft payrolls → risk bid:** Sep NFP **+29k** (cons. ~**90k**); U-3 **4.2%**; Jul/Aug revised **−60k** combined — Oct hike odds fade further ([BLS/Securities.io](https://www.securities.io/u-s-payrolls-rise-29-000-in-september-with-unemployment-at-4-2/); [Fox Business](https://www.foxbusiness.com/economy/us-jobs-report-september-2026)).
-- **Rates / vol / oil:** US10Y ~**5.20%** (easing from multi-decade highs); VIX ~**15.5**; WTI ~**$88.6** ([Yahoo ^TNX / ^VIX / CL=F](https://finance.yahoo.com/)).
-- **Asia/HK:** Nikkei **68,309.46 (−0.94%)**; HSI **23,972.29 (−2.60%)** — HK reopened into yield/oil pressure; China A still Golden Week–closed through **Oct 7** ([Morningstar/DJ](https://www.morningstar.com/news/dow-jones/202610022186/nikkei-225-index-rises-293-this-week-to-6830946-data-talk); [The Standard](https://www.thestandard.com.hk/finance/article/344440/HSI-misses-24000-points-at-market-close-financial-sector-suffers)).
-- **Prior tape:** Thu ISM Prices spike still the inflation overhang even as today’s labor soft print cools the front end ([PR Newswire/ISM](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html)).
+- **Post–soft NFP digest:** Fri Sep payrolls still the macro frame; FedWatch Oct hike odds ~**20%** (was >65% early last week) ([RTHK](https://news.rthk.hk/rthk/en/component/k2/1872762-20261005.htm?spTabChangeable=0)).
+- **Rates / vol / oil:** US10Y ~**5.31%**; VIX ~**15.6**; WTI ~**$90.1** ([Yahoo ^TNX / ^VIX / CL=F](https://finance.yahoo.com/)).
+- **Asia/HK:** Nikkei **69,946 (+2.4%)** three-month close high; HSI **24,040 (+0.3%)**; Seoul/Shanghai still Golden Week–closed ([RTHK](https://news.rthk.hk/rthk/en/component/k2/1872762-20261005.htm?spTabChangeable=0); [Nikkei Asia](https://asia.nikkei.com/business/markets/japan-s-nikkei-average-regains-70-000-mark-as-ai-optimism-returns)).
+- **Cross-current:** Soft labor cools the front end, but sticky long yields and ~$90 oil keep inflation/affordability pressure live ([Investing.com Asia Open](https://www.investing.com/analysis/asia-open-stocks-rise-as-hike-bets-cool-but-oil-keeps-the-stove-hot-200688888)).
 
 ## US premarket
 
-Cash already open — table uses **session % vs Thu close**. Book-relevant: **SPCX/TSLA** lead a soft-NFP risk-on rip; **LEN** flat-to-red despite the yield relief (Freddie still bites); **ODFL** firm with LTL into Mon GRI.
+Cash already open — table uses **session % vs Fri close**. Book-relevant: **LEN** hard red vs builders; **ODFL** soft with LTL on GRI day; **SPCX** extends theme leadership into unlock week.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | +1.04 |
-| NQ | Nasdaq 100 futures | +1.63 |
-| YM | Dow futures | +0.59 |
-| RTY | Russell 2000 futures | +1.41 |
-| UNH | UnitedHealth | +0.60 |
-| COST | Costco | -0.22 |
-| ODFL | Old Dominion | +2.17 |
-| TSLA | Tesla | +5.05 |
-| LEN | Lennar | -0.20 |
-| PG | Procter & Gamble | +0.23 |
-| HSY | Hershey | +0.49 |
-| SPCX | SPCX ETF | +6.47 |
+| ES | S&P 500 futures | +0.28 |
+| NQ | Nasdaq 100 futures | +0.43 |
+| YM | Dow futures | -0.32 |
+| RTY | Russell 2000 futures | +0.04 |
+| UNH | UnitedHealth | -0.50 |
+| COST | Costco | +0.04 |
+| ODFL | Old Dominion | -2.09 |
+| TSLA | Tesla | +1.36 |
+| LEN | Lennar | -4.61 |
+| PG | Procter & Gamble | +0.70 |
+| HSY | Hershey | +1.13 |
+| SPCX | SPCX ETF | +4.88 |
 
 ## Money flow / sector rotation
 
-Last **full session Thu Oct 1** (Yahoo dated closes). Live Fri: soft NFP bid into **XLK/XLY**; energy soft with oil.
+Last **full session Fri Oct 2** (Yahoo dated closes). Soft-NFP risk-on into growth/discretionary; healthcare still the soft sleeve.
 
-- **Leaders (Thu):** **XLE (Energy) +1.95%**, **XLK (Technology) +1.05%**, **XLI (Industrials) +0.99%**, **XLU (Utilities) +0.61%**.
-- **Laggards (Thu):** **XLV (Health Care) −1.32%**, **XLC (Communication Services) −0.93%**, **XLRE (Real Estate) −0.56%**, **XLP (Consumer Staples) −0.33%**.
-- **~5-day (thru Thu):** **XLK +1.59%** / **XLU +0.81%** lead; **XLC −3.55%** / **XLRE −2.33%** / **XLB −2.29%** / **XLV −2.16%** lag.
-- **Style (Thu):** **IWM (small caps) +0.41%** / **IWF (growth) +0.38%** ahead of **IWD (value) +0.13%** ([Yahoo](https://finance.yahoo.com/)).
+- **Leaders (Fri):** **XLY (Consumer Discretionary) +1.13%**, **XLK (Technology) +1.01%**, **XLI (Industrials) +0.78%**, **XLB (Materials) +0.66%**.
+- **Laggards (Fri):** **XLV (Health Care) −0.01%**, **XLF (Financials) +0.06%**, **XLE (Energy) +0.19%**, **XLP (Consumer Staples) +0.25%**.
+- **~5-day (thru Fri):** **XLK +1.80%** / **XLE +1.26%** / **XLU +0.81%** lead; **XLV −2.65%** / **XLF −2.46%** / **XLC −2.34%** lag.
+- **Style (Fri):** **IWF (growth) +1.07%** / **IWM (small caps) +0.90%** ahead of **IWD (value) +0.46%** ([Yahoo](https://finance.yahoo.com/)).
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Thu **XLV/XLP/XLRE** soft fights healthcare/staples/housing; Fri risk-on lifts **TSLA/SPCX** into soft thematic band while **LEN** still fights the Freddie print.
+- **Book map:** Fri **XLK/XLY** favors TSLA/high-beta; soft **XLV** still fights UNH; Mon **LEN** idio vs builders and **ODFL** GRI-day LTL washout fight the cyclical sleeve while theme money crowds SPCX into unlock week.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | -0.03 | -1.37 |
-| XLP | Consumer Staples | -0.33 | -1.68 |
-| XLE | Energy | +1.95 | +0.16 |
-| XLF | Financials | +0.11 | -1.96 |
-| XLV | Health Care | -1.32 | -2.16 |
-| XLI | Industrials | +0.99 | -0.11 |
-| XLB | Materials | -0.33 | -2.29 |
-| XLRE | Real Estate | -0.56 | -2.33 |
-| XLK | Technology | +1.05 | +1.59 |
-| XLU | Utilities | +0.61 | +0.81 |
-| XLC | Communication Services | -0.93 | -3.55 |
+| XLY | Consumer Discretionary | +1.13 | -0.47 |
+| XLP | Consumer Staples | +0.25 | -1.86 |
+| XLE | Energy | +0.19 | +1.26 |
+| XLF | Financials | +0.06 | -2.46 |
+| XLV | Health Care | -0.01 | -2.65 |
+| XLI | Industrials | +0.78 | -0.28 |
+| XLB | Materials | +0.66 | -1.89 |
+| XLRE | Real Estate | +0.32 | -1.80 |
+| XLK | Technology | +1.01 | +1.80 |
+| XLU | Utilities | +0.38 | +0.81 |
+| XLC | Communication Services | +0.35 | -2.34 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -72,104 +72,103 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **53%** (under soft top-3 **60%**). Cyclical **~27%**, staples **~34%**, high-beta **~19.6%** (soft thematic **20%** pressure on the TSLA/SPCX rip). No hard breach. MV ≈ **$29,342**.
-- **Underwater vs cost:** LEN **−28.0%**, HSY **−12.0%**, COST **−2.4%**. TSLA **+3.5%** / SPCX **+5.1%** now green vs cost.
-- **Peer divergences (Fri session):** **SPCX** leads **ARKX/UFO**. **LEN** soft vs flat/green **DHI/PHM/TOL** despite the yield fade. **ODFL** firm but lags hotter **SAIA/XPO**. **UNH** trails **ELV**. LTL/builders otherwise co-move.
+- **Bands:** UNH/COST/ODFL ≈ **53%** (under soft top-3 **60%**). Cyclical **~26%**, staples **~35%**, high-beta **~20.1%** (**soft thematic 20% breached** on the SPCX/TSLA rip). No hard single-name breach. MV ≈ **$29,212**.
+- **Underwater vs cost:** LEN **−33.2%**, HSY **−10.8%**, COST **−1.4%**. TSLA **+4.0%** / SPCX **+11.3%** green vs cost.
+- **Peer divergences (Mon session):** **LEN** hard lag vs **DHI/PHM/TOL**. **SPCX** leads **ARKX/UFO**. **ODFL** soft with **XPO/SAIA** (industry co-move on GRI day). **UNH** mild lag vs **ELV**.
 - **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX. HSY valuation leg clears — still **no Consider** (soft size preference).
 
 ## Leading indicators (book map)
 
-- **LEN / mortgage:** Freddie Oct 1 PMMS **7.28%** (15y **6.60%**) — **+25 bp** week, largest weekly jump in ~4y ([GlobeNewswire/Freddie](https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html); [MarketScreener/Reuters](https://www.marketscreener.com/news/us-mortgage-rates-jump-by-most-in-4-years-in-latest-week-ce785ddadb8bf124)).
-- **ODFL / ISM:** Sep New Orders support still live into **4.9%** GRI **Oct 5**; Prices Paid overhang unchanged (see regime ISM cite).
-- **HSY / cocoa:** CC=F ~**$5,706** (sharp bounce) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
-- **COST:** SCAN Costco MA plans (CA/NV, Jan 2027) — membership moat adjacent, Mid/High multiple still binds ([EIN/SCAN](https://www.einnews.com/pr_news/946421293/scan-and-costco-launch-costco-s-first-medicare-advantage-plans-in-california-and-nevada)).
-- **SPCX:** Musk Nvidia VR72 power milestone chatter + enterprise compute narrative; next unlock **Oct 9** ([Stocktwits](https://stocktwits.com/news-articles/markets/equity/spcx-stock-musk-big-deal-nvidia-ai-industry-insider-higher-power/cZDjbQERB0H); [InsiderFinance](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)).
-- **TSLA:** Special Order still **no public filing/agency digest** post–Sep 30 ([The Auto Wire](https://theautowire.com/2026/09/30/tesla-cybercab-nhtsa-special-order-september-30-zoox-exemption/); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
-- **UNH:** 2027 MA limited-network / $0-premium framing still the live process KPI ([UHG IR](https://www.unitedhealthgroup.com/newsroom/2026/2026-10-01-uhc-2027-medicare-plans-focus-on-affordability-simplicity.html); [Reuters](https://www.reuters.com/legal/litigation/unitedhealthcare-aetna-say-2027-medicare-advantage-plans-offer-more-limited-2026-10-01/)).
+- **LEN / mortgage:** Freddie Oct 1 PMMS **7.28%** (15y **6.60%**) still the live print; next PMMS Thu ([GlobeNewswire/Freddie](https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html)).
+- **ODFL / GRI:** **4.9%** GRI on ODFL 559/670/550 **effective today** ([ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/350/old-dominion-freight-line-inc-announces-general-rate)).
+- **HSY / cocoa:** CC=F ~**$5,883** (session bounce vs Fri ~**$5,670**) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/); [Kalkine](https://kalkine.com/news/consumer/cocoa-jumps-from-late-july-lows-as-hershey-nysehsy-faces-costs-and-soft-volumes)).
+- **UNH:** 2027 MA limited-network / service-area reductions; non-renewal notices dated **Oct 2** ([UHG IR](https://www.unitedhealthgroup.com/newsroom/2026/2026-10-01-uhc-2027-medicare-plans-focus-on-affordability-simplicity.html); [UHG FAQ](https://uhg1-prod.adobecqms.net/content/dam/provider/docs/public/health-plans/medicare/2027/2027-MED-ADV-Service-Area-Reductions-Provider-FAQs.pdf)).
+- **SPCX:** Next unlock **Oct 9** (~**328M** Class A eligible) ([The Financial Sciences](https://thefinancialsciences.com/spacex-lockup-calendar/); [InsiderFinance](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)).
+- **TSLA:** Secondary sources claim Sep 30 Special Order response submitted; **no NHTSA public acknowledgment** yet ([Auto Auto](https://autoautous.com/2026/10/03/teslas-nhtsa-deadline-just-passed-what-happens-now/); [Tesorb](https://tesorb.com/nhtsa-cybercab-special-order-steering-wheel-free-legal-test/); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
+- **COST:** no material KPI move beyond prior membership/MA adjacency.
 
 ## What needs attention today
 
-- **LEN Review** — Freddie printed worse; soft NFP/yield fade does **not** clear P/E-filter average-down or order/incentive stress.
-- **High-beta soft band** — TSLA/SPCX rip pushes sleeve near **20%**; Hold size into Special Order opacity + **Oct 9** unlock.
-- **ODFL GRI Mon** — firm tape is yield-supportive, not Mid-P/S gate clearance.
-- **HSY cocoa bounce** — Gate Yes remains soft-size only; input-cost Watch, not Consider.
-- Quiet: COST Mid/High + MA adjacency; UNH process Watch at soft-max; PG ballast.
+- **LEN Review** — session lag vs peers + MS Underweight/$65 digest; Freddie still blocks average-down (P/E filter).
+- **High-beta soft band breached** — Hold size into **SPCX Oct 9** unlock; theme rip ≠ supply clear.
+- **ODFL GRI day** — LTL co-soft; yield support, not Mid-P/S gate clearance.
+- **UNH MA process** — service-area/non-renewal notices live into open enrollment **Oct 15**.
+- Quiet: COST Mid/High; HSY Gate Yes soft-size only; PG ballast; TSLA SO still opaque at agency level.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
-| UNH | Hold | Watch | Watch | Soft-max; MA network process |
-| COST | Hold | Hold | Hold | Mid/High; MA adjacency noise |
-| ODFL | Watch | Hold | Watch | Firm vs peers; GRI Oct 5 |
-| TSLA | Watch | Watch | Watch | Rip vs soft band; SO opaque |
-| LEN | Review | Review | Review | Freddie 7.28%; P/E filter |
+| UNH | Hold | Watch | Watch | Soft-max; MA reductions process |
+| COST | Hold | Hold | Hold | Mid/High; quiet membership |
+| ODFL | Watch | Hold | Watch | GRI day; Mid P/S binds |
+| TSLA | Watch | Watch | Watch | Soft-band breach; SO opaque |
+| LEN | Review | Review | Review | Peer lag; MS UW; P/E filter |
 | PG | Hold | Hold | Hold | Defensive ballast; quiet |
 | HSY | Watch | Watch | Watch | Cocoa bounce; Gate soft size |
-| SPCX | Watch | Watch | Watch | Theme rip; Oct 9 unlock |
+| SPCX | Watch | Watch | Watch | Soft-band; Oct 9 unlock |
 
 ## Position notes (fundamental lens)
 
-### LEN — Review after Freddie 7.28%
-Largest weekly mortgage jump in ~4y keeps orders/incentives and the P/E filter blocking average-down; soft NFP is rate relief, not a housing clearance ([GlobeNewswire/Freddie](https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html); [Lennar IR](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results)). **No average-down.**
+### LEN — Review deepens on tape + MS UW
+Session hard lag vs **DHI/PHM/TOL** after Freddie **7.28%**; MS initiated **Underweight / $65** (Oct 1) on land-light margin risk — reinforces Review, not average-down (P/E filter still fails) ([24/7 Wall St.](https://247wallst.com/investing/2026/10/02/morgan-stanley-just-bet-against-berkshire-hathaways-favorite-homebuilder/); [Lennar IR](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results)). **Fwd P/S Low / fwd P/E High — gate fails.**
 
-### SPCX — AI/theme rip into unlock week
-Musk Nvidia power-milestone chatter drives session leadership vs **ARKX/UFO**; **Oct 9** supply still ahead — theme green ≠ unlock clear ([Stocktwits](https://stocktwits.com/news-articles/markets/equity/spcx-stock-musk-big-deal-nvidia-ai-industry-insider-higher-power/cZDjbQERB0H); [InsiderFinance](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)). Instrument label still open.
+### SPCX — theme lead into unlock week
+Continues to lead **ARKX/UFO** into **Oct 9** ~328M eligibility; soft thematic band now breached — Hold size ([The Financial Sciences](https://thefinancialsciences.com/spacex-lockup-calendar/)). Instrument label still open.
 
-### TSLA — soft-NFP beta, process still opaque
-Session rip with NQ does not resolve Special Order confidentiality; Mid/High still blocks add ([The Auto Wire](https://theautowire.com/2026/09/30/tesla-cybercab-nhtsa-special-order-september-30-zoox-exemption/); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
+### ODFL — GRI effective; peer co-soft
+**4.9%** tariff GRI hits today; Mon soft with **XPO/SAIA** is industry, not idio clearance of Mid P/S ([ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/350/old-dominion-freight-line-inc-announces-general-rate)).
 
-### COST — SCAN MA launch; gate unchanged
-First Costco-branded SCAN MA plans (CA/NV, 2027) are strategic adjacency, not a valuation reset — Mid/High still blocks ([EIN/SCAN](https://www.einnews.com/pr_news/946421293/scan-and-costco-launch-costco-s-first-medicare-advantage-plans-in-california-and-nevada)).
+### TSLA — process still opaque at agency level
+Secondary “submitted” claims ≠ NHTSA digest; Mid/High still blocks add ([Auto Auto](https://autoautous.com/2026/10/03/teslas-nhtsa-deadline-just-passed-what-happens-now/); [NHTSA](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)).
 
-**No material update:** UNH (MA process ongoing), ODFL (GRI calendar), PG, HSY (Gate Yes soft size only).
+**No material update:** UNH (MA process ongoing), COST, PG, HSY (Gate Yes soft size only).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **LEN Review (Freddie 7.28%), ODFL GRI Oct 5, and SPCX Oct 9 unlock**. Why: soft NFP cools the front end and lifts risk assets, but mortgage stress and the P/E filter still fail the underwater gate (see valuation); high-beta sits on the soft thematic band after the TSLA/SPCX rip while Special Order remains opaque. Falsifier: Freddie reverses with LEN reclaiming peer strength *and* high-beta clearly under soft max with a clean Special Order process signal *and* COST multiples leave Mid/High — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **LEN Review, ODFL GRI digest, and SPCX Oct 9 unlock**. Why: Asia risk-on and soft-NFP cooling do not clear the underwater P/E filter or Mid/High blockers (see valuation); high-beta now sits **through** the soft thematic band while Special Order remains agency-opaque. Falsifier: LEN reclaims peer strength with Freddie easing *and* high-beta clearly under soft max with unlock supply absorbed *and* COST multiples leave Mid/High — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Review]** LEN after Freddie’s 7.28% jump; Hold size — soft NFP is not average-down clearance. Evidence: KPI Freddie + valuation P/E filter + peer lag vs DHI/PHM. Confidence: **High**. Falsifier: PMMS eases *and* LEN reclaims peer strength with incentives fading *and* P/E band not High.
+1. **[Review]** LEN after peer lag + MS Underweight digest; Hold size — Freddie/P/E filter still block average-down. Evidence: session vs DHI/PHM + KPI Freddie + valuation Gate. Confidence: **High**. Falsifier: PMMS eases *and* LEN reclaims peer strength with incentives fading *and* P/E band not High.
 
-2. **[Watch]** SPCX into Oct 9 unlock; Hold size despite AI/theme-relative rip. Evidence: unlock schedule + ARKX/UFO relative + health high-beta band. Confidence: **High**. Falsifier: sustained theme outperformance with unlock supply absorbed and sleeve clearly under soft max.
+2. **[Watch]** SPCX into Oct 9 unlock; Hold size despite theme-relative lead and soft-band breach. Evidence: unlock schedule + ARKX/UFO relative + health high-beta. Confidence: **High**. Falsifier: sustained theme outperformance with unlock supply absorbed and sleeve clearly under soft max.
 
-3. **[Watch]** High-beta sleeve (TSLA Special Order opacity + soft-band pressure); Hold size on the soft-NFP rip alone. Evidence: Auto Wire/NHTSA opaque digest + portfolio health high-beta. Confidence: **Med**. Falsifier: agency process-only acknowledgment *and* sleeve clearly under soft max with theme not crowding the band.
+3. **[Watch]** High-beta sleeve (TSLA Special Order opacity + soft-band breach); Hold size on NQ beta alone. Evidence: no NHTSA public ack + portfolio health high-beta. Confidence: **Med**. Falsifier: agency process-only acknowledgment *and* sleeve clearly under soft max with theme not crowding the band.
 
 ## Explicit non-actions
 
-- Do not chase **COST** on SCAN MA headlines while Mid/High stands.
-- Do not size-tilt **HSY** on a one-day cocoa bounce (Gate Yes ≠ Consider).
-- Do not treat soft NFP as **LEN** clearance or ODFL Mid-P/S clearance ahead of GRI.
+- Do not chase **ODFL** on GRI headlines while Mid P/S stands.
+- Do not size-tilt **HSY** on the cocoa bounce (Gate Yes ≠ Consider).
+- Do not treat soft-NFP / Asia bid as **LEN** clearance.
 
 ## Delta vs yesterday
 
-- **Freddie resolved** — **7.28% / 15y 6.60%** (was pending noon); LEN Review stays.
-- **Soft NFP printed** — risk-on session; 10y/oil ease vs yesterday’s sticky-yield open.
-- **SPCX/TSLA** flip to green vs cost on a large session rip; high-beta near soft **20%**.
+- **LEN Review deepens** — Mon peer lag + MS Underweight/$65 digest; underwater to **−33.2%**.
+- **High-beta soft 20% breached** (~**20.1%**) on SPCX/TSLA continuation.
+- **ODFL GRI effective** today; LTL co-soft vs Fri firm tape.
 
 ## Open questions for next run
 
-1. Does LEN reclaim relative strength vs DHI/PHM after the Freddie 7.28% digest, or does the peer lag persist into next week’s rates tape?
-2. Any NHTSA acknowledgment that Tesla’s Special Order response was received (process-only vs escalate)?
-3. Does SPCX hold theme leadership into the Oct 9 unlock, or does supply chatter reassert after today’s AI-driven rip?
+1. Does LEN stabilize vs DHI/PHM into Thu Freddie, or does the MS UW + peer lag persist?
+2. Any NHTSA public acknowledgment that Tesla’s Special Order response was received (process-only vs escalate)?
+3. Does SPCX absorb Oct 9 unlock supply without forcing the high-beta sleeve further through soft max?
 
 ## Sources
 
-- [BLS/Securities.io — Sep NFP +29k; U-3 4.2%](https://www.securities.io/u-s-payrolls-rise-29-000-in-september-with-unemployment-at-4-2/)
-- [Fox Business — Sep jobs miss vs ~90k cons.](https://www.foxbusiness.com/economy/us-jobs-report-september-2026)
+- [RTHK — HSI 24,040 (+0.3%); Nikkei 69,946 (+2.4%); FedWatch ~20%](https://news.rthk.hk/rthk/en/component/k2/1872762-20261005.htm?spTabChangeable=0)
+- [Nikkei Asia — Nikkei regains 70,000 intraday](https://asia.nikkei.com/business/markets/japan-s-nikkei-average-regains-70-000-mark-as-ai-optimism-returns)
+- [Investing.com — Asia open; oil/yields cross-current](https://www.investing.com/analysis/asia-open-stocks-rise-as-hike-bets-cool-but-oil-keeps-the-stove-hot-200688888)
 - [GlobeNewswire/Freddie — PMMS 7.28% / 15y 6.60% Oct 1](https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html)
-- [MarketScreener/Reuters — largest weekly mortgage jump in ~4y](https://www.marketscreener.com/news/us-mortgage-rates-jump-by-most-in-4-years-in-latest-week-ce785ddadb8bf124)
-- [Morningstar/DJ — Nikkei 68,309.46 (−0.94%)](https://www.morningstar.com/news/dow-jones/202610022186/nikkei-225-index-rises-293-this-week-to-6830946-data-talk)
-- [The Standard — HSI 23,972 (−2.60%); China A closed](https://www.thestandard.com.hk/finance/article/344440/HSI-misses-24000-points-at-market-close-financial-sector-suffers)
-- [PR Newswire — ISM Manufacturing PMI 54.5 Sep 2026](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html)
-- [Stocktwits — SPCX Musk/Nvidia VR72 power milestone](https://stocktwits.com/news-articles/markets/equity/spcx-stock-musk-big-deal-nvidia-ai-industry-insider-higher-power/cZDjbQERB0H)
-- [InsiderFinance — SPCX unlock schedule](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)
-- [The Auto Wire — Tesla Special Order; no public confirm](https://theautowire.com/2026/09/30/tesla-cybercab-nhtsa-special-order-september-30-zoox-exemption/)
-- [NHTSA — Cybercab self-certification AQ](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)
-- [UHG IR — 2027 Medicare plans](https://www.unitedhealthgroup.com/newsroom/2026/2026-10-01-uhc-2027-medicare-plans-focus-on-affordability-simplicity.html)
-- [Reuters — UHC/Aetna 2027 MA limited networks](https://www.reuters.com/legal/litigation/unitedhealthcare-aetna-say-2027-medicare-advantage-plans-offer-more-limited-2026-10-01/)
-- [EIN/SCAN — Costco first MA plans CA/NV](https://www.einnews.com/pr_news/946421293/scan-and-costco-launch-costco-s-first-medicare-advantage-plans-in-california-and-nevada)
+- [24/7 Wall St. — MS Underweight LEN $65](https://247wallst.com/investing/2026/10/02/morgan-stanley-just-bet-against-berkshire-hathaways-favorite-homebuilder/)
 - [Lennar IR — Q3’26 results](https://newsroom.lennar.com/2026-09-16-Lennar-Reports-Third-Quarter-2026-Results)
 - [ODFL IR — 4.9% GRI Oct 5](https://ir.odfl.com/news-events/press-releases/detail/350/old-dominion-freight-line-inc-announces-general-rate)
+- [The Financial Sciences — SPCX lockup calendar Oct 9](https://thefinancialsciences.com/spacex-lockup-calendar/)
+- [InsiderFinance — SPCX unlock schedule](https://www.insiderfinance.io/news/spacex-lockup-release-stokes-supply-concerns)
+- [Auto Auto — Tesla Special Order deadline passed; response claimed](https://autoautous.com/2026/10/03/teslas-nhtsa-deadline-just-passed-what-happens-now/)
+- [Tesorb — no public NHTSA digest yet](https://tesorb.com/nhtsa-cybercab-special-order-steering-wheel-free-legal-test/)
+- [NHTSA — Cybercab self-certification AQ](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification)
+- [UHG IR — 2027 Medicare plans](https://www.unitedhealthgroup.com/newsroom/2026/2026-10-01-uhc-2027-medicare-plans-focus-on-affordability-simplicity.html)
+- [UHG FAQ — MA service-area reductions; notices Oct 2](https://uhg1-prod.adobecqms.net/content/dam/provider/docs/public/health-plans/medicare/2027/2027-MED-ADV-Service-Area-Reductions-Provider-FAQs.pdf)
+- [Kalkine — cocoa Fri close $5,670 (+5.37%)](https://kalkine.com/news/consumer/cocoa-jumps-from-late-july-lows-as-hershey-nysehsy-faces-costs-and-soft-volumes)
 - [Yahoo Finance — session % / futures / sectors / KPIs](https://finance.yahoo.com/)
