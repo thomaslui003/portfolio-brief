@@ -1,58 +1,58 @@
-# Portfolio brief — 2026-10-19
+# Portfolio brief — 2026-10-20
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** US cash **open** (~10:30 ET Mon) — post-weekend oil slip on Russia-sanctions waiver vs Hormuz mine; **SPCX Q3 tomorrow AMC**; TSLA Wed. Marks as-of **2026-10-19** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Fri Oct 16 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Fri Oct 16** (Yahoo).
+**Session:** US cash **open** (~10:30 ET Tue) — Asia AI/tech washout; **SPCX Q3 AMC tonight**; TSLA Wed. Marks as-of **2026-10-20** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Mon Oct 19 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Mon Oct 19** (Yahoo).
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Asia/HK:** Nikkei **64,916.70 (−0.62%)**; **HSI closed** (day-after Mid-Autumn holiday); Shanghai **3,730.92 (+0.39%)**; Kospi **5,768.01 (+1.76%)** — China Q3 GDP beat / LPR hold watch Tue; Korea rebound after last week’s chip washout ([Baystreet](https://baystreet.ca/foreignmarketwrap/5044/Japan-Lower-as-Hong-Kong-Shuts-Down-for-Day); [Money & Banking](https://en.moneyandbanking.co.th/2026/280106/)).
-- **US tape frame:** NQ bounce after Fri tech/AI funding scare; earnings week opens with SpaceX then Tesla ([Reuters/Investing](https://au.investing.com/news/stock-market-news/asia-stocks-edge-lower-despite-stronger-china-growth-as-ai-jitters-persist-4697470)).
-- **Rates / vol / oil:** US10Y ~**5.11%**; VIX ~**17.7** (easing vs Fri spike); WTI ~**$97.5** (slip from Fri multi-month high on Trump Russia-sanctions waiver; Hormuz mine still live) ([Yahoo ^TNX/^VIX/CL=F](https://finance.yahoo.com/); [RTE/Reuters](https://www.rte.ie/news/business/2026/1019/1595925-world-oil/)).
+- **Asia/HK:** Nikkei **64,075.42 (−1.30%)**; HSI **23,867.74 (−1.32%)** (reopen after Mon holiday); Shanghai **3,735.37 (+0.12%)**; Kospi **5,552.74 (−3.73%)** — AI/semiconductor selling + China **LPR hold** (1y **3.0%** / 5y **3.5%**, 17th month) cooled stimulus hopes ([Baystreet](https://baystreet.ca/foreignmarketwrap/5045/Asia-Markets-Dive); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1874633-20261020.htm); [Xinhua LPR](https://www.news.cn/20261020/b68d5e1b300e4a5bbfe5c1149cba5314/c.html)).
+- **US tape frame:** Mild green open into SpaceX then Tesla earnings; small-caps lead futures ([Yahoo ES/NQ](https://finance.yahoo.com/)).
+- **Rates / vol / oil:** US10Y ~**5.10%**; VIX ~**17.9**; crude still elevated on Hormuz tanker attacks — Dec WTI ~**$99–100** / Brent ~**$108–111** (front-month Nov expiry distorts CL=F) ([Yahoo ^TNX/^VIX](https://finance.yahoo.com/); [CNBC oil](https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html)).
 
 ## US premarket
 
-Cash already open — table uses **session % vs Fri close**. Book-relevant: **TSLA/SPCX** lead the NQ bounce into earnings week; **LEN** soft with builders; staples (**PG/HSY**) give back Fri’s bid.
+Cash already open — table uses **session % vs Mon close**. Book-relevant: **LEN** leads a builder bounce; **UNH** firm with managed care; **SPCX** flat into AMC print (lags theme ETFs).
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | +0.62 |
-| NQ | Nasdaq 100 futures | +1.48 |
-| YM | Dow futures | +0.03 |
-| RTY | Russell 2000 futures | +0.37 |
-| UNH | UnitedHealth | +0.70 |
-| COST | Costco | +0.27 |
-| ODFL | Old Dominion | +0.35 |
-| TSLA | Tesla | +3.13 |
-| LEN | Lennar | -0.97 |
-| PG | Procter & Gamble | -0.92 |
-| HSY | Hershey | -1.40 |
-| SPCX | SPCX ETF | +2.34 |
+| ES | S&P 500 futures | +0.44 |
+| NQ | Nasdaq 100 futures | +0.17 |
+| YM | Dow futures | +0.90 |
+| RTY | Russell 2000 futures | +1.20 |
+| UNH | UnitedHealth | +2.35 |
+| COST | Costco | +0.06 |
+| ODFL | Old Dominion | +1.15 |
+| TSLA | Tesla | +1.72 |
+| LEN | Lennar | +4.06 |
+| PG | Procter & Gamble | +0.46 |
+| HSY | Hershey | +0.80 |
+| SPCX | SPCX ETF | -0.09 |
 
 ## Money flow / sector rotation
 
-Last **full session Fri Oct 16** (Yahoo dated closes). Tech/AI washout; energy + bond-proxies + staples led.
+Last **full session Mon Oct 19** (Yahoo dated closes). Partial repair of Fri tech washout; utilities/REITs lagged.
 
-- **Leaders (Fri):** **XLE (Energy) +2.52%**, **XLU (Utilities) +1.34%**, **XLP (Consumer Staples) +1.08%**, **XLB (Materials) +0.71%**.
-- **Laggards (Fri):** **XLK (Technology) −3.02%**, **XLC (Communication Services) −1.89%**, **XLY (Consumer Discretionary) −0.84%**.
-- **~5-day (thru Fri):** **XLP +5.02%** / **XLE +4.86%** / **XLV (Health Care) +3.45%** lead; **XLK −7.70%** / **XLI (Industrials) −0.88%** lag.
-- **Style (Fri):** **IWD (value) −0.14%** vs **IWF (growth) −2.22%**; **IWM (small caps) −1.69%**.
+- **Leaders (Mon):** **XLY (Consumer Discretionary) +1.78%**, **XLK (Technology) +1.36%**, **XLB (Materials) +0.06%**.
+- **Laggards (Mon):** **XLU (Utilities) −2.01%**, **XLRE (Real Estate) −1.16%**, **XLF (Financials) −0.83%**, **XLI (Industrials) −0.64%**.
+- **~5-day (thru Mon):** **XLP (Consumer Staples) +3.32%** / **XLB +3.05%** / **XLE (Energy) +2.71%** lead; **XLK −5.30%** / **XLI −1.46%** lag.
+- **Style (Mon):** **IWF (growth) +0.93%** vs **IWD (value) −0.13%**; **IWM (small caps) +0.31%**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Fri XLP/XLV supported COST/PG/UNH ballast; XLK lag still the fight for TSLA/SPCX (Mon bounce ≠ clearance); XLRE mild ≠ mortgage relief for LEN.
+- **Book map:** Mon XLK/XLY bounce aided TSLA; SPCX still fights unlock supply vs theme; XLRE lag + sticky rates keep LEN Review live despite Tue builder bounce.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | -0.84 | -0.35 |
-| XLP | Consumer Staples | +1.08 | +5.02 |
-| XLE | Energy | +2.52 | +4.86 |
-| XLF | Financials | +0.45 | +1.44 |
-| XLV | Health Care | -0.27 | +3.45 |
-| XLI | Industrials | -0.08 | -0.88 |
-| XLB | Materials | +0.71 | +3.01 |
-| XLRE | Real Estate | +0.40 | +1.32 |
-| XLK | Technology | -3.02 | -7.70 |
-| XLU | Utilities | +1.34 | +1.93 |
-| XLC | Communication Services | -1.89 | -0.05 |
+| XLY | Consumer Discretionary | +1.78 | +1.95 |
+| XLP | Consumer Staples | -0.47 | +3.32 |
+| XLE | Energy | -0.64 | +2.71 |
+| XLF | Financials | -0.83 | +0.02 |
+| XLV | Health Care | -0.60 | +2.13 |
+| XLI | Industrials | -0.64 | -1.46 |
+| XLB | Materials | +0.06 | +3.05 |
+| XLRE | Real Estate | -1.16 | -0.60 |
+| XLK | Technology | +1.36 | -5.30 |
+| XLU | Utilities | -2.01 | -0.65 |
+| XLC | Communication Services | -0.21 | -1.22 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -71,28 +71,28 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** COST/UNH/ODFL ≈ **55%** (under soft top-3 **60%**). Cyclical **~26%**, staples **~36%**, high-beta **~18%** (**under** soft thematic **20%**). No hard single-name breach. MV ≈ **$30,509**.
-- **Underwater vs cost:** LEN **−32.9%**, HSY **−7.4%**; SPCX ~flat (**−0.1%**). TSLA green (**+1.3%**).
-- **Peer divergences:** **TSLA** leads **GM/F** on Mon bounce. **SPCX** leads **ARKX/UFO** into print. **LEN** co-moves with **DHI/PHM/TOL** (builders soft). **UNH** ≈ **ELV/HUM**; **CI** softer. COST ≈ **WMT**.
-- **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX. HSY valuation leg clears — still **no Consider** (soft size preference + earnings-week risk).
+- **Bands:** COST/UNH/ODFL ≈ **55%** (under soft top-3 **60%**). Cyclical **~26%**, staples **~36%**, high-beta **~18%** (**under** soft thematic **20%**). No hard single-name breach. MV ≈ **$30,941**.
+- **Underwater vs cost:** LEN **−30.6%**, HSY **−7.4%**, SPCX **−1.3%**. TSLA green (**+3.8%**).
+- **Peer divergences:** **TSLA** leads **GM** (GM hard red) into Wed print. **SPCX** lags **ARKX/UFO** into AMC. **LEN** leads **DHI/PHM/TOL** on Tue bounce. Managed-care co-move (UNH ≈ HUM/CI).
+- **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX. HSY valuation leg clears — still **no Consider** (soft size + earnings-week risk).
 
 ## Leading indicators (book map)
 
-- **LEN / housing:** Freddie PMMS still **Oct 15** print — 30y **7.40%** / 15y **6.71%**; next weekly **Thu Oct 22** ([Freddie Mac](https://www.freddiemac.com/pmms)).
-- **SPCX:** Q3 results **Tue Oct 20 AMC** → unlock up to ~**1.3B** shares **Thu Oct 22**; Day-135 ~**328M** Sat **Oct 24** (tradable **Mon Oct 26**) ([SpaceX IR](https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/default.aspx); [Yahoo/Sozzi](https://finance.yahoo.com/technology/article/spacex-surprises-wall-street-with-oct-20-earnings-date--heres-why-123059651.html); [Orbit Alpha](https://www.orbitalpha.cloud/spacex-stock/lockup-calendar)).
-- **TSLA:** Q3 **Wed Oct 21 AMC**; NHTSA SO replies **Oct 30**; deliveries already **486,532** ([Tesla IR](https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)).
+- **LEN / housing:** Freddie PMMS still **Oct 15** — 30y **7.40%** / 15y **6.71%**; next weekly **Thu Oct 22** ([Freddie Mac](https://www.freddiemac.com/pmms)).
+- **SPCX:** Q3 results **tonight AMC** (webcast 4:30 ET); street ~**$12.7–12.9B** rev; unlock up to ~**1.3B** **Thu Oct 22**; Day-135 ~**328M** Sat **Oct 24** (tradable **Mon Oct 26**) ([SpaceX IR](https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/default.aspx); [CNBC live](https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html); [Orbit Alpha](https://www.orbitalpha.cloud/spacex-stock/lockup-calendar)).
+- **TSLA:** Q3 **Wed Oct 21 AMC**; street ~**$0.44–0.45** EPS / ~**$28B** rev; auto GM + FCF the tells; deliveries already **486,532**; SO **Oct 30** ([Tesla IR](https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments); [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262225276-tesla-q3-earnings-preview-tsla-tradingkey)).
 - **UNH / Fairview:** AEP open; Justia docket still shows **no PI/TRO order text** after Oct 2 filings ([Justia](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)).
-- **HSY / cocoa:** CC=F ~**$5,639** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **HSY / cocoa:** CC=F ~**$5,854** (bid vs Mon) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
 - **ODFL / ISM:** Sep PMI **54.5** / Prices **77.9** still live; no new tonnage print.
 - **COST:** no material new KPI print.
 
 ## What needs attention today
 
-- **SPCX earnings tomorrow + unlock cascade** — largest supply event of the sleeve this month; Hold size through print/unlocks.
-- **TSLA into Wed print** — margin/FCF/AI spend vs delivery beat already known; Watch calendar, not size.
-- **LEN Review** — builders soft again on Mon; Freddie still at prior-week high; gate fails (P/E filter).
-- **UNH Fairview** — still unresolved into AEP week four; Mon bounce ≠ clearance.
-- Quiet: COST Mid/High; ODFL Mid-P/S; HSY Gate Yes soft-size only; PG ballast giveback.
+- **SPCX Q3 tonight + unlock cascade** — Hold size through print and Oct 22/26 supply; flat tape ≠ clearance.
+- **TSLA into Wed print** — margin/FCF/AI spend vs known delivery beat; Watch calendar, not size.
+- **LEN Review** — Tue peer-leading bounce ≠ Freddie/P/E-filter clearance; next PMMS Thu.
+- **HSY cocoa bid** — input stress up; Gate Yes still soft-size only.
+- Quiet: COST Mid/High; ODFL Mid-P/S; UNH Fairview still unsourced; PG ballast.
 
 ## Position ratings (dual lens)
 
@@ -102,47 +102,47 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 | COST | Hold | Hold | Hold | Mid/High; quiet |
 | ODFL | Hold | Hold | Hold | Quiet; Mid P/S |
 | TSLA | Watch | Watch | Watch | Into Oct 21 print |
-| LEN | Review | Review | Review | Rates still hostile; gate fails |
+| LEN | Review | Review | Review | Bounce ≠ rates/P/E clearance |
 | PG | Hold | Hold | Hold | Staples ballast; quiet |
-| HSY | Watch | Watch | Watch | Cocoa eased; Gate soft size |
-| SPCX | Watch | Watch | Watch | Oct 20 print + unlocks |
+| HSY | Watch | Watch | Watch | Cocoa bid; Gate soft size |
+| SPCX | Watch | Watch | Watch | Print tonight + unlocks |
 
 ## Position notes (fundamental lens)
 
-### SPCX — earnings tomorrow; unlocks dominate
-Q3 AMC **Oct 20** (webcast 4:30 ET) brings the **~1.3B** post-print unlock **Oct 22** ahead of Day-135 **Oct 24/26** — Hold size; theme bounce today is noise vs supply calendar ([SpaceX IR](https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/default.aspx); [Orbit Alpha](https://www.orbitalpha.cloud/spacex-stock/lockup-calendar)). Theme P/S n/a.
+### SPCX — print tonight; unlocks dominate
+Street ~**$12.7–12.9B** / ~**$0.14** EPS; Starlink + AI capacity the tells — then **~1.3B** eligible **Oct 22** ahead of Day-135 **Oct 24/26**. Flat vs ARKX/UFO into the bell is noise vs supply calendar ([CNBC live](https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html); [Orbit Alpha](https://www.orbitalpha.cloud/spacex-stock/lockup-calendar)). Theme P/S n/a.
 
-### TSLA — Wed margin/FCF print after delivery beat
-Street ~**$0.44** EPS / ~**$27.8B** rev; auto GM + FCF + AI capex are the tells — Watch through **Oct 21**, SO still **Oct 30** ([Tesla News Wire](https://teslanewswire.com/articles/tesla-q3-2026-earnings-preview-oct-21-eps-revenue-estimates-what-to-watch); [Tesla IR](https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)). **Fwd P/S Mid / P/E High — gate fails.**
+### TSLA — Wed margin/FCF after delivery beat
+Auto GM recovery toward ~**17%** and FCF vs AI/capex are the print — Watch through **Oct 21**; SO still **Oct 30**; GM peer washout is idiosyncratic, not a size signal ([TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262225276-tesla-q3-earnings-preview-tsla-tradingkey); [Tesla IR](https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)). **Fwd P/S Mid / P/E High — gate fails.**
 
-### LEN — Review unchanged into earnings week
-Mon soft with peers; Freddie still held; MS Underweight/$65 + Fitch negative outlook + Millrose allegations still live — no average-down ([Freddie Mac](https://www.freddiemac.com/pmms); [Fitch/Investing](https://www.investing.com/news/stock-market-news/fitch-shifts-lennar-outlook-to-negative-on-margin-compression-and-demand-risks-4947415)). **Fwd P/S Low / fwd P/E High — gate fails.**
+### LEN — Review unchanged despite bounce
+Tue RS vs builders repairs some drawdown; Freddie still held and **fwd P/E High** blocks average-down — Hold size into **Oct 22** PMMS ([Freddie Mac](https://www.freddiemac.com/pmms)). **Gate fails (P/E filter).**
 
-**No material update:** UNH (Fairview docket quiet; co-moves peers), COST/PG/ODFL/HSY (quiet; HSY Gate Yes soft size only).
+**No material update:** UNH (Fairview docket quiet; co-moves peers), COST/PG/ODFL (quiet; HSY Gate Yes soft size only — cocoa bid is the KPI watch).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **SPCX Oct 20 print / Oct 22–26 unlocks and TSLA Oct 21**, with **LEN Review** and **Hold policy** on size. Why: high-beta sleeve faces stacked binary supply/earnings events while Fri XLK washout only partially repaired on Mon; LEN rates falsifier still live (see KPI Freddie + valuation P/E filter); Fairview stays a background Watch. Falsifier: SPCX prints clean Starlink/AI metrics *and* digests the ~1.3B unlock without sleeve breach *and* TSLA margin/FCF stabilize *and* Freddie/10y ease with LEN reclaiming peer strength and P/E band not High — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **SPCX Oct 20 print / Oct 22–26 unlocks and TSLA Oct 21**, with **LEN Review** and **Hold policy** on size. Why: high-beta sleeve faces stacked binary supply/earnings events while Asia AI risk-off overnight and Mon XLK repair remain incomplete; LEN bounce does not clear the rates falsifier or P/E filter (see KPI Freddie + valuation Gate); Fairview stays background Watch. Falsifier: SPCX prints clean Starlink/AI metrics *and* digests the ~1.3B unlock without sleeve breach *and* TSLA margin/FCF stabilize *and* Freddie/10y ease with LEN reclaiming peer strength and P/E band not High — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** SPCX through Tue Q3 and Oct 22/26 unlocks; Hold size on Mon theme bounce. Evidence: SpaceX IR + unlock calendar. Confidence: **High**. Falsifier: sustained theme underperformance with sleeve back at soft max *or* forced-supply washout that breaks thesis.
+1. **[Watch]** SPCX through tonight’s Q3 and Oct 22/26 unlocks; Hold size on flat/lagging tape. Evidence: SpaceX IR + unlock calendar. Confidence: **High**. Falsifier: sustained theme underperformance with sleeve back at soft max *or* forced-supply washout that breaks thesis.
 
-2. **[Watch]** TSLA into Wed print / Oct 30 SO; no size change on session RS vs autos. Evidence: Tesla IR + margin/FCF preview. Confidence: **Med**. Falsifier: auto GM/FCF collapse without energy/AI offset *or* SO outcome that trips kill criteria.
+2. **[Watch]** TSLA into Wed print / Oct 30 SO; no size change on RS vs GM. Evidence: Tesla IR + margin/FCF preview. Confidence: **Med**. Falsifier: auto GM/FCF collapse without energy/AI offset *or* SO outcome that trips kill criteria.
 
-3. **[Review]** LEN after Freddie held; Hold size — drawdown ≠ P/E-filter clearance. Evidence: KPI Freddie + valuation Gate. Confidence: **High**. Falsifier: PMMS/10y ease *and* LEN reclaims peer strength with incentives fading *and* P/E band not High.
+3. **[Review]** LEN after Tue bounce; Hold size — drawdown repair ≠ P/E-filter clearance ahead of Thu Freddie. Evidence: KPI Freddie + valuation Gate. Confidence: **High**. Falsifier: PMMS/10y ease *and* LEN keeps peer strength with incentives fading *and* P/E band not High.
 
 ## Explicit non-actions
 
-- Do not treat Mon TSLA/SPCX bounce as average-down or Add clearance (gates fail; events imminent).
-- Do not size-tilt **HSY** on cocoa ease (Gate Yes ≠ Consider).
-- Do not read UNH Mon green as Fairview clearance.
+- Do not treat Tue LEN bounce or TSLA/GM divergence as average-down / Add clearance (gates fail; events imminent).
+- Do not size-tilt **HSY** on Gate Yes while cocoa is bidding up.
+- Do not read UNH session strength as Fairview clearance.
 
 ## Delta vs yesterday
 
-- **Weekend → Mon:** HSI holiday; Nikkei soft / Kospi rebound; oil slips on Russia-sanctions waiver vs Hormuz mine; NQ bounce after Fri XLK washout.
-- **SPCX catalyst upgraded:** Q3 **Oct 20 AMC** confirmed + ~**1.3B** unlock **Oct 22** ahead of Day-135 Oct 24/26 (was unlock-only Watch).
-- **LEN deeper underwater** on marks (**−32.9%** vs Fri **−31.1%**); builders soft again; Freddie still Oct 15 print.
+- **Asia:** HSI reopened soft (−1.3%); Nikkei/Kospi AI washout; China LPR **held** as expected.
+- **Book tape:** LEN bounce (−30.6% vs Mon −32.9% underwater); SPCX flat into print (was Mon theme lead); cocoa bid resumes.
+- **Catalysts unchanged in force:** SPCX tonight → unlocks; TSLA Wed; Fairview still no order text.
 
 ## Open questions for next run
 
@@ -152,16 +152,16 @@ Mon soft with peers; Freddie still held; MS Underweight/$65 + Fitch negative out
 
 ## Sources
 
-- [Baystreet — Japan lower; Hong Kong holiday Oct 19](https://baystreet.ca/foreignmarketwrap/5044/Japan-Lower-as-Hong-Kong-Shuts-Down-for-Day)
-- [Money & Banking — Asia close Oct 19 (Nikkei/Kospi/Shanghai)](https://en.moneyandbanking.co.th/2026/280106/)
-- [RTE/Reuters — Oil slips; Hormuz mine; Russia sanctions waiver](https://www.rte.ie/news/business/2026/1019/1595925-world-oil/)
-- [Yahoo Finance — SpaceX surprises with Oct 20 earnings date](https://finance.yahoo.com/technology/article/spacex-surprises-wall-street-with-oct-20-earnings-date--heres-why-123059651.html)
+- [Baystreet — Asia markets dive Oct 20](https://baystreet.ca/foreignmarketwrap/5045/Asia-Markets-Dive)
+- [RTHK — HK stocks slip; LPR hold; Asia retreat](https://news.rthk.hk/rthk/en/component/k2/1874633-20261020.htm)
+- [Xinhua — China LPR unchanged Oct 20](https://www.news.cn/20261020/b68d5e1b300e4a5bbfe5c1149cba5314/c.html)
+- [CNBC — Oil / Hormuz; WTI front-month expiry](https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html)
+- [CNBC — SpaceX Q3 2026 earnings live updates](https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html)
 - [SpaceX IR — Q3 2026 Earnings event](https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/default.aspx)
 - [Orbit Alpha — SPCX lockup calendar (Oct 22 / Oct 24)](https://www.orbitalpha.cloud/spacex-stock/lockup-calendar)
 - [Tesla IR — Q3 2026 production/deliveries; earnings Oct 21](https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)
-- [Tesla News Wire — Q3 2026 earnings preview](https://teslanewswire.com/articles/tesla-q3-2026-earnings-preview-oct-21-eps-revenue-estimates-what-to-watch)
+- [TradingKey — Tesla Q3 2026 earnings preview](https://www.tradingkey.com/analysis/stocks/us-stocks/262225276-tesla-q3-earnings-preview-tsla-tradingkey)
 - [Freddie Mac — PMMS as of Oct 15 2026 (7.40% / 6.71%)](https://www.freddiemac.com/pmms)
 - [Justia — Fairview v. UnitedHealthcare docket 26-cv-4245](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)
-- [Fitch/Investing — Lennar outlook to negative](https://www.investing.com/news/stock-market-news/fitch-shifts-lennar-outlook-to-negative-on-margin-compression-and-demand-risks-4947415)
 - [PR Newswire/ISM — Sep manufacturing PMI 54.5 / Prices 77.9](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html)
 - [Yahoo Finance — session % / futures / sectors / KPIs](https://finance.yahoo.com/)
