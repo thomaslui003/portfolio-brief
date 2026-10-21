@@ -157,6 +157,7 @@ Agent: update this file when you confirm earnings or known catalysts. Owner can 
 | Reported | PG | FY26 / Q4 printed Jul 29 | Chairman Jejurikar effective Aug 1 |
 | Reported | HSY | Q2’26 printed Jul 30 | Volume elasticity watch |
 | Reported | SPCX | Q2’26 printed Aug 4 | First public print; unlock Aug 6 |
+| Reported | SPCX | Q3’26 printed Oct 20 | Beat + profit; unlock watch Oct 22/26 |
 
 ## Macro watches
 
