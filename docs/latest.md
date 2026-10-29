@@ -1,58 +1,58 @@
-# Portfolio brief — 2026-10-28
+# Portfolio brief — 2026-10-29
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** US cash **open** (~10:30 ET Wed) — **FOMC decision/presser ~2pm ET** still ahead; **ODFL Q3 printed BMO** (beat, stock sold off). Marks as-of **2026-10-28** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Tue Oct 27 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Tue Oct 27** (Yahoo).
+**Session:** US cash **open** (~10:30 ET Thu) — **Sep PCE + Q3 GDP printed**; **FOMC hold printed Wed**; **Freddie PMMS noon ET still pending**; **SAIA Q3 printed BMO**; **TSLA SO Oct 30** tomorrow. Marks as-of **2026-10-29** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Wed Oct 28 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Wed Oct 28** (Yahoo).
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Asia/HK:** Nikkei **63,954.19 (+1.08%)**; HSI **23,094.83 (+0.23%)**; Shanghai **3,681.47 (+0.91%)**; Kospi **6,012.44 (+6.63%)** — SK hynix record print / AI bid led Seoul; HK/China firmer after Tue soft ([RTHK](https://news.rthk.hk/rthk/en/component/k2/1875652-20261028.htm); [Yonhap](https://en.yna.co.kr/view/AEN20261028008052320); [China Daily HK](https://www.chinadailyhk.com/hk/article/641825)).
-- **US tape frame:** Mild futures into Fed day; mega-cap earnings still rolling ([CNBC Fed live](https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html)).
-- **Rates / vol / oil:** US10Y ~**5.01%**; VIX ~**17.3**; WTI ~**$102** / Brent ~**$112** ([Yahoo ^TNX/^VIX/CL=F](https://finance.yahoo.com/)). Street leans **hold** at **3.75–4.00%** (~90–95%); Dec hike still live; Sep PCE due **Thu** ([Reuters/Investing](https://www.investing.com/news/economy-news/fed-likely-to-go-into-waitandsee-mode-on-rates-4978243); [Fed calendar](https://www.federalreserve.gov/newsevents/2026-october.htm)).
+- **Asia/HK (Thu):** Nikkei **64,659.47 (+1.10%)**; HSI **22,958.65 (−0.59%)**; Shanghai **3,651.43 (−0.82%)**; Kospi **5,937.66 (−1.24%)** — Japan led; HK/China/Korea soft on AI/Samsung tone ([Baystreet](https://www.baystreet.ca/foreignmarketwrap/5052/Markets-in-Asia-Punished); [China Daily HK](https://www.chinadailyhk.com/hk/article/641889); [Yonhap](https://en.yna.co.kr/view/AEN20261029009700320)).
+- **US tape frame:** Post-Fed **hold**, mega-cap AI jitters (Alphabet soft) drag NQ while breadth/small-caps firmer ([Yahoo live](https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html); [AP](https://apnews.com/article/stocks-markets-ai-oil-fed-1b5c71d31b4ce1e46b0db47b33141f6b)).
+- **Rates / vol / oil:** US10Y ~**4.99%**; VIX ~**16.7**; WTI ~**$101** ([Yahoo ^TNX/^VIX/CL=F](https://finance.yahoo.com/)). FOMC **10–2 hold** at **3.75–4.00%** (Cook/Hammack preferred hike); Dec path still open ([Fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm); [CNBC](https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html)).
 
 ## US premarket
 
-Cash already open — table uses **session % vs Tue close**. Book-relevant: **ODFL −5.9%** post-print (LTL soft with it); **SPCX/TSLA** give back yesterday’s theme bid; **COST** soft with staples.
+Cash already open — table uses **session % vs Wed close**. Book-relevant: **ODFL** still soft vs **SAIA** peer print; **LEN** green with builders; **NQ** soft on AI/mega-cap, **RTY** bid.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | +0.13 |
-| NQ | Nasdaq 100 futures | +0.06 |
-| YM | Dow futures | +0.22 |
-| RTY | Russell 2000 futures | +0.15 |
-| UNH | UnitedHealth | +0.75 |
-| COST | Costco | -1.04 |
-| ODFL | Old Dominion | -5.87 |
-| TSLA | Tesla | -2.04 |
-| LEN | Lennar | +0.23 |
-| PG | Procter & Gamble | -0.21 |
-| HSY | Hershey | -0.45 |
-| SPCX | SPCX ETF | -2.99 |
+| ES | S&P 500 futures | -0.40 |
+| NQ | Nasdaq 100 futures | -1.31 |
+| YM | Dow futures | -0.35 |
+| RTY | Russell 2000 futures | +1.13 |
+| UNH | UnitedHealth | +0.28 |
+| COST | Costco | +0.46 |
+| ODFL | Old Dominion | -1.97 |
+| TSLA | Tesla | +0.53 |
+| LEN | Lennar | +1.20 |
+| PG | Procter & Gamble | +0.49 |
+| HSY | Hershey | -0.11 |
+| SPCX | SPCX ETF | -0.34 |
 
 ## Money flow / sector rotation
 
-Last **full session Tue Oct 27** (Yahoo dated closes). Tech led into Fed; energy/staples lagged.
+Last **full session Wed Oct 28** (Yahoo dated closes). Tech led Fed day; utilities/REITs lagged.
 
-- **Leaders (Tue):** **XLK (Technology) +1.70%**, **XLB (Materials) +0.78%**, **XLU (Utilities) +0.71%**.
-- **Laggards (Tue):** **XLE (Energy) −2.05%**, **XLP (Consumer Staples) −0.92%**, **XLRE (Real Estate) −0.84%**.
-- **~5-day (thru Tue):** **XLU +2.32%** / **XLK +2.18%** lead; **XLC (Communication Services) −6.00%** lag.
-- **Style (Tue):** **IWF (growth) +1.12%** / **IWD (value) +0.06%**; **IWM (small caps) +1.15%**.
+- **Leaders (Wed):** **XLK (Technology) +0.80%**, **XLF (Financials) +0.45%**, **XLI (Industrials) +0.34%**.
+- **Laggards (Wed):** **XLU (Utilities) −0.84%**, **XLRE (Real Estate) −0.73%**, **XLC (Communication Services) −0.42%**.
+- **~5-day (thru Wed):** **IWM (small caps) +1.74%** / **XLK +1.30%** lead; **XLC −5.35%** lag.
+- **Style (Wed):** **IWF (growth) +0.62%** / **IWD (value) +0.08%**; **IWM +0.40%**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Tue XLK bid ≠ today’s high-beta giveback; soft XLP hits COST/PG/HSY; XLRE soft keeps LEN rates-sensitive; XLI modest ≠ ODFL post-print washout.
+- **Book map:** Wed XLK bid ≠ today’s NQ AI washout; soft XLRE keeps LEN rates-sensitive into Freddie; XLI modest ≠ ODFL post-print lag vs SAIA.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | +1.04 | -0.04 |
-| XLP | Consumer Staples | -0.92 | -0.68 |
-| XLE | Energy | -2.05 | +0.35 |
-| XLF | Financials | -0.25 | +0.29 |
-| XLV | Health Care | -0.06 | -0.36 |
-| XLI | Industrials | +0.57 | +0.67 |
-| XLB | Materials | +0.78 | +1.07 |
-| XLRE | Real Estate | -0.84 | +0.14 |
-| XLK | Technology | +1.70 | +2.18 |
-| XLU | Utilities | +0.71 | +2.32 |
-| XLC | Communication Services | -0.26 | -6.00 |
+| XLY | Consumer Discretionary | -0.10 | -0.17 |
+| XLP | Consumer Staples | -0.36 | -0.31 |
+| XLE | Energy | +0.35 | +0.43 |
+| XLF | Financials | +0.45 | +0.16 |
+| XLV | Health Care | +0.30 | +0.44 |
+| XLI | Industrials | +0.34 | +0.11 |
+| XLB | Materials | +0.15 | +1.05 |
+| XLRE | Real Estate | -0.73 | +0.17 |
+| XLK | Technology | +0.80 | +1.30 |
+| XLU | Utilities | -0.84 | +1.17 |
+| XLC | Communication Services | -0.42 | -5.35 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -71,100 +71,107 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/TSLA ≈ **53.5%** (under soft top-3 **60%**). Cyclical **~25.8%**, staples **~35%**, high-beta **~19.1%** (under soft thematic **20%**). No hard single-name breach. MV ≈ **$30,927**.
-- **Underwater vs cost:** LEN **−25.5%**, HSY **−9.9%**, SPCX **−3.9%**. TSLA still green (**+10.5%**).
-- **Peer divergences:** **ODFL** underperforms **XPO/SAIA** on print day (see KPI). **UNH** still green vs flat/soft **ELV/CI**. **SPCX** soft vs milder **ARKX/UFO** giveback. Builders co-quiet (LEN ≈ DHI/PHM). COST soft with WMT/BJ — industry staples, not idio.
-- **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX/ODFL. HSY valuation leg clears — still **no Consider** (soft size + FOMC/Freddie/SO cluster).
+- **Bands:** UNH/COST/ODFL ≈ **52.9%** (under soft top-3 **60%**). Cyclical **~25.3%**, staples **~35%**, high-beta **~19.4%** (near soft thematic **20%**). No hard single-name breach. MV ≈ **$30,792**.
+- **Underwater vs cost:** LEN **−25.9%**, HSY **−10.3%**, SPCX **−3.6%**. TSLA still green (**+12.5%**).
+- **Peer divergences:** **ODFL** soft vs **SAIA** post-print bid (see KPI); **XPO** also soft with ODFL. **SPCX** soft vs greener **ARKX/UFO**. Builders co-green (LEN ≈ DHI/PHM). UNH/COST co-quiet with peers.
+- **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX/ODFL/UNH. HSY valuation leg clears — still **no Consider** (soft size + Freddie/SO cluster).
 
 ## Leading indicators (book map)
 
-- **ODFL Q3 printed:** EPS **$1.65** (cons. ~**$1.61**); rev **$1.591B (+13.1%)**; OR **71.5%**; LTL tons/day **−0.1%**; rev/cwt **+13.3%** (**+5.1%** ex-fuel); Sep tons YoY up ([ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/354/old-dominion-freight-line-reports-third-quarter-2026); [Yahoo/Zacks](https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-odfl-113505518.html)).
-- **FOMC / rates:** Decision ~**2pm ET** still live; CME/Kalshi lean hold; Freddie next **Oct 29** (last print see prior KPI) ([CNBC](https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html); [Freddie Mac](https://www.freddiemac.com/pmms)).
-- **TSLA:** SO replies still due **Oct 30** ([EVwire](https://evwire.com/p/nhtsa-tesla-cybercab-fmvss-special-order-extension-october-30)).
-- **SPCX:** Day-135 digest ongoing; next remainder **Dec 8** (~**798M**) ([Panke unlocks](https://tape.panke.app/unlocks)).
+- **Sep PCE printed:** MoM **+0.5%** / YoY **+3.6%**; core **+0.3%** / **+3.1%**; income **+0.2%**; spending **+0.5%** ([BEA](https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026); [CNBC](https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html)).
+- **Q3 GDP advance:** **+3.4%** SAAR ([BEA GDP](https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026)).
+- **FOMC printed:** Hold **3.75–4.00%**, **10–2** (Cook/Hammack hike dissent); “inflation remains elevated” ([Fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)).
+- **Freddie:** noon ET **pending** (last print see prior KPI) ([Freddie Mac](https://www.freddiemac.com/pmms)).
+- **SAIA Q3 printed:** EPS **$3.41**; rev **$982.5M (+17%)**; LTL tons/day **+8.9%**; OR **87.6%**; **$250M** buyback auth ([Saia/GlobeNewswire](https://www.globenewswire.com/news-release/2026/10/29/3391146/0/en/saia-reports-third-quarter-2026-results.html)).
+- **ODFL:** still digesting Wed print (flat tons/day vs yield beat) — see prior KPI / IR.
+- **TSLA:** SO replies due **Oct 30** ([EVwire](https://evwire.com/p/nhtsa-tesla-cybercab-fmvss-special-order-extension-october-30)).
+- **SPCX:** Day-135 digest; next remainder **Dec 8** (~**798M**) ([Panke unlocks](https://tape.panke.app/unlocks)).
 - **UNH / Fairview:** Justia docket still **no PI/TRO order text** after Oct 2 filings; AEP open ([Justia](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)).
-- **HSY / cocoa:** CC=F ~**$5,473** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **HSY / cocoa:** CC=F ~**$5,435** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
 - **COST:** no material new membership/traffic KPI.
 
 ## What needs attention today
 
-- **FOMC ~2pm** — Warsh presser for Dec-path / housing language; LEN Review into Freddie tomorrow.
-- **ODFL post-print** — beat on yield/OR but flat tons + stock washout vs peers; Watch digest, not size (Mid P/S).
-- **High-beta giveback** — TSLA/SPCX soft; sleeve still near soft thematic max into SO **Oct 30**.
-- **UNH Fairview** — session RS ≠ lawsuit clearance.
-- Quiet: COST Mid/High; HSY Gate Yes soft-size only; PG ballast.
+- **Freddie noon** — LEN Review into post-Fed/PCE mortgage print; sticky rates still the housing falsifier.
+- **ODFL vs SAIA** — peer tonnage/OR contrast after ODFL washout; Watch digest, not size (Mid P/S).
+- **TSLA SO Oct 30** — high-beta near soft thematic max into binary regulatory reply.
+- **PCE/GDP after FOMC hold** — Dec hike path still live; do not treat hold as LEN clearance.
+- Quiet: COST Mid/High; HSY Gate Yes soft-size only; UNH Fairview still open; PG ballast.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
 | UNH | Hold | Watch | Watch | Fairview/AEP still unresolved |
-| COST | Hold | Hold | Hold | Mid/High; staples soft |
-| ODFL | Watch | Watch | Watch | Post-print digest into FOMC |
-| TSLA | Watch | Watch | Watch | Giveback; SO Oct 30 |
-| LEN | Review | Review | Review | Into FOMC/Freddie; P/E blocks |
-| PG | Hold | Hold | Hold | Staples soft; ballast |
-| HSY | Watch | Watch | Watch | Soft tape; Gate soft size |
-| SPCX | Watch | Watch | Watch | Theme giveback; Dec 8 ahead |
+| COST | Hold | Hold | Hold | Mid/High; quiet tape |
+| ODFL | Watch | Watch | Watch | Peer SAIA contrast; Mid P/S |
+| TSLA | Watch | Watch | Watch | SO Oct 30; near soft max |
+| LEN | Review | Review | Review | Into Freddie; P/E blocks |
+| PG | Hold | Hold | Hold | Staples ballast |
+| HSY | Watch | Watch | Watch | Soft; Gate soft size only |
+| SPCX | Watch | Watch | Watch | Theme lag; Dec 8 ahead |
 
 ## Position notes (fundamental lens)
 
-### ODFL — printed, Watch digest
-EPS/rev beat with OR improvement and yield discipline; tons/day essentially flat and stock lags XPO/SAIA — reaction risk into FOMC, not cycle-kill on face. **Mid P/S — gate fails.**
+### ODFL — Watch vs SAIA peer print
+Wed beat on yield/OR with flat tons; today’s **SAIA** record tons (+8.9%) and buyback bid widen the relative gap — digest risk, not a cycle-kill on face. **Mid P/S — gate fails.**
 
-### LEN — Review into FOMC/Freddie
-Mild green with builders; rates path still the thesis falsifier. **Fwd P/E High — gate fails.**
+### LEN — Review into Freddie noon
+Builders green post-Fed hold, but hotter PCE + hike dissent keep higher-for-longer live. **Fwd P/E High — gate fails.**
 
-### TSLA / SPCX — giveback ≠ clearance
-Theme unwind after Mon–Tue bid; SO **Oct 30** and Dec 8 unlock still bind. **Gates fail.**
+### TSLA / SPCX — SO still binds
+Mild TSLA green ≠ clearance; SPCX soft vs theme peers into Dec 8. **Gates fail.**
 
 ### UNH — Fairview still open
-Outperforms ELV/CI; Justia still lacks PI/TRO text. Soft-max size + litigation Watch bind. **Gate fails on size/thesis.**
+Quiet session; Justia still lacks PI/TRO text. Soft-max size + litigation Watch bind. **Gate fails on size/thesis.**
 
-**No material update:** COST/PG (staples soft; HSY Gate Yes soft size only).
+**No material update:** COST/PG (quiet; HSY Gate Yes soft size only).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **FOMC today, Freddie Oct 29, and TSLA Oct 30 SO**, with **LEN Review** and **Hold policy** on size. Why: Fed messaging dominates the rates/housing sleeve while ODFL’s beat-and-selloff is an industrial digest that does not clear Mid P/S or event rules; high-beta is giving back but still sits near the soft thematic band without valuation clearance (see valuation Gate + KPI ODFL/Freddie). Falsifier: FOMC does not re-tighten housing falsifiers *and* Freddie/10y ease with LEN reclaiming peer strength and P/E band not High *and* ODFL tons/yield stabilize vs peers *and* TSLA SO passes without kill-edge — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **Freddie noon today and TSLA Oct 30 SO**, with **LEN Review** and **Hold policy** on size. Why: FOMC hold does not retire Dec-hike / housing falsifiers after hotter PCE, while ODFL’s peer lag vs SAIA is an industrial digest that still fails Mid P/S; high-beta sits near the soft thematic band without valuation clearance (see valuation Gate + KPI PCE/Freddie/SAIA). Falsifier: Freddie/10y ease with LEN reclaiming peer strength and P/E band not High *and* ODFL stabilizes vs SAIA/XPO *and* TSLA SO passes without kill-edge — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** FOMC statement/presser ~2pm ET for hold vs hawkish Dec path and housing language. Evidence: Fed calendar + CNBC live. Confidence: **High**. Falsifier: surprise hike *or* Warsh language that re-tightens LEN falsifiers into Freddie.
+1. **[Watch]** Freddie Mac PMMS noon ET for post-Fed/PCE mortgage path into LEN Review. Evidence: Freddie calendar + PCE/Fed prints. Confidence: **High**. Falsifier: print eases *and* 10y follows with LEN peer RS *or* spikes and re-tightens housing falsifiers.
 
-2. **[Watch]** ODFL post-print digest vs XPO/SAIA; no size change on Mid P/S. Evidence: ODFL IR tons/yield + session table. Confidence: **High**. Falsifier: call/guidance that shows sustained tonnage break *or* share loss vs peers that trips cycle kill.
+2. **[Watch]** ODFL digest vs SAIA tons/OR/buyback print; no size change on Mid P/S. Evidence: Saia IR + session peer table. Confidence: **High**. Falsifier: ODFL guidance/peer share loss that trips cycle kill *or* tons/yield re-align with SAIA RS.
 
-3. **[Review]** LEN thesis/size into Freddie Oct 29 / post-FOMC rates; Hold high-beta through SO Oct 30. Evidence: valuation Gate + Freddie/SO calendars. Confidence: **Med**. Falsifier: mortgage/10y ease *and* fwd P/E band not High with peer RS *and* SO clears without Cybercab kill-edge.
+3. **[Review]** LEN thesis/size after Freddie; Hold high-beta through SO Oct 30. Evidence: valuation Gate + SO calendar. Confidence: **Med**. Falsifier: mortgage/10y ease *and* fwd P/E band not High with peer RS *and* SO clears without Cybercab kill-edge.
 
 ## Explicit non-actions
 
-- Do not average-down ODFL on the print selloff (Mid P/S + FOMC same day).
-- Do not treat TSLA/SPCX giveback, UNH peer RS, or LEN mild green as Add clearance (gates fail; SO/Freddie still live).
-- Do not size-tilt **HSY** on Gate Yes while FOMC/Freddie/SO cluster is live.
+- Do not average-down ODFL on the continued washout (Mid P/S + SAIA contrast ≠ Add).
+- Do not treat FOMC hold, LEN green, or TSLA mild bounce as Add clearance (gates fail; Freddie/SO still live).
+- Do not size-tilt **HSY** on Gate Yes while Freddie/SO cluster is live.
 
 ## Delta vs yesterday
 
-- **ODFL Q3 printed** — beat on EPS/rev/OR; stock hard red vs LTL peers; focus shifts from print-eve → digest + FOMC.
-- **Asia:** Kospi surge on SK hynix; Nikkei/HSI firmer after Tue HK soft.
-- **Book tape:** high-beta giveback (SPCX/TSLA); COST deeper soft; LEN mild green into Fed.
+- **FOMC printed hold (10–2)**; focus shifts to **PCE/Freddie/SO** digest.
+- **Sep PCE + Q3 GDP printed**; NQ soft on AI/Alphabet while RTY/builders firmer.
+- **SAIA printed** with strong tons — widens ODFL relative underperformance story.
 
 ## Open questions for next run
 
-1. FOMC statement/presser: hold vs dissent path, and any housing/rates language that re-falsifies LEN into Freddie Oct 29?
-2. ODFL call follow-through: any guidance tone or peer (SAIA Oct 29) divergence after today’s washout?
-3. Any Fairview PI/TRO order text, or TSLA SO filing confirmation ahead of Oct 30?
+1. Freddie Oct 29 print: level vs prior **7.32%**, and does LEN peer RS hold after the noon release?
+2. Any public confirmation of TSLA Cybercab SO filing/extension outcome on/after Oct 30?
+3. Any Fairview PI/TRO order text, or ODFL call/guidance tone that closes the SAIA tonnage gap narrative?
 
 ## Sources
 
-- [RTHK — Asia tech bid; HSI +0.23% Oct 28](https://news.rthk.hk/rthk/en/component/k2/1875652-20261028.htm)
-- [Yonhap — Kospi +6.63% on SK hynix](https://en.yna.co.kr/view/AEN20261028008052320)
-- [China Daily HK — HSI close Oct 28](https://www.chinadailyhk.com/hk/article/641825)
-- [CNBC — Fed meeting live updates Oct 28](https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html)
-- [Reuters/Investing — Fed likely wait-and-see](https://www.investing.com/news/economy-news/fed-likely-to-go-into-waitandsee-mode-on-rates-4978243)
-- [Federal Reserve — October 2026 calendar](https://www.federalreserve.gov/newsevents/2026-october.htm)
-- [ODFL IR — Q3 2026 results](https://ir.odfl.com/news-events/press-releases/detail/354/old-dominion-freight-line-reports-third-quarter-2026)
-- [Yahoo/Zacks — ODFL beat vs $1.61](https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-odfl-113505518.html)
+- [Baystreet — Asia Oct 29 (Nikkei/HSI/Kospi)](https://www.baystreet.ca/foreignmarketwrap/5052/Markets-in-Asia-Punished)
+- [China Daily HK — HSI −0.59% Oct 29](https://www.chinadailyhk.com/hk/article/641889)
+- [Yonhap — Kospi close Oct 29](https://en.yna.co.kr/view/AEN20261029009700320)
+- [Fed — FOMC statement Oct 28](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
+- [CNBC — Warsh/Dec-path analysis Oct 29](https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html)
+- [BEA — Personal Income and Outlays Sep 2026](https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026)
+- [BEA — GDP advance Q3 2026](https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026)
+- [CNBC — PCE/GDP Oct 29](https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html)
+- [Yahoo — US session live (Alphabet/AI)](https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html)
+- [AP — Alphabet drag / market lower](https://apnews.com/article/stocks-markets-ai-oil-fed-1b5c71d31b4ce1e46b0db47b33141f6b)
+- [Saia/GlobeNewswire — Q3 2026 results](https://www.globenewswire.com/news-release/2026/10/29/3391146/0/en/saia-reports-third-quarter-2026-results.html)
 - [EVwire — TSLA NHTSA SO due Oct 30](https://evwire.com/p/nhtsa-tesla-cybercab-fmvss-special-order-extension-october-30)
 - [Panke — SPCX unlock calendar](https://tape.panke.app/unlocks)
 - [Justia — Fairview v. UnitedHealthcare docket 26-cv-4245](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)
-- [Freddie Mac — PMMS (next Oct 29)](https://www.freddiemac.com/pmms)
+- [Freddie Mac — PMMS (noon Oct 29 pending)](https://www.freddiemac.com/pmms)
 - [Yahoo Finance — session % / futures / sectors / KPIs](https://finance.yahoo.com/)
