@@ -1,18 +1,18 @@
 # Holdings
 
 Qty and cost from last broker snapshot; Price / MV / Weight / P&L refreshed from Yahoo each run.
-**Marks as-of:** 2026-11-02 · **Qty/cost as-of:** 2026-08-02 · Currency: USD · Total MV ≈ **$31,337**
+**Marks as-of:** 2026-11-03 · **Qty/cost as-of:** 2026-08-02 · Currency: USD · Total MV ≈ **$31,369**
 
 | Ticker | Name | Qty | Price | Cost/sh | MV ($) | Weight | P&L vs cost | Tags | Thesis (1 line) | Kill / review if |
 |--------|------|-----|-------|---------|--------|--------|-------------|------|-----------------|------------------|
-| UNH | UnitedHealth | 15 | 406.08 | 309.944 | 6,091.20 | 19.4% | +31.0% | healthcare, managed-care, US, large-cap | Quality compounder in US healthcare; watch policy & utilization | Structural margin break, adverse CMS/regulatory shock, thesis-breaking litigation |
-| COST | Costco | 6 | 1020.62 | 934.657 | 6,123.69 | 19.5% | +9.2% | consumer-staples, retail, membership, US, large-cap | Membership moat + traffic; long-duration compounder | Membership/traffic deterioration, sustained gross-margin collapse |
-| ODFL | Old Dominion Freight Line | 25 | 175.43 | 157.267 | 4,385.75 | 14.0% | +11.5% | industrials, trucking, LTL, cyclical, US | Best-in-class LTL; cycle + share gains | Sustained tonnage/price weakness, share loss to peers |
-| TSLA | Tesla | 11.179 | 408.53 | 361.10 | 4,566.96 | 14.6% | +13.1% | auto, EV, tech-adjacent, high-beta, US | Optional growth/AI narrative; size as satellite, not core | Repeated delivery misses + margin collapse without offsetting energy/AI story |
-| LEN | Lennar | 42 | 88.61 | 113.824 | 3,721.70 | 11.9% | −22.2% | homebuilder, rates-sensitive, US, cyclical | Housing cycle / rates bet; underwater — needs thesis refresh | Higher-for-longer rates + order cancelations, land impairments |
+| UNH | UnitedHealth | 15 | 399.19 | 309.944 | 5,987.77 | 19.1% | +28.8% | healthcare, managed-care, US, large-cap | Quality compounder in US healthcare; watch policy & utilization | Structural margin break, adverse CMS/regulatory shock, thesis-breaking litigation |
+| COST | Costco | 6 | 1033.17 | 934.657 | 6,199.02 | 19.8% | +10.5% | consumer-staples, retail, membership, US, large-cap | Membership moat + traffic; long-duration compounder | Membership/traffic deterioration, sustained gross-margin collapse |
+| ODFL | Old Dominion Freight Line | 25 | 177.44 | 157.267 | 4,436.12 | 14.1% | +12.8% | industrials, trucking, LTL, cyclical, US | Best-in-class LTL; cycle + share gains | Sustained tonnage/price weakness, share loss to peers |
+| TSLA | Tesla | 11.179 | 403.28 | 361.10 | 4,508.27 | 14.4% | +11.7% | auto, EV, tech-adjacent, high-beta, US | Optional growth/AI narrative; size as satellite, not core | Repeated delivery misses + margin collapse without offsetting energy/AI story |
+| LEN | Lennar | 42 | 89.27 | 113.824 | 3,749.34 | 12.0% | −21.6% | homebuilder, rates-sensitive, US, cyclical | Housing cycle / rates bet; underwater — needs thesis refresh | Higher-for-longer rates + order cancelations, land impairments |
 | PG | Procter & Gamble | 22 | 162.51 | 141.55 | 3,575.22 | 11.4% | +14.8% | consumer-staples, defensive, FX-sensitive, US, large-cap | Defensive cash-flow ballast | Volume decline + pricing fatigue, major brand share loss |
-| HSY | Hershey | 9 | 167.32 | 181.77 | 1,505.88 | 4.8% | −7.9% | consumer-staples, cocoa-input, US | Brand snack name; cocoa/input-cost sensitive | Cocoa spike without pricing power, category weakness |
-| SPCX | AXS Space Priority ETF | 10 | 136.64 | 150.00 | 1,366.40 | 4.4% | −8.9% | thematic, space, ETF, high-risk | Thematic SpaceX/space exposure via ETF (not direct SpaceX equity) | Thesis failure on space theme, structural underperformance vs peers |
+| HSY | Hershey | 9 | 169.40 | 181.77 | 1,524.56 | 4.9% | −6.8% | consumer-staples, cocoa-input, US | Brand snack name; cocoa/input-cost sensitive | Cocoa spike without pricing power, category weakness |
+| SPCX | AXS Space Priority ETF | 10 | 138.87 | 150.00 | 1,388.65 | 4.4% | −7.4% | thematic, space, ETF, high-risk | Thematic SpaceX/space exposure via ETF (not direct SpaceX equity) | Thesis failure on space theme, structural underperformance vs peers |
 
 ## Portfolio notes
 
