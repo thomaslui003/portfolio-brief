@@ -1,58 +1,58 @@
-# Portfolio brief — 2026-11-04
+# Portfolio brief — 2026-11-05
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** US cash **open** (~09:35 ET Wed) — **post-midterm digestion** after Democratic House+Senate sweep; overnight futures whipsaw then rebound. Marks as-of **2026-11-04** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Tue Nov 3 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Tue Nov 3** (Yahoo).
+**Session:** US cash **open** (~09:35 ET Thu) — post-midterm day-2 digestion; Dow/value bid vs NQ/chips soft. Marks as-of **2026-11-05** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Wed Nov 4 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Wed Nov 4** (Yahoo). Freddie PMMS **pending noon ET**.
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Asia/HK (Wed):** Nikkei **62,188.63 (−1.42%)** (tech soft); HSI **23,919.50 (+1.67%)**; Shanghai **+2.16%**; Kospi **+0.62%** — HK/China bid vs Japan AI washout into US election clarity ([Xinhua](https://english.news.cn/20261104/cdb0ac40eca04710814fc63d6ada1836/c.html); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1876550-20261104.htm); [Nikkei Indexes](https://indexes.nikkei.co.jp/nkave/archives/data)).
-- **US tape frame:** Divided-government bid after Democrats take House+Senate; early NQ plunge recovered; AI/data-center restriction narrative still a drag on chips ([Yahoo](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html); [AP](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182); [NBC](https://www.nbcnews.com/business/markets/stock-futures-blue-tsunami-ai-boom-rcna607351)).
-- **Rates / vol / oil:** US10Y ~**4.92%**; VIX ~**18** (vol crush vs Tue ~21); WTI ~**$93** / Brent ~**$100** ([Yahoo ^TNX/^VIX/CL=F](https://finance.yahoo.com/)).
+- **Asia/HK (Thu):** Nikkei **61,077.90 (−1.79%)** (AI/chip wash); HSI **24,796.98 (+3.67%)**; Shanghai **+0.10%**; Kospi **−5.28%** — HK/China bid vs Japan/Korea semiconductor risk-off ([Yonhap Infomax](https://en.infomaxai.com/news/articleView.html?idxno=147190); [RTHK](https://news.rthk.hk/rthk/en/component/k2/1876679-20261105.htm); [MarketWatch](https://www.marketwatch.com/data-news/hong-kong-stocks-rally-as-nikkei-225-falls-6f275b00-ff2b5be3204a)).
+- **US tape frame:** Mixed open after Wed relief rally — Dow firm / Nasdaq soft on semis & AI-capex scrutiny post Democratic sweep ([Yahoo](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html); [Reuters/Investing](https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237); [Barron’s](https://www.barrons.com/livecoverage/stock-market-news-today-110526)).
+- **Rates / vol / oil / labor:** US10Y ~**4.91%**; VIX ~**17**; WTI ~**$90** / Brent ~**$96** (oil rebound after Wed plunge); Challenger Oct job cuts **43,994** (lowest Oct since 2023) into Fri employment ([Yahoo ^TNX/^VIX/CL=F](https://finance.yahoo.com/); [Challenger](https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/)).
 
 ## US premarket
 
-Cash open — table uses **session % vs Tue close**. Book-relevant: **LEN** hard green with builders on election/rates repricing; **TSLA/SPCX** soft with high-beta/AI narrative; **UNH** idio red vs managed-care peers; staples/ODFL firm.
+Cash open — table uses **session % vs Wed close**. Book-relevant: **TSLA/SPCX** extend high-beta soft with NQ; **LEN** still green with builders into Freddie noon; staples/ODFL firm; **UNH** mild green but still trails managed-care peers.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | +1.24 |
-| NQ | Nasdaq 100 futures | +0.54 |
-| YM | Dow futures | +2.24 |
-| RTY | Russell 2000 futures | +1.87 |
-| UNH | UnitedHealth | -2.71 |
-| COST | Costco | +1.29 |
-| ODFL | Old Dominion | +2.19 |
-| TSLA | Tesla | -5.18 |
-| LEN | Lennar | +8.12 |
-| PG | Procter & Gamble | +1.86 |
-| HSY | Hershey | +2.89 |
-| SPCX | SPCX ETF | -5.22 |
+| ES | S&P 500 futures | -0.12 |
+| NQ | Nasdaq 100 futures | -1.19 |
+| YM | Dow futures | +0.48 |
+| RTY | Russell 2000 futures | +0.09 |
+| UNH | UnitedHealth | +0.66 |
+| COST | Costco | +1.83 |
+| ODFL | Old Dominion | +1.03 |
+| TSLA | Tesla | -5.00 |
+| LEN | Lennar | +2.66 |
+| PG | Procter & Gamble | +1.06 |
+| HSY | Hershey | +1.40 |
+| SPCX | SPCX ETF | -4.02 |
 
 ## Money flow / sector rotation
 
-Last **full session Tue Nov 3** (Yahoo). Midterm-eve tape favored tech/comms/industrials; staples/materials lagged into today’s value/builders rebound.
+Last **full session Wed Nov 4** (Yahoo). Election-relief rotation favored discretionary/value/staples/healthcare; energy sold with oil; tech flat on the day but still the 5-day laggard.
 
-- **Leaders (Tue):** **XLK (Technology) +1.31%**, **XLC (Communication Services) +1.18%**, **XLI (Industrials) +0.95%**.
-- **Laggards (Tue):** **XLP (Consumer Staples) −2.07%**, **XLB (Materials) −2.01%**, **XLE (Energy) −0.85%**.
-- **~5-day (thru Tue):** **XLRE (Real Estate) +2.90%** / **XLV (Health Care) +2.70%** / **XLF (Financials) +2.34%** lead; **XLK −6.85%** / **XLE −2.24%** / **XLC −2.07%** lag.
-- **Style (Tue):** **IWF (growth) +1.05%** / **IWD (value) −0.30%**; **IWM (small caps) +0.23%**.
+- **Leaders (Wed):** **XLY (Consumer Discretionary) +4.26%**, **XLF (Financials) +3.51%**, **XLC (Communication Services) +3.47%**.
+- **Laggards (Wed):** **XLE (Energy) −4.74%**, **XLI (Industrials) −1.09%**, **XLK (Technology) −0.01%**.
+- **~5-day (thru Wed):** **XLY +5.28%** / **XLRE (Real Estate) +4.78%** / **XLP (Consumer Staples) +4.26%** lead; **XLE −7.55%** / **XLK −6.49%** lag.
+- **Style (Wed):** **IWD (value) +2.60%** / **IWM (small caps) +1.51%** / **IWF (growth) +0.39%**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Tue XLK/XLC did not clear today’s TSLA/SPCX wash; Wed builder/staples bid maps to LEN/COST/PG/HSY without clearing Average-down gates.
+- **Book map:** Wed bid maps to LEN/COST/PG/HSY/XLV without clearing Average-down gates; Thu NQ soft keeps TSLA/SPCX Watch.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | -0.70 | +1.63 |
-| XLP | Consumer Staples | -2.07 | +2.07 |
-| XLE | Energy | -0.85 | -2.24 |
-| XLF | Financials | -0.64 | +2.34 |
-| XLV | Health Care | -0.31 | +2.70 |
-| XLI | Industrials | +0.95 | +2.02 |
-| XLB | Materials | -2.01 | +1.56 |
-| XLRE | Real Estate | +0.07 | +2.90 |
-| XLK | Technology | +1.31 | -6.85 |
-| XLU | Utilities | -0.57 | +1.33 |
-| XLC | Communication Services | +1.18 | -2.07 |
+| XLY | Consumer Discretionary | +4.26 | +5.28 |
+| XLP | Consumer Staples | +3.36 | +4.26 |
+| XLE | Energy | -4.74 | -7.55 |
+| XLF | Financials | +3.51 | +3.97 |
+| XLV | Health Care | +3.06 | +3.05 |
+| XLI | Industrials | -1.09 | -0.39 |
+| XLB | Materials | +2.49 | +2.61 |
+| XLRE | Real Estate | +3.32 | +4.78 |
+| XLK | Technology | -0.01 | -6.49 |
+| XLU | Utilities | +0.44 | +1.09 |
+| XLC | Communication Services | +3.47 | +3.71 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -71,38 +71,37 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **53.2%** (under soft top-3 **60%**). Cyclical **~27.0%**, staples **~36.4%**, high-beta **~17.8%** (under soft thematic **20%**). No hard single-name breach. MV ≈ **$31,292**.
-- **Underwater vs cost:** LEN **−18.2%**, SPCX **−10.7%**, HSY **−5.2%**. TSLA green (**+4.6%**).
-- **Peer divergences:** **UNH** lags **ELV/CI** on session %; **SPCX** lags **ARKX/UFO**; **TSLA** soft vs auto peers. Builders co-bid (**LEN** with **DHI/PHM**). LTL co-firm (**ODFL** mild RS vs **XPO/SAIA**).
+- **Bands:** UNH/COST/ODFL ≈ **53.8%** (under soft top-3 **60%**). Cyclical **~26.8%**, staples **~36.8%**, high-beta **~17.0%** (under soft thematic **20%**). No hard single-name breach. MV ≈ **$31,789**.
+- **Underwater vs cost:** LEN **−16.9%**, SPCX **−13.0%**, HSY **−2.7%**. TSLA green (**+1.3%**).
+- **Peer divergences:** **TSLA** hard soft vs auto peers; **SPCX** lags **ARKX/UFO**; **UNH** mild lag vs **ELV/CI**. Builders co-bid (**LEN** with **DHI/PHM**). LTL quiet co-move (**ODFL** vs **XPO**; mild RS vs soft **SAIA**).
 - **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX/ODFL/UNH. HSY valuation leg clears — still **no Consider** (soft size + elasticity Watch).
 
 ## Leading indicators (book map)
 
-- **Freddie (latest Thu Oct 29):** 30y **7.24%** / 15y **6.60%**; next PMMS **Thu Nov 5** ([Freddie Mac](https://www.freddiemac.com/pmms)).
-- **MBA mortgage apps (CNBC Wed):** purchase apps still soft YoY despite recent contract-rate ease — housing demand not cleared by election bounce alone ([CNBC](https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html)).
-- **TSLA:** Cybercab SO replies **filed by Oct 30**; Q8 certification docs under **confidentiality request** — public docket is placeholder only; no NHTSA noncompliance finding yet ([TeslaNorth](https://teslanorth.com/2026/11/03/tesla-cybercab-nhtsa-question-8-secret/); [Cybercab Collective](https://cybercabcollective.com/news/nhtsa-cybercab-audit-confidential-technical-documents)).
-- **HSY / cocoa:** elasticity Watch intact; CC=F ~**$5,305** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
-- **ISM Manufacturing (Oct):** still **55.5** / Prices **75.2** (printed Mon) — no new freight print ([PR Newswire/ISM](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html)).
+- **Freddie (latest Thu Oct 29):** 30y **7.24%** / 15y **6.60%**; **Nov 5 print pending noon ET** ([Freddie Mac](https://www.freddiemac.com/pmms)).
+- **MBA / housing demand:** purchase apps still soft YoY despite recent contract-rate ease (see Wed CNBC) — bounce ≠ cleared demand ([CNBC](https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html)).
+- **HSY / cocoa:** CC=F ~**$5,258** (softer vs Wed) — elasticity Watch intact ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **TSLA:** SO filed; Q8 CBI still opaque — no NHTSA noncompliance finding ([TeslaNorth](https://teslanorth.com/2026/11/03/tesla-cybercab-nhtsa-question-8-secret/); [TeslaNewsWire](https://teslanewswire.com/articles/tesla-cybercab-nhtsa-special-order-question-8-confidential-certification-nov-4-2026)).
+- **ISM Manufacturing (Oct):** still **55.5** / Prices **75.2** — no new freight print ([PR Newswire/ISM](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html)).
 - **SPCX:** next unlock remainder **Dec 8** (~**798M**) ([Panke unlocks](https://tape.panke.app/unlocks)).
-- **UNH / Fairview:** Justia still **no PI/TRO order text** after Oct 2 filings; AEP open ([Justia](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)).
+- **UNH / Fairview:** PI hearing canceled Oct 9 as parties worked toward resolution; still **no PI/TRO order text**; AEP open ([Trademark Support](https://trademarksupport.com/news/fairview-health-v-unitedhealthcare-medicare-advantage-network-lanham-complaint-dminn/); [Justia](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)).
 
 ## What needs attention today
 
-- **Post-midterm policy/rates digestion** into Freddie Nov 5 — builders bid ≠ Average-down clearance.
-- **LEN Review** — Wed co-move with DHI/PHM after Tue washout; P/E filter still blocks Consider.
-- **TSLA SO** — filing confirmed but Q8 CBI opacity keeps regulatory Watch; high-beta soft with SPCX.
-- **UNH** — material lag vs ELV/CI on session % with Fairview/AEP still open.
-- Quiet: COST/PG ballast; HSY Gate Yes soft-size only; ODFL Mid P/S Hold; SPCX Dec 8 overhang.
+- **Freddie noon** — LEN Review into housing-rate print; election bounce still ≠ Average-down clearance.
+- **High-beta soft** — TSLA/SPCX extend with NQ/AI rotation; Q8 CBI + Dec 8 overhang keep Watch.
+- **UNH** — mild peer lag vs ELV/CI with Fairview/AEP still open; size already soft-max adjacent.
+- Quiet: COST/PG ballast; HSY Gate Yes soft-size only; ODFL Mid P/S Hold.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
-| UNH | Hold | Watch | Watch | Idio lag; Fairview/AEP unresolved |
+| UNH | Hold | Watch | Watch | Mild peer lag; Fairview/AEP open |
 | COST | Hold | Hold | Hold | Mid/High; membership thesis intact |
-| ODFL | Hold | Hold | Hold | Mild LTL RS; Mid P/S blocks add |
-| TSLA | Watch | Watch | Watch | SO filed; Q8 CBI; AI chop |
-| LEN | Review | Review | Review | Election bounce; P/E filter intact |
+| ODFL | Hold | Hold | Hold | Quiet LTL; Mid P/S blocks add |
+| TSLA | Watch | Watch | Watch | Session soft; Q8 CBI opaque |
+| LEN | Review | Review | Review | Bounce continues; P/E filter intact |
 | PG | Hold | Hold | Hold | Staples ballast working |
 | HSY | Watch | Watch | Watch | Elasticity; Gate soft-size only |
 | SPCX | Watch | Watch | Watch | Theme lag vs peers; Dec 8 ahead |
@@ -110,13 +109,13 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 ## Position notes (fundamental lens)
 
 ### LEN — Review, not Consider
-Wed builder co-bid after Democratic sweep and softer yields does not clear fwd P/E High or soft Q3/call falsifiers. MBA purchase demand still soft — thesis refresh into Freddie Nov 5, not add. **P/E filter blocks.**
+Second session of builder co-bid after Democratic sweep does not clear fwd P/E High or soft Q3/call falsifiers. Wait Freddie noon — thesis refresh, not add. **P/E filter blocks.**
 
-### TSLA / SPCX — SO opacity + theme lag
-SO deadline met with Q8 confidentiality request (no public kill yet). SPCX underperforms ARKX/UFO on session % into Dec 8 remainder. **Gates fail (TSLA Mid/High; SPCX n/a + unlock).**
+### TSLA / SPCX — NQ soft + theme lag
+Q8 CBI still unresolved publicly; SPCX underperforms ARKX/UFO into Dec 8 remainder. **Gates fail (TSLA Mid/High; SPCX n/a + unlock).**
 
-### UNH — peer lag, Fairview still open
-Session underperformance vs ELV/CI with AEP/Fairview PI still unsourced on Justia — Watch, not size change. **Gate fails (size/thesis).**
+### UNH — Fairview still open
+Mild lag vs ELV/CI; PI path paused for talks but no sourced order — Watch, not size change. **Gate fails (size/thesis).**
 
 ### HSY — Gate Yes soft-size only
 Cocoa softer; post-Q3 price-over-volume mix keeps Watch. **No Consider.**
@@ -125,47 +124,50 @@ Cocoa softer; post-Q3 price-over-volume mix keeps Watch. **No Consider.**
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **Freddie Nov 5** and **post-midterm policy digestion**, with **LEN Review** and **Hold policy** on size. Why: election clarity bid favors builders/staples/Dow while high-beta (TSLA/SPCX) and UNH idio lag fight the book’s narrative sleeves; Average-down gates still fail (see valuation Gate + KPI Freddie/MBA/SO/HSY volume). Falsifier: Freddie/10y ease enough that LEN reclaiming peer RS with fwd P/E not High *and* SO CBI resolves without kill-edge *and* high-beta RS stabilizes — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **Freddie noon** and **post-midterm AI/rotation digestion**, with **LEN Review** and **Hold policy** on size. Why: Wed value/staples/builder bid favors parts of the book while Thu NQ soft hits TSLA/SPCX; Average-down gates still fail (see valuation Gate + KPI Freddie/SO/HSY). Falsifier: Freddie/10y ease enough that LEN reclaiming peer RS with fwd P/E not High *and* high-beta RS stabilizes without Q8 kill-edge — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** Post-midterm rates/policy tone into Freddie Nov 5 for LEN/housing sleeve; no size change on election bounce. Evidence: builder co-bid + still-closed Average-down gates. Confidence: **High**. Falsifier: mortgage/10y keep easing *and* MBA purchase demand turns with fwd P/E not High.
+1. **[Watch]** Freddie Nov 5 noon print for LEN/housing sleeve; no size change on election bounce. Evidence: builder co-bid + still-closed Average-down gates. Confidence: **High**. Falsifier: mortgage/10y keep easing *and* MBA purchase demand turns with fwd P/E not High.
 
-2. **[Review]** LEN thesis/size after Wed rebound; Hold policy — P/E filter still blocks average-down. Evidence: valuation Gate + peer co-move (not idiosyncratic reclaim). Confidence: **Med**. Falsifier: sustained peer RS with P/E band not High after Freddie print.
+2. **[Review]** LEN thesis/size after multi-day rebound; Hold policy — P/E filter still blocks average-down. Evidence: valuation Gate + peer co-move (not idiosyncratic reclaim). Confidence: **Med**. Falsifier: sustained peer RS with P/E band not High after Freddie print.
 
 3. **[Watch]** TSLA Cybercab Q8 CBI decision / any NHTSA escalation; SPCX Dec 8 overhang — no add into high-beta soft. Evidence: SO filed but public file opaque; theme lag vs ARKX/UFO. Confidence: **High**. Falsifier: Q8 materials posted without kill-edge *or* adverse NHTSA action that trips kill criteria.
 
 ## Explicit non-actions
 
-- Do not treat Wed LEN/builder bounce or staples bid as Add clearance (gates fail / HSY soft-size only).
+- Do not treat LEN/builder bounce or staples bid as Add clearance (gates fail / HSY soft-size only).
 - Do not average-down LEN or SPCX on drawdown vs cost.
-- Do not size-tilt UNH on one-day peer lag alone (Watch Fairview/AEP).
+- Do not size-tilt UNH on mild peer lag alone (Watch Fairview/AEP).
 
 ## Delta vs yesterday
 
-- **Midterms printed:** Democrats take House+Senate; overnight NQ whipsaw then rebound; builders/Dow lead, TSLA/SPCX soft.
-- **TSLA SO:** Oct 30 replies **confirmed filed** with Q8 confidentiality request (was “unconfirmed” yesterday).
-- Focus shifts to **Freddie Nov 5** + policy digestion; LEN Net stays Review on bounce; UNH idio lag vs peers new.
+- Asia: **HSI +3.67%** / Shanghai firm vs **Nikkei −1.79%** and **Kospi −5.28%** AI/chip wash (vs Wed Japan soft / HK bid).
+- Book tape: **TSLA/SPCX** extend soft with NQ; **LEN** still green with peers; UNH lag milder than Wed’s idio red.
+- Freddie still **pending noon**; Challenger Oct cuts soft-labor print into Fri employment.
 
 ## Open questions for next run
 
-1. Does Freddie **Nov 5** confirm further mortgage ease, and does LEN peer RS hold without clearing the P/E filter?
+1. What did Freddie **Nov 5** print, and did LEN peer RS hold without clearing the P/E filter?
 2. Any public NHTSA ruling on Tesla’s Q8 CBI request, or redacted SO materials posted?
-3. Any Fairview PI/TRO order text on Justia before AEP progresses further?
+3. Any Fairview PI/TRO order text or settlement headline before AEP progresses further?
 
 ## Sources
 
-- [Yahoo — Dow/S&P/Nasdaq futures after Democratic midterm sweep](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html)
-- [AP — US futures higher after Democratic midterm route](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182)
-- [NBC — Blue tsunami / AI data-center risk](https://www.nbcnews.com/business/markets/stock-futures-blue-tsunami-ai-boom-rcna607351)
-- [Xinhua — HSI +1.67% to 23,919.50 Nov 4](https://english.news.cn/20261104/cdb0ac40eca04710814fc63d6ada1836/c.html)
-- [RTHK — HK/mainland gains; Nikkei −1.42%](https://news.rthk.hk/rthk/en/component/k2/1876550-20261104.htm)
-- [Nikkei Indexes — daily closes](https://indexes.nikkei.co.jp/nkave/archives/data)
+- [Yahoo — Dow firm / Nasdaq soft Thu Nov 5](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html)
+- [Reuters/Investing — Nasdaq lag on chip weakness](https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237)
+- [Barron’s — AI rotation / Dow vs Nasdaq](https://www.barrons.com/livecoverage/stock-market-news-today-110526)
+- [Yonhap Infomax — Asia closes Nov 5](https://en.infomaxai.com/news/articleView.html?idxno=147190)
+- [RTHK — HSI +3.7% to 24,796](https://news.rthk.hk/rthk/en/component/k2/1876679-20261105.htm)
+- [MarketWatch — HSI rally / Nikkei fall](https://www.marketwatch.com/data-news/hong-kong-stocks-rally-as-nikkei-225-falls-6f275b00-ff2b5be3204a)
+- [Challenger — Oct layoffs three-year low](https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/)
+- [Freddie Mac — PMMS 7.24% Oct 29; next noon Thu](https://www.freddiemac.com/pmms)
 - [CNBC — MBA mortgage apps / purchase demand soft](https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html)
-- [Freddie Mac — PMMS 7.24% Oct 29](https://www.freddiemac.com/pmms)
+- [Yahoo — homebuilders surge post midterms](https://finance.yahoo.com/real-estate/articles/homebuilder-stocks-surge-democratic-sweep-091200039.html)
 - [TeslaNorth — SO filed; Q8 confidentiality](https://teslanorth.com/2026/11/03/tesla-cybercab-nhtsa-question-8-secret/)
-- [Cybercab Collective — NHTSA Q8 CBI notice](https://cybercabcollective.com/news/nhtsa-cybercab-audit-confidential-technical-documents)
+- [TeslaNewsWire — Q8 CBI Nov 4 digest](https://teslanewswire.com/articles/tesla-cybercab-nhtsa-special-order-question-8-confidential-certification-nov-4-2026)
+- [Trademark Support — Fairview docket status (PI hearing canceled)](https://trademarksupport.com/news/fairview-health-v-unitedhealthcare-medicare-advantage-network-lanham-complaint-dminn/)
+- [Justia — Fairview v. UnitedHealthcare 26-cv-4245](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)
 - [Panke — SPCX unlock calendar](https://tape.panke.app/unlocks)
-- [Justia — Fairview v. UnitedHealthcare docket 26-cv-4245](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)
 - [PR Newswire/ISM — Oct Manufacturing PMI 55.5](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html)
 - [Yahoo Finance — session % / futures / sectors / KPIs](https://finance.yahoo.com/)
