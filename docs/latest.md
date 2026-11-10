@@ -1,58 +1,58 @@
-# Portfolio brief — 2026-11-09
+# Portfolio brief — 2026-11-10
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** US cash **open** (~09:35 ET Mon) — post–AI-rout recovery week opener into **Oct CPI Tue**; oil softer, yields slightly easier. Marks as-of **2026-11-09** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Fri Nov 6 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Fri Nov 6** (Yahoo).
+**Session:** US cash **open** (~09:35 ET Tue) — **Oct CPI printed hot**; post-print fade after Mon rebound. Marks as-of **2026-11-10** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Mon Nov 9 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Mon Nov 9** (Yahoo).
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Asia/HK (Mon):** Nikkei **58,775.50 (+2.33%)** rebound after Fri’s AI wash; HSI **24,448.95 (−0.13%)**; Shanghai **+0.32%**; Kospi **−0.81%** — Japan/Taiwan tech bid, Korea still soft ([Baystreet](https://www.baystreet.ca/foreignmarketwrap/5060/Asia-Recovers-Monday); [Xinhua](https://english.news.cn/20261109/7e07225e90e74defa193c396a4966e54/c.html)).
-- **US tape frame:** Futures/cash attempt a selective rebound after last week’s AI/data-center rout; Nvidia leadership noise unsettles chips even as Dow/Russell lead the bounce ([Yahoo](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html); [Investing.com/Reuters](https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-rough-week-but-nvidia-unsettles-investors-5011103)).
-- **Rates / vol / oil:** US10Y ~**4.84%**; VIX ~**23** (off Fri **25.64**); WTI ~**$87** / Brent ~**$93** on diplomacy/oil soft ([CNA](https://www.channelnewsasia.com/business/stocks-find-firmer-ground-nvidia-woes-pose-fresh-test-oil-falls-6535041); [Yahoo ^TNX/^VIX/CL=F](https://finance.yahoo.com/)).
+- **Asia/HK (Tue):** Nikkei **60,459.58 (+2.87%)**; Kospi **+4.4%** to **5,239.13**; HSI **24,557.04 (+0.44%)**; Shanghai **+0.08%** — AI/tech rebound overnight before US CPI ([Yonhap Infomax](https://en.infomaxai.com/news/articleView.html?idxno=147870); [Baystreet](https://www.baystreet.ca/foreignmarketwrap/5061/Asia-Storms-Ahead); [Xinhua](https://english.news.cn/20261110/4de195432b8f41c0a23afd7b157e93f1/c.html)).
+- **US tape frame:** Hotter-than-expected Oct CPI + Waller hike talk reverse Mon’s tech repair; NQ/ES soft, Dow steadier ([Yahoo](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html); [CNBC](https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html)).
+- **Rates / vol / oil:** US10Y ~**4.96%** (jump post-print); VIX ~**21**; WTI ~**$84** / Brent ~**$90** still easing on diplomacy tone ([CNBC Treasuries](https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html); [Yahoo ^TNX/^VIX/CL=F](https://finance.yahoo.com/)).
 
 ## US premarket
 
-Cash open — table uses **session % vs Fri close**. Book-relevant: **LEN** and high-beta (**TSLA/SPCX**) participate in the rebound; **HSY** soft vs staples peers into cocoa still-elevated tape.
+Cash open post-CPI — table uses **session % vs Mon close**. Book-relevant: **LEN** (and builder peers) soft on the yield spike; **ODFL/SPCX** lag; staples/UNH steadier.
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | +0.81 |
-| NQ | Nasdaq 100 futures | +0.85 |
-| YM | Dow futures | +1.24 |
-| RTY | Russell 2000 futures | +1.50 |
-| UNH | UnitedHealth | +0.54 |
-| COST | Costco | -0.26 |
-| ODFL | Old Dominion | +0.76 |
-| TSLA | Tesla | +1.48 |
-| LEN | Lennar | +1.81 |
-| PG | Procter & Gamble | +0.17 |
-| HSY | Hershey | -1.69 |
-| SPCX | SPCX ETF | +1.30 |
+| ES | S&P 500 futures | -0.59 |
+| NQ | Nasdaq 100 futures | -0.99 |
+| YM | Dow futures | -0.20 |
+| RTY | Russell 2000 futures | -1.03 |
+| UNH | UnitedHealth | +0.40 |
+| COST | Costco | +0.14 |
+| ODFL | Old Dominion | -1.22 |
+| TSLA | Tesla | -0.21 |
+| LEN | Lennar | -2.61 |
+| PG | Procter & Gamble | +0.39 |
+| HSY | Hershey | +0.16 |
+| SPCX | SPCX ETF | -1.06 |
 
 ## Money flow / sector rotation
 
-Last **full session Fri Nov 6** (Yahoo). Narrow post-rout bounce: tech repaired some Thursday damage while staples lagged the recovery day.
+Last **full session Mon Nov 9** (Yahoo). Broad rebound day repaired tech/industrials after last week’s wash; staples lagged the bounce.
 
-- **Leaders (Fri):** **XLK (Technology) +1.45%**, **XLC (Communication Services) +0.43%**, **XLI (Industrials) +0.12%**.
-- **Laggards (Fri):** **XLP (Consumer Staples) −1.28%**, **XLB (Materials) −0.73%**, **XLRE (Real Estate) −0.68%**.
-- **~5-day (thru Fri):** **XLC +4.89%** / **XLRE +1.92%** / **XLY (Consumer Discretionary) +1.91%** lead; **XLE (Energy) −12.00%** / **XLK −8.23%** lag.
-- **Style (Fri):** **IWF (growth) +1.26%** / **IWM (small caps) +0.99%** / **IWD (value) −0.36%**.
+- **Leaders (Mon):** **XLI (Industrials) +3.82%**, **XLK (Technology) +3.73%**, **XLY (Consumer Discretionary) +2.92%**.
+- **Laggards (Mon):** **XLE (Energy) +0.52%**, **XLP (Consumer Staples) +0.90%**, **XLF (Financials) +1.45%** / **XLRE (Real Estate) +1.45%** (least green).
+- **~5-day (thru Mon):** **XLC (Communication Services) +7.08%** / **XLY +2.41%** / **XLRE +2.29%** lead; **XLE −7.90%** / **XLK −1.92%** lag.
+- **Style (Mon):** **IWM (small caps) +3.23%** / **IWF (growth) +2.92%** / **IWD (value) +2.00%**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Fri bounce repaired TSLA/SPCX/XLI sleeves without clearing Average-down gates; Mon oil/yield ease helps LEN optics into CPI, not valuation.
+- **Book map:** Mon rotation favored ODFL/TSLA/SPCX sleeves optically; Tue CPI/yield spike fights LEN and high-beta without clearing Average-down gates.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | -0.05 | +1.91 |
-| XLP | Consumer Staples | -1.28 | +0.74 |
-| XLE | Energy | -0.02 | -12.00 |
-| XLF | Financials | -0.59 | +1.15 |
-| XLV | Health Care | -0.06 | -0.04 |
-| XLI | Industrials | +0.12 | -2.83 |
-| XLB | Materials | -0.73 | -1.50 |
-| XLRE | Real Estate | -0.68 | +1.92 |
-| XLK | Technology | +1.45 | -8.23 |
-| XLU | Utilities | -0.39 | -0.69 |
-| XLC | Communication Services | +0.43 | +4.89 |
+| XLY | Consumer Discretionary | +2.92 | +2.41 |
+| XLP | Consumer Staples | +0.90 | +0.07 |
+| XLE | Energy | +0.52 | -7.90 |
+| XLF | Financials | +1.45 | +0.75 |
+| XLV | Health Care | +1.91 | +2.02 |
+| XLI | Industrials | +3.82 | -0.48 |
+| XLB | Materials | +1.91 | -1.36 |
+| XLRE | Real Estate | +1.45 | +2.29 |
+| XLK | Technology | +3.73 | -1.92 |
+| XLU | Utilities | +1.53 | +0.27 |
+| XLC | Communication Services | +2.45 | +7.08 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -71,100 +71,104 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** UNH/COST/ODFL ≈ **53.2%** (under soft top-3 **60%**). Cyclical **~25.8%**, staples **~37.3%**, high-beta **~17.6%** (under soft thematic **20%**). No hard single-name breach. MV ≈ **$30,782**.
-- **Underwater vs cost:** LEN **−21.0%**, SPCX **−9.2%**, HSY **−3.7%** (TSLA back green).
-- **Peer divergences:** **ODFL** hard lag Fri vs **XPO** (and soft vs **SAIA** Mon bounce); **HSY** soft Mon vs **MDLZ**; builders co-bid Mon (**LEN** with **DHI/PHM**). **SPCX** co-moves with **ARKX/UFO** on the rebound. Managed-care: **UNH** mild vs **HUM** strength.
+- **Bands:** UNH/COST/ODFL ≈ **53.2%** (under soft top-3 **60%**). Cyclical **~25.5%**, staples **~37.4%**, high-beta **~18.0%** (under soft thematic **20%**). No hard single-name breach. MV ≈ **$31,265**.
+- **Underwater vs cost:** LEN **−21.4%**, SPCX **−6.3%**, HSY **−4.6%** (TSLA still green).
+- **Peer divergences:** Builders **co-soft** post-CPI (**LEN** with **DHI/PHM**). **ODFL** softer than **XPO/SAIA** on the session. Theme: **SPCX** soft with **ARKX**. Managed-care quiet co-move.
 - **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX/ODFL/UNH. HSY valuation leg clears — still **no Consider** (soft size + elasticity Watch).
 
 ## Leading indicators (book map)
 
-- **Freddie (Thu Nov 5):** 30y **7.18%** / 15y **6.57%** — next print **Thu Nov 12** (noon ET; bond holiday Wed may thin rate sheets) ([Freddie Mac](https://www.freddiemac.com/pmms)).
-- **CPI / housing:** Oct CPI **Tue Nov 10 8:30 ET**; Veterans Day **Wed Nov 11** (bonds typically closed; equities usually open); existing-home sales also **Thu Nov 12** ([BLS](https://www.bls.gov/schedule/2026/11_sched.htm); [RealtyWire](https://realtywire.com/week-ahead-real-estate-nov-9-13/)).
-- **HSY / cocoa:** CC=F ~**$5,124** (softer) — elasticity Watch intact ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
-- **TSLA:** SO filed; public file still largely CBI — no NHTSA noncompliance finding ([Electrek](https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/)).
-- **ISM Manufacturing (Oct):** still **55.5** / Prices **75.2** — no new freight print ([PR Newswire/ISM](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html)).
+- **Oct CPI (Tue 8:30 ET):** headline **+0.4% MoM** (cons. **+0.3%**); core **+0.3%** (cons. **+0.2%**); **no YoY** (Oct 2025 data gap); shelter **+0.3%**; food **+0.5%**; energy **+0.7%** ([CNBC CPI](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html); [BLS](https://www.bls.gov/schedule/news_release/cpi.htm)).
+- **Fed path:** Waller flags Dec hike; opens door to **50 bp** if inflation stays hot; FedWatch ~**fully prices** Dec **+25 bp** ([CNBC Treasuries](https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html); [Reuters/Investing](https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579)).
+- **Freddie:** last **7.18% / 6.57%** (Nov 5); next **Thu Nov 12** noon ET (Veterans Day Wed may thin rate sheets) ([Freddie Mac](https://www.freddiemac.com/pmms)).
+- **HSY / cocoa:** CC=F ~**$4,835** (softer) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **TSLA:** SO filed; public file still largely CBI — no NHTSA noncompliance finding ([Electrek](https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/); [Yahoo Autos](https://autos.yahoo.com/policy-and-environment/articles/tesla-claims-steering-wheel-free-172628289.html)).
 - **SPCX:** next unlock remainder **Dec 8** (~**798M**) ([Panke unlocks](https://tape.panke.app/unlocks)).
-- **UNH / Fairview:** PI hearing canceled Oct 9; still **no PI/TRO order text**; AEP open ([Trademark Support](https://trademarksupport.com/news/fairview-health-v-unitedhealthcare-medicare-advantage-network-lanham-complaint-dminn/); [Justia](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)).
+- **ISM Manufacturing (Oct):** still **55.5** / Prices **75.2** — no new freight print ([PR Newswire/ISM](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html)).
+- **UNH / Fairview:** UHC **motion to dismiss** (Nov 9) argues directories corrected / case moot; Fairview still evaluating; AEP open ([Star Tribune](https://www.startribune.com/unitedhealthcare-calls-fairview-lawsuit-mudslinging-asks-judge-to-dismiss-it/601914195); [Justia](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)).
 
 ## What needs attention today
 
-- **CPI Tue → Freddie Thu** — LEN Review stays; Mon builder bounce is optics, not Average-down clearance.
-- **High-beta rebound** — TSLA/SPCX Watch on Q8 CBI opacity + Dec 8 overhang; bounce ≠ add.
-- **ODFL peer lag** — Fri wash left RS soft vs XPO/SAIA; Mid P/S keeps Hold, not Review unless tons break.
-- Quiet: UNH Fairview/AEP still open; COST/PG ballast; HSY Gate Yes soft-size only (Mon soft vs MDLZ).
+- **Hot CPI → yields → housing** — LEN Review stays; Mon builder bounce falsified into Freddie/existing-home sales Thu.
+- **High-beta giveback** — TSLA/SPCX Watch on Q8 CBI opacity + Dec 8 overhang; fade ≠ add.
+- **UNH Fairview** — dismissal motion is process, not cleared Watch until order/settlement.
+- Quiet: COST/PG ballast; ODFL Mid-P/S Hold; HSY Gate Yes soft-size only.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
-| UNH | Hold | Watch | Watch | Fairview/AEP open; soft-max adjacent |
+| UNH | Hold | Watch | Watch | Dismissal motion; soft-max adjacent |
 | COST | Hold | Hold | Hold | Mid/High; membership thesis intact |
-| ODFL | Hold | Hold | Hold | Peer lag; Mid P/S blocks add |
-| TSLA | Watch | Watch | Watch | Rebound; Q8 CBI still opaque |
-| LEN | Review | Review | Review | Bounce into CPI/Freddie; P/E filter |
+| ODFL | Hold | Hold | Hold | Soft vs peers; Mid P/S blocks add |
+| TSLA | Watch | Watch | Watch | Mild fade; Q8 CBI still opaque |
+| LEN | Review | Review | Review | Hot CPI/yields; P/E filter |
 | PG | Hold | Hold | Hold | Staples ballast; quiet compounder |
-| HSY | Watch | Watch | Watch | Soft vs MDLZ; Gate soft-size only |
-| SPCX | Watch | Watch | Watch | Rebound with theme; Dec 8 ahead |
+| HSY | Watch | Watch | Watch | Cocoa softer; Gate soft-size only |
+| SPCX | Watch | Watch | Watch | Soft with theme; Dec 8 ahead |
 
 ## Position notes (fundamental lens)
 
-### LEN — Review into CPI / Freddie week
-Mon peer co-bid with builders after hot-NFP digests; **P/E filter** and soft Q3/call falsifiers still block average-down. Thesis refresh, not Consider.
+### LEN — Review after hot CPI
+Yield spike reverses Mon co-bid with builders; **P/E filter** still blocks average-down. Thesis refresh into Freddie/existing homes, not Consider.
 
-### TSLA / SPCX — opacity + unlock, not cleared by rebound
+### UNH — Fairview process update
+UHC says directories fixed and seeks dismissal as moot; Fairview has not answered. Not a thesis clear — keep Watch with AEP open.
+
+### TSLA / SPCX — opacity + unlock unchanged
 Near-entire SO file remains confidential; SPCX Dec 8 remainder overhang. **Gates fail (TSLA Mid/High; SPCX n/a + unlock).**
 
-### ODFL — peer RS soft, thesis not broken
-Fri lag vs XPO after industrials wash; ISM already supportive. **Gate fails (Mid P/S).**
-
 ### HSY — Gate Yes soft-size only
-Cocoa softer; Mon lag vs MDLZ keeps elasticity Watch. **No Consider.**
+Cocoa softer; elasticity Watch intact. **No Consider.**
 
-**No material update:** COST/PG (quiet compounders); UNH (docket unchanged).
+**No material update:** COST/PG (quiet compounders); ODFL (peer soft, thesis not broken).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **Oct CPI (Tue)** and **Freddie Nov 12**, with **LEN Review** and **Hold policy** on size. Why: Mon rebound and softer oil/yields improve optics for housing/high-beta sleeves, but Average-down gates still fail (see valuation Gate + KPI CPI/Freddie/SO); rotation repaired tech without clearing concentration or event rules. Falsifier: soft CPI *and* LEN reclaim sustained peer RS with fwd P/E not High *and* Q8 materials posted without kill-edge — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **CPI digestion → Freddie Nov 12 / existing-home sales**, with **LEN Review** and **Hold policy** on size. Why: hot Oct CPI and Waller hike talk reverse Mon’s housing/high-beta optics and keep Average-down gates closed (see valuation Gate + KPI CPI/Freddie); Veterans Day Wed is a bond holiday with equities open — thin rates tape into Thu prints. Falsifier: clearly soft PPI *and* Freddie/purchase demand turn *and* LEN reclaim sustained peer RS with fwd P/E not High — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Review]** LEN thesis/size through CPI Tue + Freddie Thu; Hold policy — P/E filter still blocks average-down. Evidence: valuation Gate + builders co-bid is optics into the print cluster. Confidence: **High**. Falsifier: sustained peer RS with P/E band not High *and* purchase demand turns.
+1. **[Review]** LEN thesis/size through Freddie Thu + existing-home sales; Hold policy — P/E filter still blocks average-down. Evidence: valuation Gate + hot CPI/yield spike falsified Mon builder bounce. Confidence: **High**. Falsifier: sustained peer RS with P/E band not High *and* purchase demand turns.
 
-2. **[Watch]** TSLA Cybercab Q8 CBI decision / any NHTSA escalation; SPCX Dec 8 overhang — no add into rebound. Evidence: SO filed but public file opaque; theme still event-bound. Confidence: **High**. Falsifier: Q8 materials posted without kill-edge *or* adverse NHTSA action that trips kill criteria.
+2. **[Watch]** TSLA Cybercab Q8 CBI decision / any NHTSA escalation; SPCX Dec 8 overhang — no add into fade. Evidence: SO filed but public file opaque; theme still event-bound. Confidence: **High**. Falsifier: Q8 materials posted without kill-edge *or* adverse NHTSA action that trips kill criteria.
 
-3. **[Watch]** Oct CPI path into Dec hike odds and Freddie; no size tilt on Mon yield ease alone. Evidence: hot NFP already re-opened hike door; housing KPIs still soft YoY. Confidence: **Med**. Falsifier: clearly soft CPI that sticks 10y/Freddie lower *without* re-accelerating core stickiness.
+3. **[Watch]** Fairview dismissal briefing + PPI Fri path into Dec hike odds — no UNH size tilt on process headlines alone. Evidence: UHC moot motion is incremental, not cleared; CPI already re-opened hike door. Confidence: **Med**. Falsifier: court order/settlement that removes directory risk *or* soft PPI that sticks 10y/Freddie lower without re-accelerating core.
 
 ## Explicit non-actions
 
-- Do not treat Mon LEN/TSLA/SPCX bounce or softer oil as Add clearance (gates fail / HSY soft-size only).
+- Do not treat Mon LEN/TSLA/SPCX rebound or softer oil as Add clearance (gates fail / HSY soft-size only).
 - Do not average-down LEN or SPCX on drawdown vs cost.
-- Do not size-tilt UNH or ODFL on peer noise alone.
+- Do not size-tilt ODFL on one-session peer lag alone.
 
 ## Delta vs yesterday
 
-- Weekend/Mon Asia rebound (Nikkei **+2.33%**) after Fri’s ~−6% Japan/Korea wash; oil softer into diplomacy headlines.
-- Money-flow window rolls to **Fri Nov 6** bounce (XLK repaired; XLP lagged) vs Thu’s AI rout table.
-- TSLA back **green vs cost**; high-beta ~**17.6%**; attention shifts to **CPI Tue / Freddie Thu** from post-jobs digestion alone.
+- **Oct CPI printed hot** (+0.4% / core +0.3%); 10y jumped; builders/high-beta fade vs Mon rebound Watch setup.
+- **UNH Fairview:** UHC motion to dismiss (Nov 9) claiming directories corrected — new process item.
+- Asia Tue AI rebound (Nikkei/Kospi strong) then US post-CPI fade; money-flow window rolls to **Mon Nov 9** bounce table.
 
 ## Open questions for next run
 
-1. Does Oct CPI (Tue) keep Dec hike odds elevated enough to reverse today’s builder bounce into Freddie Thu?
-2. Any public NHTSA ruling on Tesla’s Q8 CBI request, or redacted SO materials posted?
-3. Any Fairview PI/TRO order text or settlement headline before AEP progresses further?
+1. Does Freddie Nov 12 reverse or extend the Nov 5 ease after hot CPI + Waller hike talk?
+2. Any Fairview opposition/order on UHC’s dismissal motion, or settlement headline?
+3. Any public NHTSA ruling on Tesla’s Q8 CBI request, or redacted SO materials posted?
 
 ## Sources
 
-- [Yahoo — Dow/S&P/Nasdaq futures Mon Nov 9 / Nvidia focus](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html)
-- [Investing.com/Reuters — futures rise; Nvidia unsettles](https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-rough-week-but-nvidia-unsettles-investors-5011103)
-- [Baystreet — Asia recovers Monday](https://www.baystreet.ca/foreignmarketwrap/5060/Asia-Recovers-Monday)
-- [Xinhua — HSI −0.13% to 24,448.95](https://english.news.cn/20261109/7e07225e90e74defa193c396a4966e54/c.html)
-- [CNA — stocks firmer; Nvidia test; oil falls](https://www.channelnewsasia.com/business/stocks-find-firmer-ground-nvidia-woes-pose-fresh-test-oil-falls-6535041)
-- [BLS — Nov 2026 release schedule (CPI Nov 10 / PPI Nov 13)](https://www.bls.gov/schedule/2026/11_sched.htm)
-- [Freddie Mac — PMMS 7.18% Nov 5](https://www.freddiemac.com/pmms)
-- [RealtyWire — CPI / existing-home sales week ahead](https://realtywire.com/week-ahead-real-estate-nov-9-13/)
-- [Electrek — Tesla SO answers confidential](https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/)
-- [Trademark Support — Fairview docket status](https://trademarksupport.com/news/fairview-health-v-unitedhealthcare-medicare-advantage-network-lanham-complaint-dminn/)
+- [CNBC — Oct CPI +0.4% / core +0.3%](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html)
+- [BLS — CPI release schedule](https://www.bls.gov/schedule/news_release/cpi.htm)
+- [Yahoo — futures/tape Tue Nov 10 / CPI focus](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html)
+- [CNBC live — S&P futures drop post-CPI; Waller](https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html)
+- [CNBC — 10y jumps; Waller half-point door](https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html)
+- [Investing.com/Reuters — feeble open after hot CPI](https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579)
+- [Yonhap Infomax — Asia AI rally Tue](https://en.infomaxai.com/news/articleView.html?idxno=147870)
+- [Baystreet — Asia storms ahead](https://www.baystreet.ca/foreignmarketwrap/5061/Asia-Storms-Ahead)
+- [Xinhua — HSI +0.44% to 24,557.04](https://english.news.cn/20261110/4de195432b8f41c0a23afd7b157e93f1/c.html)
+- [Star Tribune — UHC seeks Fairview dismissal](https://www.startribune.com/unitedhealthcare-calls-fairview-lawsuit-mudslinging-asks-judge-to-dismiss-it/601914195)
 - [Justia — Fairview v. UnitedHealthcare 26-cv-4245](https://dockets.justia.com/docket/minnesota/mndce/0:2026cv04245/236502)
+- [Electrek — Tesla SO answers confidential](https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/)
+- [Yahoo Autos — Cybercab CBI filing digest](https://autos.yahoo.com/policy-and-environment/articles/tesla-claims-steering-wheel-free-172628289.html)
+- [Freddie Mac — PMMS 7.18% Nov 5](https://www.freddiemac.com/pmms)
 - [Panke — SPCX unlock calendar](https://tape.panke.app/unlocks)
 - [PR Newswire/ISM — Oct Manufacturing PMI 55.5](https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html)
 - [Yahoo Finance — session % / futures / sectors / KPIs](https://finance.yahoo.com/)
