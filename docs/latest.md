@@ -1,58 +1,58 @@
-# Portfolio brief — 2026-11-24
+# Portfolio brief — 2026-11-25
 
 > Not investment advice. Research and decision-support only. Verify prices, filings, and news before acting.
 
-**Session:** Tue cash open — digest **Huang/NVDA reinstatement** bounce; **Williams** hawkish; flash PMI cooler; into **Wed PCE/GDP**. Marks as-of **2026-11-24** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Mon Nov 23 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Mon Nov 23** (Yahoo).
+**Session:** Wed cash open — **Oct PCE + Q3 GDP 2nd est. printed**; Asia AI washout day-2; into **Thanksgiving Thu closed** / Fri early close. Marks as-of **2026-11-25** Yahoo; Qty/cost as-of **2026-08-02**. Premarket % table = **session % vs Tue Nov 24 complete close** (Yahoo continuous futures / equities). Money-flow table = last **full session Tue Nov 24** (Yahoo).
 
 ## Market regime (US + Asia/HK overnight)
 
-- **Asia/HK (Tue):** Nikkei **58,644.63 (+3.91%)** reopen post–Labor Thanksgiving; Kospi **5,006.03 (+6.32%)**; Taiex ~**+9%**; HSI **22,219.65 (−0.73%)**; Shanghai **3,548.37 (+0.27%)** — chip/AI relief on Huang reinstatement; HK lags ([Global Market Now](https://globalmarketnow.org/news/asia-stocks-today-taiex-record-point-gain-kospi-nvidia-huang/); [The Edge](https://edgeconsultancykw.com/asia-market-wrap-24-november-2026/); [CNA](https://www.channelnewsasia.com/business/asian-stocks-rally-jensen-huang-nvidia-return-revives-ai-trade-6576636)).
-- **US tape frame:** Mon NVDA-led repair then Tue futures/cash fade as AI bounce is tested; Dec hike still ~**95%** (+25 bp) priced ([Yahoo live](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html); [Investing/Reuters](https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750)).
-- **Rates / vol / oil:** US10Y ~**4.90%**; VIX ~**29.2** (back up vs Mon); WTI ~**$81** / Brent ~**$88** ([Yahoo ^TNX/^VIX/CL=F/BZ=F](https://finance.yahoo.com/)).
+- **Asia/HK (Wed):** Nikkei **57,011.62 (−2.78%)**; Kospi **4,697.51 (−6.16%)**; Taiex **−4.80%**; HSI **21,966.01 (−1.14%)** (7th down day); Shanghai **3,476.47 (−2.03%)** — Huang-rally fade + tariff-probe headlines ([Nikkei Indexes](https://indexes.nikkei.co.jp/en/nkave/archives/summary?dt=11252026&idx=nk225); [The Edge](https://edgeconsultancykw.com/asia-market-wrap-25-november-2026/); [AP](https://apnews.com/article/stock-markets-ai-earnings-oil-10044b4fb55d3ff20fde9ba9e9acaab1)).
+- **US tape frame:** Sticky PCE + hot GDP revision extend NQ/risk-off; Dec **+25 bp** ~**98%** priced ([CNBC PCE](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html); [Reuters/Investing](https://www.investing.com/news/economy-news/us-stock-futures-extend-losses-after-economic-data-5050842); [PANews/CME FedWatch](https://www.panews.io/articles/01a212fa-f9ad-76c8-a045-5f06ce2b3c8f)).
+- **Rates / vol / oil:** US10Y ~**4.84%** (eased on risk-off); VIX ~**31.7**; WTI ~**$83** / Brent ~**$90** ([Yahoo ^TNX/^VIX/CL=F/BZ=F](https://finance.yahoo.com/)).
 
 ## US premarket
 
-Open-session NQ fade after Mon Huang/AI spike; book **COST** soft vs warehouse peers; high-beta mild giveback; **LEN** flat with builders into PCE (see attention).
+Post-print NQ hard soft; book **SPCX/TSLA** lead the high-beta washout; staples/builders mild green; **UNH** co-soft with managed-care peers (see attention).
 
 | Symbol | Name | Premarket % |
 |--------|------|-------------|
-| ES | S&P 500 futures | -1.14 |
-| NQ | Nasdaq 100 futures | -2.00 |
-| YM | Dow futures | -0.52 |
-| RTY | Russell 2000 futures | -0.68 |
-| UNH | UnitedHealth | -1.40 |
-| COST | Costco | -2.36 |
-| ODFL | Old Dominion | -1.49 |
-| TSLA | Tesla | -0.82 |
-| LEN | Lennar | +0.12 |
-| PG | Procter & Gamble | +0.28 |
-| HSY | Hershey | -0.13 |
-| SPCX | SPCX ETF | -0.97 |
+| ES | S&P 500 futures | -2.11 |
+| NQ | Nasdaq 100 futures | -3.22 |
+| YM | Dow futures | -1.45 |
+| RTY | Russell 2000 futures | -1.47 |
+| UNH | UnitedHealth | -1.10 |
+| COST | Costco | +0.23 |
+| ODFL | Old Dominion | -0.31 |
+| TSLA | Tesla | -5.07 |
+| LEN | Lennar | +0.89 |
+| PG | Procter & Gamble | +0.52 |
+| HSY | Hershey | +1.44 |
+| SPCX | SPCX ETF | -7.80 |
 
 ## Money flow / sector rotation
 
-Last **full session Mon Nov 23** (Yahoo). Broad repair day after Fri wipeout; tech led; energy lagged.
+Last **full session Tue Nov 24** (Yahoo). Defensive/healthcare repair vs tech giveback after Mon XLK spike.
 
-- **Leaders (Mon):** **XLK (Technology) +8.97%**, **XLY (Consumer Discretionary) +3.97%**, **XLI (Industrials) +3.90%**, **XLC (Communication Services) +3.57%**.
-- **Laggards (Mon):** **XLE (Energy) −1.06%**, **XLP (Consumer Staples) −0.09%**, **XLRE (Real Estate) +1.04%**, **XLV (Health Care) +1.23%**.
-- **~5-day (thru Mon):** **XLK −1.44%** / **XLY −1.03%** least soft; **XLE −6.00%** / **XLV −4.50%** / **XLF (Financials) −4.35%** lag.
-- **Style (Mon):** **IWF (growth) +7.97%** / **IWM (small caps) +3.56%** / **IWD (value) +2.00%**.
+- **Leaders (Tue):** **XLV (Health Care) +2.95%**, **XLP (Consumer Staples) +1.66%**, **XLRE (Real Estate) +1.31%**, **XLE (Energy) +0.97%**.
+- **Laggards (Tue):** **XLK (Technology) −3.26%**, **XLI (Industrials) −0.53%**, **XLU (Utilities) +0.18%**, **XLB (Materials) +0.54%**.
+- **~5-day (thru Tue):** **XLY +0.53%** / **XLP +0.46%** least soft; **XLE −4.59%** / **XLK −3.78%** / **XLI −1.91%** lag.
+- **Style (Tue):** **IWD (value) +0.63%** / **IWM (small caps) +0.53%** / **IWF (growth) −1.77%**.
 - **Fund flows:** No sourced ETF flow print — **price leadership only**.
-- **Book map:** Mon XLK/XLY repair lifted TSLA/SPCX sleeve without clearing Mid/High or Dec 8; Tue fade tests that; XLV soft vs UNH policy Watch; XLP quiet Mon then COST idio soft Tue.
+- **Book map:** Tue XLV repair ≠ UNH Gate clear; Wed XLK/AI fade hits TSLA/SPCX sleeve; XLP ballast (COST/PG/HSY) holds up vs NQ.
 
 | ETF | Sector | 1D % | ~5D % |
 |-----|--------|------|-------|
-| XLY | Consumer Discretionary | +3.97 | -1.03 |
-| XLP | Consumer Staples | -0.09 | -2.40 |
-| XLE | Energy | -1.06 | -6.00 |
-| XLF | Financials | +1.98 | -4.35 |
-| XLV | Health Care | +1.23 | -4.50 |
-| XLI | Industrials | +3.90 | -1.93 |
-| XLB | Materials | +3.23 | -3.05 |
-| XLRE | Real Estate | +1.04 | -3.05 |
-| XLK | Technology | +8.97 | -1.44 |
-| XLU | Utilities | +1.48 | -1.81 |
-| XLC | Communication Services | +3.57 | -3.01 |
+| XLY | Consumer Discretionary | +0.68 | +0.53 |
+| XLP | Consumer Staples | +1.66 | +0.46 |
+| XLE | Energy | +0.97 | -4.59 |
+| XLF | Financials | +0.83 | -1.68 |
+| XLV | Health Care | +2.95 | -0.28 |
+| XLI | Industrials | -0.53 | -1.91 |
+| XLB | Materials | +0.54 | -1.32 |
+| XLRE | Real Estate | +1.31 | -0.30 |
+| XLK | Technology | -3.26 | -3.78 |
+| XLU | Utilities | +0.18 | -0.05 |
+| XLC | Communication Services | +0.82 | -0.77 |
 
 ## Valuation bands (fwd P/S house metric)
 
@@ -71,112 +71,107 @@ Method: spots/ranges from `valuation.md` (as-of 2026-08-19; trailing P/S proxy f
 
 ## Portfolio health (quant lens)
 
-- **Bands:** COST/UNH/TSLA ≈ **52.4%** (under soft top-3 **60%**). Cyclical **~25.6%**, staples **~39.1%**, high-beta **~18.7%** (soft thematic **20%**). No hard single-name breach. MV ≈ **$29,973**.
-- **Underwater vs cost:** LEN **−28.0%**, SPCX **−12.1%**, HSY **−5.4%** (TSLA green).
-- **Peer divergences:** Tue **COST** soft vs **WMT/BJ** (material). UNH still softer than **HUM/CI** on Stars stack (Mon washout digested). LTL / builders / theme ETFs = co-moves.
+- **Bands:** COST/UNH/TSLA ≈ **52.1%** (under soft top-3 **60%**). Cyclical **~26.0%**, staples **~39.8%**, high-beta **~17.3%** (under soft thematic **20%** after washout). No hard single-name breach. MV ≈ **$30,134**.
+- **Underwater vs cost:** LEN **−24.4%**, SPCX **−22.9%**, HSY **−1.5%** (TSLA green).
+- **Peer divergences:** Wed **SPCX** hard lag vs **ARKX/UFO**; **TSLA** soft vs **GM/F**. UNH/HUM/CI and builders = co-moves; COST co-moves WMT/BJ; ODFL mild RS vs XPO/SAIA.
 - **Average-down gate:** **Fails** for LEN/COST/TSLA/SPCX/ODFL/UNH. HSY valuation leg clears — still **no Consider** (soft size + cocoa Watch).
 
 ## Leading indicators (book map)
 
-- **Williams (Nov 23):** inflation “too high”; “work to do”; Dec path data-dependent but hike lean intact ([NY Fed](https://www.newyorkfed.org/newsevents/speeches/2026/wil261123); [CNBC](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html); [Reuters/Investing](https://www.investing.com/news/economy-news/fed-has-work-to-do-to-lower-inflation-williams-says-5046374)).
-- **Flash PMI (Nov):** composite **54.6** / services **54.7** / mfg **54.5** — still expanding, coolest in ~3–4 months ([S&P Global](https://www.pmi.spglobal.com/Public/Home/PressRelease/18abd879261e464fbcc1bc22d4ea64eb); [FXStreet](https://www.fxstreet.com/news/us-sp-manufacturing-pmi-retreats-to-545-services-pmi-declines-to-547-202611231502)).
-- **Freddie (Nov 19):** still the prior print — next weekly window Thu ([Freddie Mac](https://www.freddiemac.com/pmms)).
-- **UNH / Stars + CRUSH + suit:** CMS Stars reform (est. multi-year MA payment cut) + CRUSH comments to **Jan 19, 2027** + 2027 stars suit + Fairview; AEP ends **Dec 7** (see prior KPI sources; Leerink/Fierce digest on uneven Stars hit).
-- **SPCX / Dec 8:** unlock ~**798M** still **Dec 8**; Mon AI bounce then Tue soft with theme peers ([Orbit Economics](https://orbiteconomics.com/spacex-lockup-schedule/); [Motley Fool](https://www.fool.com/investing/2026/11/17/spacex-short-interest-equals-around-3-of-the-float/)).
-- **HSY / cocoa:** CC=F live ~**$5,415** (bid firmer) ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
-- **TSLA:** Q8 CBI still opaque; AI-beta Watch into PCE ([Electrek](https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/)).
-- **Wed PCE + Q3 GDP 2nd est.:** **8:30 ET** ([BEA](https://www.bea.gov/news/schedule)).
+- **Oct PCE printed:** headline **+0.3% MoM / +3.8% YoY**; core **+0.3% / +3.3%**; income **+0.7%**; spending **+0.3%**; saving rate **4.1%** ([BEA](https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026); [CNBC](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html)).
+- **Q3 GDP 2nd est.:** **+4.3%** SAAR (was **+3.4%**); private final sales **+5.8%** ([BEA](https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026)).
+- **Claims:** initial **189k** (week ended Nov 21) ([Reuters/Investing](https://www.investing.com/news/economy-news/us-stock-futures-extend-losses-after-economic-data-5050842)).
+- **Freddie (Nov 19):** still prior print — next weekly window Thu (holiday week; confirm release) ([Freddie Mac](https://www.freddiemac.com/pmms)).
+- **UNH / Stars + CRUSH + suit:** unchanged stack; AEP ends **Dec 7**; comments to **Jan 19, 2027** (see prior KPI sources).
+- **SPCX / Dec 8:** unlock ~**798M** still **Dec 8**; Wed theme lag + merger-committee chatter ([Orbit Economics](https://orbiteconomics.com/spacex-lockup-schedule/); [Benzinga](https://www.benzinga.com/markets/equities/26/11/63615246/spacex-shares-fall-premarket-gary-black-tesla-merger-valuation); [Quartz/FT](https://qz.com/tesla-spacex-appoint-five-directors-merger-negotiations-112426)).
+- **HSY / cocoa:** CC=F live ~**$5,350** ([Yahoo CC=F](https://finance.yahoo.com/quote/CC%3DF/)).
+- **TSLA:** Q8 CBI still opaque; merger-talk beta with SPCX ([Electrek](https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/)).
 
 ## What needs attention today
 
-- **Wed PCE/GDP** — last major inflation print before Dec FOMC; Hold policy on size into thin Thanksgiving week.
-- **UNH policy stack** — Stars reform + CRUSH + suit still bind; Tue mild lag ≠ Gate clear.
-- **LEN Review** — Williams/Freddie/Dec hike lean still block P/E filter; flat builders ≠ add.
-- **COST peer lag** — Tue soft vs WMT/BJ; Mid/High still blocks Consider; membership thesis otherwise quiet.
-- Quiet: ODFL Mid-P/S Hold; PG ballast; HSY Gate soft-size + cocoa; SPCX/TSLA Watch into Dec 8 / Q8.
+- **Sticky PCE + hot GDP** — Dec hike nearly fully priced; Hold policy into Thanksgiving thin tape.
+- **High-beta washout (SPCX/TSLA)** — theme lag + merger chatter; Dec 8 still event-blinds adds; Mid/High gate fails.
+- **UNH policy stack** — Stars/CRUSH/suit still bind; co-soft with peers ≠ Gate clear.
+- **LEN Review** — mild builder green + softer 10y do **not** clear P/E filter with Freddie/hike lean intact.
+- Quiet: COST/PG/HSY staples ballast; ODFL Mid-P/S Hold.
 
 ## Position ratings (dual lens)
 
 | Ticker | Quant | Fundamental | Net | Note (≤12 words) |
 |--------|-------|-------------|-----|------------------|
 | UNH | Hold | Watch | Watch | Stars + CRUSH; Fairview open |
-| COST | Hold | Hold | Hold | Mid/High; Tue peer lag only |
-| ODFL | Hold | Hold | Hold | Mid P/S; LTL co-move |
-| TSLA | Watch | Watch | Watch | AI fade day; Mid/High + Q8 |
-| LEN | Review | Review | Review | Williams/Freddie; P/E blocks |
+| COST | Hold | Hold | Hold | Mid/High; staples ballast |
+| ODFL | Hold | Hold | Hold | Mid P/S; mild LTL RS |
+| TSLA | Watch | Watch | Watch | AI/merger fade; Mid/High + Q8 |
+| LEN | Review | Review | Review | Sticky PCE; P/E blocks |
 | PG | Hold | Hold | Hold | Staples ballast; quiet |
 | HSY | Watch | Watch | Watch | Cocoa bid; Gate soft-size |
-| SPCX | Watch | Watch | Watch | Dec 8 overhang; theme n/a |
+| SPCX | Watch | Watch | Watch | Dec 8 + theme lag; n/a |
 
 ## Position notes (fundamental lens)
 
+### PCE/GDP — macro so-what
+Sticky core + upward GDP revision keep hike lean; 10y ease is risk-off, not a housing green light.
+
+### SPCX / TSLA — washout ≠ Gate clear
+Wed hard lag vs theme peers / autos; special-committee / dilution chatter is narrative, not unlock clearance. Soft-band high-beta still under **20%** — **no Consider**.
+
 ### UNH — policy Watch intact
-Stars-reform digest continues (Leerink: steeper 4★+ mix hit vs peers if finalized); CRUSH + 2027 stars suit + Fairview/AEP still open. Low P/S does **not** clear Gate on thesis/event stack.
+No new kill-trip today; Low P/S still fails Gate on thesis/event stack.
 
 ### LEN — Review intact
-Williams “work to do” keeps Dec hike lean; no new demand print. Flat with DHI/PHM ≠ P/E clear.
-
-### COST — peer lag, Gate still No
-Tue soft vs WMT/BJ is relative, not a membership-kill. Mid P/S + High P/E still block average-down.
-
-### SPCX / TSLA — bounce digest ≠ unlock/Q8 clear
-Mon Huang/AI repair then Tue soft with ARKX/UFO. Soft-band high-beta still under **20%** — **no Consider**.
+PCE does not de-risk affordability; P/E filter still blocks.
 
 ### HSY — Gate Yes soft-size only
-Cocoa bid firmer; elasticity Watch intact. **No Consider.**
+Cocoa firm; elasticity Watch intact. **No Consider.**
 
-**No material update:** ODFL / PG (quiet co-moves; Mid bands).
+**No material update:** COST / ODFL / PG (quiet co-moves; Mid bands).
 
 ## Portfolio recommendation (book-level)
 
-**[Watch]** through **Wed PCE/GDP** and **UNH policy stack**, with **LEN Review** and **Hold policy** on size into Thanksgiving week. Why: Mon XLK repair then Tue fade does not clear Mid/High or Dec 8; Williams keeps hike lean; housing sleeve still fails P/E filter (see valuation Gate + KPI). Falsifier: soft PCE *and* Freddie/10y ease with LEN peer RS and fwd P/E not High *and* Stars/CRUSH path de-escalates — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
+**[Watch]** through **Thanksgiving thin tape** into **Dec FOMC**, with sticky **PCE resolved** and **LEN Review** still in force; **Hold policy** on size. Why: Asia/US AI fade fights the high-beta sleeve without clearing Mid/High or Dec 8; healthcare rotation repair does not clear UNH policy Gate; housing still fails P/E filter (see valuation Gate + KPI). Falsifier: cool follow-through on 10y/Freddie *and* LEN peer RS with fwd P/E not High *and* Stars/CRUSH path de-escalates — otherwise stance stays Watch/Hold policy. Sleeve tilt: none.
 
 ## Ranked suggestions (max 3)
 
-1. **[Watch]** Wed PCE/GDP print into Thanksgiving thin tape — no size tilt on Mon AI bounce or Tue fade. Evidence: BEA schedule + Williams lean (see KPI). Confidence: **High**. Falsifier: print clearly cools Dec path *and* 10y/Freddie ease without a new housing demand break.
+1. **[Watch]** Post-PCE Dec path into Thanksgiving/Fri early close — no size tilt on AI washout or staples green. Evidence: BEA PCE/GDP + FedWatch (~98% +25 bp). Confidence: **High**. Falsifier: clear FedSpeak that de-prices Dec *and* 10y/Freddie ease without a new housing demand break.
 
-2. **[Watch]** UNH through Stars-reform comment window + CRUSH + stars suit + Fairview/AEP — no average-down on policy washout. Evidence: HHS/Fierce/Federal Register stack; Gate still No on thesis. Confidence: **High**. Falsifier: rule text that clearly trips kill criteria *or* court/settlement that removes directory/bonus overhang.
+2. **[Watch]** SPCX/TSLA through Dec 8 unlock + Q8 CBI opacity — Hold policy on washout/merger chatter. Evidence: session peer lag + lockup calendar; Gate Mid/High / n/a. Confidence: **High**. Falsifier: unlock digested with sustained theme RS *and* (for TSLA) Q8 transparency that does not trip kill criteria.
 
-3. **[Review]** LEN thesis/size after Williams hike lean into soft pending/HMI — Hold policy on flat builders. Evidence: KPI Freddie/Williams + valuation Gate. Confidence: **High**. Falsifier: sustained peer RS with P/E band not High *and* purchase demand turns on the next housing print.
+3. **[Review]** LEN thesis/size after sticky PCE into soft pending/HMI — Hold policy on mild builder bounce. Evidence: KPI PCE/Freddie/Williams + valuation Gate. Confidence: **High**. Falsifier: sustained peer RS with P/E band not High *and* purchase demand turns on the next housing print.
 
 ## Explicit non-actions
 
-- Do not treat Mon TSLA/SPCX bounce, Tue COST peer lag, or UNH washout-vs-cost as Add clearance (gates fail).
-- Do not size-tilt HSY on cocoa alone (Gate soft-size only).
+- Do not treat Wed SPCX/TSLA washout-vs-cost, UNH policy lag, or HSY Gate as Add clearance.
+- Do not size-tilt COST/PG on staples relative strength alone (Mid bands).
 
 ## Delta vs yesterday
 
-- **Williams printed** (hawkish inflation / Dec lean) and **flash PMI printed** (cooler but >50) — resolve Mon open questions; focus shifts to **Wed PCE/GDP**.
-- **Asia chip rebound** on Huang reinstatement; US Tue fades Mon NQ repair; SPCX underwater deepens vs Mon mid-session marks as bounce faded.
-- Money-flow window rolls to **Mon Nov 23** (XLK +8.97% lead; XLE sole soft); COST Tue peer lag vs WMT/BJ is new relative flag.
+- **Oct PCE + Q3 GDP 2nd est. printed** (sticky core; GDP **4.3%**) — resolves Wed open question; Dec hike ~**98%**.
+- **Asia AI washout day-2** (Kospi/Taiex hard); US NQ soft; **SPCX/TSLA** lead book red on theme/merger tape.
+- Money-flow window rolls to **Tue Nov 24** (**XLV +2.95%** lead; **XLK −3.26%** lag); high-beta weight eases vs soft **20%** band.
 
 ## Open questions for next run
 
-1. Wed PCE/GDP — core MoM/YoY vs street, and any immediate Dec FedWatch / 10y move?
-2. Any Fairview opposition/order, or clearer UNH Stars-reform / CRUSH exposure sizing from management?
-3. Thu Freddie print — does mortgage reaccel stick after Williams, or ease into Dec 8 / FOMC week?
+1. Thu Freddie (holiday week) — does the **7.28%** reaccel stick, delay, or ease into Dec 8 / FOMC week?
+2. Any Fairview opposition/order, or clearer UNH Stars-reform / CRUSH exposure sizing over the holiday window?
+3. Owner confirm: SPCX instrument label (AXS ETF vs listed SpaceX) before treating Dec 8 as equity unlock vs theme proxy?
 
 ## Sources
 
-- [Global Market Now — Asia Tue wrap](https://globalmarketnow.org/news/asia-stocks-today-taiex-record-point-gain-kospi-nvidia-huang/)
-- [The Edge — Asia Market Wrap Nov 24](https://edgeconsultancykw.com/asia-market-wrap-24-november-2026/)
-- [CNA — Asia AI relief on Huang](https://www.channelnewsasia.com/business/asian-stocks-rally-jensen-huang-nvidia-return-revives-ai-trade-6576636)
-- [NVIDIA IR — Huang reinstated](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
-- [CNBC — Huang return / governance risks](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html)
-- [Yahoo live — US tape Nov 24](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html)
-- [Investing — futures fade after NVDA rally](https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750)
-- [NY Fed — Williams Nov 23 speech](https://www.newyorkfed.org/newsevents/speeches/2026/wil261123)
-- [CNBC — Williams inflation / hikes](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html)
-- [Reuters/Investing — Williams “work to do”](https://www.investing.com/news/economy-news/fed-has-work-to-do-to-lower-inflation-williams-says-5046374)
-- [S&P Global — flash US PMI Nov](https://www.pmi.spglobal.com/Public/Home/PressRelease/18abd879261e464fbcc1bc22d4ea64eb)
-- [FXStreet — PMI 54.5 / 54.7](https://www.fxstreet.com/news/us-sp-manufacturing-pmi-retreats-to-545-services-pmi-declines-to-547-202611231502)
-- [Fierce Healthcare — CMS MA Stars proposal](https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes)
-- [HHS — CMS MA competition / Stars reform](https://www.hhs.gov/press-room/cms-proposes-medicare-advantage-reforms-competition-quality-beneficiary-choice.html)
+- [BEA — Personal Income and Outlays, October 2026](https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026)
+- [BEA — GDP second estimate Q3 2026](https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026)
+- [CNBC — Oct PCE 3.8% / core 3.3%](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html)
+- [Reuters/Investing — futures extend losses post-data](https://www.investing.com/news/economy-news/us-stock-futures-extend-losses-after-economic-data-5050842)
+- [PANews — CME FedWatch ~97.8% Dec +25 bp](https://www.panews.io/articles/01a212fa-f9ad-76c8-a045-5f06ce2b3c8f)
+- [Nikkei Indexes — Wed Nov 25 close](https://indexes.nikkei.co.jp/en/nkave/archives/summary?dt=11252026&idx=nk225)
+- [The Edge — Asia Market Wrap Nov 25](https://edgeconsultancykw.com/asia-market-wrap-25-november-2026/)
+- [AP — Asia AI rout day-2](https://apnews.com/article/stock-markets-ai-earnings-oil-10044b4fb55d3ff20fde9ba9e9acaab1)
+- [Yahoo live — US tape Nov 25](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html)
+- [Benzinga — SPCX premarket / merger dilution chatter](https://www.benzinga.com/markets/equities/26/11/63615246/spacex-shares-fall-premarket-gary-black-tesla-merger-valuation)
+- [Quartz — Tesla/SpaceX special committees](https://qz.com/tesla-spacex-appoint-five-directors-merger-negotiations-112426)
 - [Federal Register — CRUSH proposed rule](https://www.federalregister.gov/documents/2026/11/19/2026-23461/medicare-medicaid-and-marketplace-programs-comprehensive-regulations-to-uncover-suspicious)
-- [Healthcare Finance — UNH stars suit](https://www.healthcarefinancenews.com/news/unitedhealthcare-sues-cms-over-star-ratings)
+- [HHS — CMS MA Stars / competition reform](https://www.hhs.gov/press-room/cms-proposes-medicare-advantage-reforms-competition-quality-beneficiary-choice.html)
 - [Freddie Mac — PMMS](https://www.freddiemac.com/pmms)
 - [Orbit Economics — SPCX lockup Dec 8](https://orbiteconomics.com/spacex-lockup-schedule/)
-- [Motley Fool — SPCX Dec 8 / short interest](https://www.fool.com/investing/2026/11/17/spacex-short-interest-equals-around-3-of-the-float/)
-- [BEA — Oct PCE / Q3 GDP schedule Nov 25](https://www.bea.gov/news/schedule)
 - [Electrek — Tesla SO answers confidential](https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/)
 - [Yahoo Finance — session % / futures / sectors / KPIs](https://finance.yahoo.com/)
